@@ -16,7 +16,6 @@ fluidPage(
                   value = 30)
     ),
     
-   
     actionButton("do", 
                  "Click Me")
     
