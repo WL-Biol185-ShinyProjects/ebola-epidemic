@@ -17,6 +17,10 @@ fluidPage(
     ),
     
    
+    actionButton("do", 
+                 "Click Me")
+    
+    
     mainPanel(
       plotOutput("distPlot")
     )
