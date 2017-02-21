@@ -5,8 +5,9 @@ fluidPage(
   
  
   titlePanel("Old Faithful Geyser Data"),
+
   
-  
+
   sidebarLayout(
     sidebarPanel(
       sliderInput("bins",
@@ -16,8 +17,9 @@ fluidPage(
                   value = 30)
     ),
     
+
     actionButton("do", 
-                 "Click Me")
+                 "Click Me"),
     
     
     mainPanel(
@@ -25,5 +27,8 @@ fluidPage(
     )
   )
 )
+
+sliderInput("slider2", label = h3("Slider Range"), min = 0, 
+            max = 100, value = c(40, 60))
 
 
