@@ -1,0 +1,92 @@
+---
+title: "New Beginning table"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#This Rnotebook shows the code that enabled to utilize the ggmap package to find the location coordinates for the various locations in our data. To stay under the max daily amount for free ggmap usage, I had to utilize the unique function and then apply its results to the data set as a whole. I then combined that data to our original data set titled, Ebola_data
+
+```{r}
+
+library(ggplot2)
+
+ 
+```
+```{r}
+
+cases_death_by_district_and_date_2_ <- read.csv("~/ebola-epidemic/cases_death_by_district_and_date(2).csv", stringsAsFactors=FALSE)
+
+ 
+```
+
+```{r}
+
+test <- unique(cases_death_by_district_and_date_2_[c("Country", "Localite")]) 
+
+
+```
+```{r}
+testcharacter <- paste(test$Localite, test$Country, sep = " ") 
+```
+
+```{r}
+
+library(ggmap)
+
+
+```
+
+```{r}
+testcoord <- geocode(testcharacter)
+
+```
+
+```{r}
+unique_column <- matrix(testcharacter, nrow = 129, ncol = 1)
+```
+```{r}
+location_coord = data.frame(address = unique_column,                              lat = testcoord$lat, lon = testcoord$lon)
+```
+```{r}
+cases_death_by_district_and_date_2_$address <- paste(cases_death_by_district_and_date_2_$Localite, cases_death_by_district_and_date_2_$Country, sep = " ")
+```
+
+```{r}
+row.names(location_coord) <-location_coord$address
+```
+
+```{r}
+cases_death_by_district_and_date_2_$long <- location_coord[cases_death_by_district_and_date_2_$address, "lon"]
+```
+```{r}
+cases_death_by_district_and_date_2_$lat <- location_coord[cases_death_by_district_and_date_2_$address, "lat"]
+```
+
+```{r}
+cases_death_by_district_and_date_2_$categorylower <- tolower(cases_death_by_district_and_date_2_$Category)
+```
+
+```{r}
+library(leaflet)
+
+map <- leaflet() %>% setView(lng = -9.311828, lat = 10.38279, zoom = 4) 
+
+map %>% addTiles() %>% addMarkers(location_coord$lon, location_coord$lat)
+
+
+ 
+```
+```{r}
+datafordeath <- filter(cases_death_by_district_and_date_2_, categorylower == "deaths")
+```
+
+```{r}
+leaflet(data = datafordeath) %>% 
+     setView(lng = -9.311828, lat = 10.38279, zoom = 4) %>% 
+     addTiles() %>% 
+     addCircleMarkers(radius = ~Value, label = ~address, clusterOptions = markerClusterOptions())
+
+```
