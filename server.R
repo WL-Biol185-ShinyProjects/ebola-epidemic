@@ -2,19 +2,46 @@ library(shiny)
 library(shinydashboard)
 library(dplyr)
 library(leaflet)
+library(scales)
 
 
 function(input, output) {
+  #####################################################
+  
   datavariable <- read.table("datafordeathfile")
   
   countrydata <- read.table("c_w_nationalfile")
   
   sociodata <- read.table("EbolaGDPfile")
   
+  casesdata <- read.table("c_w_casesfile")
+  
+  cases_countrydata <- read.table("national_casesfile")
+  
+  
+  #################################################
   
   datavariable$NewDate <- as.Date(as.character(datavariable$NewDate))
   datavariable$Localite <- as.character(datavariable$Localite)
   datavariable$Value <- as.numeric(datavariable$Value)
+  
+  
+  
+  countrydata$NewDate <- as.Date(as.character(countrydata$NewDate))
+  
+  
+  
+  
+  casesdata$NewDate <- as.Date(as.character(casesdata$NewDate))
+  casesdata$Localite <- as.character(casesdata$Localite)
+  casesdata$Value <- as.numeric(casesdata$Value)
+  
+  
+  cases_countrydata$NewDate <- as.Date(as.character(cases_countrydata$NewDate))
+  
+  
+  #########################################
+  
   
   
   output$Map <- renderLeaflet({
@@ -24,6 +51,8 @@ function(input, output) {
     #print(class(datavariable$Localite))
     #print(filter(datavariable, as.numeric(NewDate) == as.numeric(input$Dateslider)))
     #class(datavariable$numericvalue)
+    
+    
     
      datavariable %>% 
       
@@ -66,10 +95,59 @@ function(input, output) {
     
   })
   
+  #######################################
+  
+  
+  output$casesMap <- renderLeaflet({
+    
+    #print(datavariable %>%  filter(NewDate == as.Date(input$Dateslider)))
+    #print(as.Date(input$Dateslider))
+    #print(class(datavariable$Localite))
+    #print(filter(datavariable, as.numeric(NewDate) == as.numeric(input$Dateslider)))
+    #class(datavariable$numericvalue)
+    
+    
+    
+    casesdata %>% 
+      
+      
+      filter(NewDate == min(casesdata$NewDate)) %>%
+      
+      
+      
+      leaflet() %>%
+      setView(lng = -9.311828, lat = 10.38279, zoom = 4) %>%
+      addTiles() %>%
+      addCircles(radius = ~Value*150, 
+                 label = ~Localite, 
+                 fillOpacity = .05)
+    
+  })
   
   
   
-  
+  observe({
+    
+    if(input$casesslider %in% casesdata$NewDate) {
+      
+      
+      
+      casesdata %>% 
+        
+        filter(NewDate == as.Date(input$casesslider)) %>%
+        
+        leafletProxy("casesMap", data=.) %>% 
+        
+        clearShapes() %>%
+        
+        addCircles(radius = ~Value*150, 
+                   label = ~Localite, 
+                   fillOpacity = .05) 
+      
+      
+    }
+    
+  })
   
  ########################################### 
   
@@ -88,6 +166,35 @@ function(input, output) {
   })
  
 
+  #################################
+  
+  
+  
+  
+  
+  output$cases_graph <- renderPlot({
+    
+    
+    casesdata %>%
+      
+      filter(NewDate == as.Date(input$casesslider)) %>% 
+      
+      
+      ggplot(aes(Localite, Value)) + geom_point(aes(colour = Localite)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))
+    
+    
+    
+    
+  })
+  
+  
+  
+  
+  
+  
+  
+  
+  
  ############################### 
   
   
@@ -97,12 +204,29 @@ function(input, output) {
     countrydata %>% 
       
     
-    ggplot(aes(NewDate, Numericvalue)) + geom_point(aes(colour=Country)) + theme(axis.text.x = element_text(size = 6, angle = 60, hjust = 1))
+    #ggplot(aes(NewDate, Numericvalue)) + geom_point(aes(colour=Country)) + theme(axis.text.x = element_text(size = 6, angle = 90, hjust = 1)) 
       
-      
+    ggplot(aes(NewDate, Numericvalue)) + geom_point(aes(colour=Country)) 
       
       
   })
+  
+  
+#################################################  
+  
+  output$casescountrygraph <- renderPlot({
+    
+    cases_countrydata %>%
+      
+      ggplot(aes(NewDate, Value)) + geom_point(aes(colour=Country))
+    
+    
+  })
+  
+  
+  
+  
+   
 ######################################################  
   
 
@@ -111,7 +235,7 @@ function(input, output) {
     
     sociodata %>% 
       
-      ggplot(aes(input$selectX, input$selectY)) + geom_point(aes(colour=Country))
+      ggplot(aes_string(input$selectX, input$selectY)) + geom_point(aes(colour=Country))
     
     
     })
