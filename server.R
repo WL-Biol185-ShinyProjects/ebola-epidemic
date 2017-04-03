@@ -9,6 +9,8 @@ function(input, output) {
   
   countrydata <- read.table("c_w_nationalfile")
   
+  sociodata <- read.table("EbolaGDPfile")
+  
   
   datavariable$NewDate <- as.Date(as.character(datavariable$NewDate))
   datavariable$Localite <- as.character(datavariable$Localite)
@@ -107,9 +109,9 @@ function(input, output) {
 
   output$GDPgraph <- renderPlot ({
     
-    countrydata %>% 
+    sociodata %>% 
       
-      ggplot(aes(input$selectX, input$selectY)) + geom_point(aes(size=GDP, colour=Country))
+      ggplot(aes(input$selectX, input$selectY)) + geom_point(aes(colour=Country))
     
     
     })
