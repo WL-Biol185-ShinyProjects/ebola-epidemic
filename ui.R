@@ -3,18 +3,30 @@ library(shinydashboard)
 
 
 
-dashboardPage(
+dashboardPage(skin = "green",
   
   
   dashboardHeader(title = "Basic dashboard"),
   
   
   
-  dashboardSidebar(sidebarMenu(
+  dashboardSidebar(width = 100,
+    
+    
+    sidebarMenu(
    
+     menuItem("Intro", tabName = "Introduction"),
+    
      menuItem("Localite", tabName = "dashboard"),
     
-     menuItem("Country", tabName = "Country"))),
+     
+     menuItem("Country", tabName = "Country"),
+     
+     menuItem("Sources", tabName = "Source")
+     
+     )
+     
+     ),
   
   
   
@@ -24,7 +36,19 @@ dashboardPage(
   
   dashboardBody(
     
+    
+    
+    
+    
+
     tabItems(
+      
+      tabItem("Introduction",
+              
+              fluidRow( 
+                box(p("Ebola is....."))
+              )),
+      
       
       tabItem("dashboard",
     
@@ -34,7 +58,7 @@ dashboardPage(
                  box(background = "black", leafletOutput("Map", height = 250)),
                  
                  box(
-                   title = "Controls", background = "black",
+                   title = "Controls", background = "black", status = "primary",
                    #sliderInput("Dateslider", "Date:", 
                    #min = min(datafordeath$NewDate), 
                    #max = max(datafordeath$NewDate), 
@@ -72,25 +96,39 @@ dashboardPage(
               
               #plotOutput("GDPgraph", height = "400", width = "600")))
                 
+              
                 
-              box(selectInput("selectX", label = h3("Select box for X"), 
-                              choices = c("Household Size" = c_w_national$Household_Size, 
-                                          "Percent Urban" = c_w_national$Percent_Urban,  
-                                          "Percent with Internet" = c_w_national$Percent_using_Internet), 
+                  
+              box(status = "primary", background = "black", selectInput("selectX", label = h3("Select box for X"), 
+                              choices = c("Household Size" = EbolaGDP$Household_Size, 
+                                          "Percent Urban" = EbolaGDP$Percent_Urban,  
+                                          "Percent with Internet" = EbolaGDP$Percent_using_Internet), 
                               selected = "Household Size"),
                   
-              box(selectInput("selectY", label = h3("Select box for Y"), 
-                              choices = c("Household Size" = c_w_national$Household_Size, 
-                                          "Percent Urban" = c_w_national$Percent_Urban,  
-                                          "Percent with Internet" = c_w_national$Percent_using_Internet), 
-                              selected = "Household Size"),
+              box(status = "primary", background = "black", selectInput("selectY", label = h3("Select box for Y"),
+                              choices = c("Household Size" = EbolaGDP$Household_Size, 
+                                          "Percent Urban" = EbolaGDP$Percent_Urban,  
+                                          "Percent with Internet" = EbolaGDP$Percent_using_Internet), 
+                              selected = "Household Size")))),
+              
+              fluidRow(
+                
+                box(plotOutput("GDPgraph", height = "400", width = "600")))
                       
-              plotOutput("GDPgraph", height = "400", width = "600")))
+              
               
               
                 
   )
-    ))))
+    ,
+  
+  tabItem("Source",
+          
+          fluidRow( 
+            box(p("The sources we used are...."))
+          ))
+  
+  )) )
       
           
 
