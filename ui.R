@@ -47,6 +47,7 @@ dashboardPage(skin = "green",
               
               fluidRow( 
                 box(p("Ebola is....."))
+                
               )),
       
       
