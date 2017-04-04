@@ -6,7 +6,7 @@ library(shinydashboard)
 dashboardPage(skin = "green",
   
   
-  dashboardHeader(title = "Tracking The Spread"),
+  dashboardHeader(title = "Tracking The Spread: Caroline Burke and Patrick Murphy", titleWidth = 600),
   
   
   
