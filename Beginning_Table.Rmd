@@ -184,6 +184,36 @@ datafordeath$long <- as.numeric(datafordeath$long)
 datafordeath$lat <- as.numeric(datafordeath$lat)
 ```
 
+
+
+```{r}
+datafordeath <- left_join(datafordeath, EbolaGDP, by= c("Country"))
+```
+
+```{r}
+colnames(datafordeath)[11] <- "Timeline"
+```
+
+```{r}
+colnames(datafordeath)[14] <- "Household_Size"
+```
+
+```{r}
+colnames(datafordeath)[16] <- "Percent_Urban"
+```
+
+```{r}
+colnames(datafordeath)[17] <- "Percent_of_GDP_given_to_Health_Sector"
+```
+
+```{r}
+colnames(datafordeath)[18] <- "Percent_Using_the_Internet"
+```
+
+##############################
+
+
+###############################
 ```{r}
 c_w_national <- left_join(c_w_national, EbolaGDP, by= c("Country"))
 ```
@@ -197,6 +227,8 @@ EbolaGDP$GDP <- gsub(",", "", EbolaGDP$GDP)
 ```{r}
 EbolaGDP$GDP <- as.numeric(EbolaGDP$GDP)
 ```
+
+
 
 ##################
 
@@ -224,6 +256,38 @@ c_w_cases$Value <- gsub(",", "", c_w_cases$Value)
 
 ```{r}
 c_w_cases$Value <- as.numeric(c_w_cases$Value)
+```
+
+```{r}
+c_w_cases <- left_join(c_w_cases, EbolaGDP, by= c("Country"))
+```
+
+
+
+
+
+```{r}
+colnames(c_w_cases)[11] <- "Timeline"
+```
+
+```{r}
+colnames(c_w_cases)[12] <- "Household_Size"
+```
+
+```{r}
+colnames(c_w_cases)[13] <- "GDP"
+```
+
+```{r}
+colnames(c_w_cases)[14] <- "Percent_Urban"
+```
+
+```{r}
+colnames(c_w_cases)[15] <- "Percent_of_GDP_given_to_Health_Sector"
+```
+
+```{r}
+colnames(c_w_cases)[16] <- "Percent_Using_the_Internet"
 ```
 
 
@@ -307,11 +371,12 @@ leaflet(data = datafordeath) %>%
 c_w_national %>% ggplot(aes(NewDate, Numericvalue)) +geom_point(aes(colour=Country))
 ```
 
+
 ```{r}
 ggplot(datafordeath, aes(datafordeath$NewDate, datafordeath$Value)) + geom_point(aes(colour=Localite, alpha=0.5))
 ```
 ```{r}
-ggplot(datafordeath, aes(datafordeath$Localite, datafordeath$numericvalue)) + geom_bar(stat = "identity")
+datafordeath %>% ggplot(aes(Timeline, Value)) + geom_point(aes(colour=Localite))
 
 ```
 

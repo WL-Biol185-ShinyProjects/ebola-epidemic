@@ -21,7 +21,7 @@ function(input, output) {
   
   #################################################
   
-  datavariable$NewDate <- as.Date(as.character(datavariable$NewDate))
+  datavariable$Timeline <- as.Date(as.character(datavariable$Timeline))
   datavariable$Localite <- as.character(datavariable$Localite)
   datavariable$Value <- as.numeric(datavariable$Value)
   
@@ -32,7 +32,7 @@ function(input, output) {
   
   
   
-  casesdata$NewDate <- as.Date(as.character(casesdata$NewDate))
+  casesdata$Timeline <- as.Date(as.character(casesdata$Timeline))
   casesdata$Localite <- as.character(casesdata$Localite)
   casesdata$Value <- as.numeric(casesdata$Value)
   
@@ -57,7 +57,7 @@ function(input, output) {
      datavariable %>% 
       
       
-     filter(NewDate == min(datafordeath$NewDate)) %>%
+     filter(Timeline == min(datavariable$Timeline)) %>%
        
       
  
@@ -74,13 +74,13 @@ function(input, output) {
   
   observe({
     
-   if(input$Dateslider %in% datavariable$NewDate) {
+   if(input$Dateslider %in% datavariable$Timeline) {
   
      
      
     datavariable %>% 
        
-    filter(NewDate == as.Date(input$Dateslider)) %>%
+    filter(Timeline == as.Date(input$Dateslider)) %>%
     
     leafletProxy("Map", data=.) %>% 
     
@@ -111,7 +111,7 @@ function(input, output) {
     casesdata %>% 
       
       
-      filter(NewDate == min(casesdata$NewDate)) %>%
+      filter(Timeline == min(casesdata$Timeline)) %>%
       
       
       
@@ -128,13 +128,13 @@ function(input, output) {
   
   observe({
     
-    if(input$casesslider %in% casesdata$NewDate) {
+    if(input$casesslider %in% casesdata$Timeline) {
       
       
       
       casesdata %>% 
         
-        filter(NewDate == as.Date(input$casesslider)) %>%
+        filter(Timeline == as.Date(input$casesslider)) %>%
         
         leafletProxy("casesMap", data=.) %>% 
         
@@ -157,12 +157,12 @@ function(input, output) {
       datavariable %>% 
       
       
-      filter(NewDate == as.Date(input$Localitegraphslider)) %>%
+      filter(Timeline == as.Date(input$Localitegraphslider)) %>%
      
     
     
    
-    ggplot(aes(Localite, Value)) + geom_point(aes(colour = Localite)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))
+    ggplot(aes(Localite, Value)) + geom_point(aes_string(colour = input$selectcolordeath, size = input$selectsociodeath)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))
   })
  
 
@@ -177,14 +177,10 @@ function(input, output) {
     
     casesdata %>%
       
-      filter(NewDate == as.Date(input$casesgraphslider)) %>% 
+      filter(Timeline == as.Date(input$casesgraphslider)) %>% 
       
       
-      ggplot(aes(Localite, Value)) + geom_point(aes(colour = Localite)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))
-    
-    
-    
-    
+      ggplot(aes(Localite, Value)) + geom_point(aes_string(colour = input$selectcolorcases, size = input$selectsociocases)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))
   })
   
   
