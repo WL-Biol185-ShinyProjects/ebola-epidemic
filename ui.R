@@ -159,7 +159,9 @@ In organizing our data we discovered the importance of data reporting and data e
          tabItem("Source",
           
           fluidRow( 
-            box(p("The sources we used are...."))))
+            box(p("The sources we used are... Ebola virus disease. (n.d.). Retrieved April 02, 2017, from http://www.who.int/mediacentre/factsheets/fs103/en/
+
+Market research your competitors and peers trust. (n.d.). Retrieved April 02, 2017, from http://www.euromonitor.com/"))))
   
   
       
