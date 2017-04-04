@@ -157,7 +157,7 @@ function(input, output) {
       datavariable %>% 
       
       
-      filter(NewDate == as.Date(input$Dateslider)) %>%
+      filter(NewDate == as.Date(input$Localitegraphslider)) %>%
      
     
     
@@ -177,7 +177,7 @@ function(input, output) {
     
     casesdata %>%
       
-      filter(NewDate == as.Date(input$casesslider)) %>% 
+      filter(NewDate == as.Date(input$casesgraphslider)) %>% 
       
       
       ggplot(aes(Localite, Value)) + geom_point(aes(colour = Localite)) + theme(axis.text.x = element_text(angle = 60, hjust = 1))

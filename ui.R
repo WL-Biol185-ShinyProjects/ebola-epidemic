@@ -56,18 +56,31 @@ dashboardPage(skin = "green",
       tabItem("dashboard",
               
               fluidRow(
-                 box(background = "black", leafletOutput("Map", height = 250)),
+                 box(background = "black", leafletOutput("Map", height = 400)),
                  
-                 box(
-                   title = "Controls", background = "black", status = "primary",
-                  
-                   sliderInput("Dateslider", "Looping Animation:", 
-                               min(datafordeath$NewDate), 
-                               max(datafordeath$NewDate), 
-                               min(datafordeath$NewDate),
-                               step = 1, 
-                               animate=
-                                 animationOptions(interval=300, loop=TRUE)))),
+                 
+                 
+                 box(title = "Controls", background = "black", status = "primary",
+                     
+                     sliderInput("Dateslider", "Looping Animation:", 
+                                 min(datafordeath$NewDate), 
+                                 max(datafordeath$NewDate), 
+                                 min(datafordeath$NewDate),
+                                 step = 1, 
+                                 animate=
+                                   animationOptions(interval=75, loop=TRUE)),
+                 
+                 
+                     
+                     
+                     sliderInput("Localitegraphslider", "Graph Slider",
+                             min = min(datafordeath$NewDate), 
+                             max = max(datafordeath$NewDate),
+                             value = min(datafordeath$NewDate)))
+                   
+                
+              
+                 ),
                
                
               fluidRow(
@@ -91,8 +104,20 @@ dashboardPage(skin = "green",
                               min(c_w_cases$NewDate),
                               step = 1, 
                               animate=
-                                animationOptions(interval=300, loop=TRUE)))),
+                                animationOptions(interval=75, loop=TRUE)),
+                  
+                  sliderInput("casesgraphslider", "Graph Slider",
+                              
+                              min = min(c_w_cases$NewDate), 
+                              max = max(c_w_cases$NewDate), 
+                              value = min(c_w_cases$NewDate))
+                  
+                  )),
             
+              
+              
+              
+              
               
               fluidRow(
                 plotOutput("cases_graph", height = "400", width = "1000"))),
