@@ -3,6 +3,7 @@ title: "Beginning_Table"
 output: html_document
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -71,12 +72,14 @@ cases_death_by_district_and_date_2_$categorylower <- tolower(cases_death_by_dist
 
 
 ```{r}
-c_wo_national <- cases_death_by_district_and_date_2_                                                           %>% filter(Localite != "National")                                                                        %>% filter(Localite != "National  ")                                                                      %>% filter(Localite != "Mamou")                                                                           %>% filter(Localite != "Lab_")                                                                            %>% filter(Localite != "Kati")                                                                            %>% filter(Localite != "Tougu_")  %>%        filter(Localite != "Dabola and Djingaraye") %>%
-  filter(Localite != "For_cariah")
+c_wo_national <- cases_death_by_district_and_date_2_                                                           %>% filter(Localite != "National")                                                                          %>% filter(Localite != "National  ")                                                                        %>% filter(Localite != "Mamou")                                                                             %>% filter(Localite != "Lab_")                                                                              %>% filter(Localite != "Kati")                                                                              %>% filter(Localite != "Tougu_")                                                                            %>%  filter(Localite != "Dabola and Djingaraye")                                                            %>% filter(Localite != "For_cariah")
 ```
 ```{r}
 c_w_death <- c_wo_national %>% filter(Value != "0")
 ```
+
+
+
 
 ```{r}
 c_w_national <- cases_death_by_district_and_date_2_ %>%            
@@ -185,6 +188,71 @@ datafordeath$lat <- as.numeric(datafordeath$lat)
 c_w_national <- left_join(c_w_national, EbolaGDP, by= c("Country"))
 ```
 
+###############
+
+```{r}
+EbolaGDP$GDP <- gsub(",", "", EbolaGDP$GDP)
+```
+
+```{r}
+EbolaGDP$GDP <- as.numeric(EbolaGDP$GDP)
+```
+
+##################
+
+
+ 
+```{r}
+c_w_cases <- c_wo_national %>% filter(Category == "Cases")
+```
+
+
+```{r}
+c_w_cases$NewDate <- as.Date(c_w_cases$Date, format = "%m/%d/%Y")
+```
+
+
+```{r}
+c_w_cases <- c_w_cases %>% filter(Value != "0")
+```
+
+
+```{r}
+c_w_cases$Value <- gsub(",", "", c_w_cases$Value)
+```
+
+
+```{r}
+c_w_cases$Value <- as.numeric(c_w_cases$Value)
+```
+
+
+ #########################################
+ 
+ 
+```{r}
+national_cases <- cases_death_by_district_and_date_2_ %>% filter(Localite == "National")  %>%                                  filter(Category == "Cases")
+```
+
+```{r}
+
+national_cases$NewDate <- as.Date(national_cases$Date, format = "%m/%d/%Y")
+
+```
+
+
+```{r}
+national_cases$Value <- gsub(",", "", national_cases$Value)
+```
+
+```{r}
+national_cases$Value <- as.numeric(national_cases$Value)
+
+```
+
+################################################
+
+
 ```{r}
 write.table(datafordeath, file = "datafordeathfile")
 ```
@@ -196,6 +264,17 @@ write.table(c_w_national, file= "c_w_nationalfile")
 ```{r}
 write.table(EbolaGDP, file = "EbolaGDPfile")
 ```
+
+```{r}
+write.table(c_w_cases, file = "c_w_casesfile")
+```
+
+```{r}
+write.table(national_cases, file = "national_casesfile")
+```
+
+
+#################################
 
 ```{r}
 uniquedeath <- unique(datafordeath$Localite)
