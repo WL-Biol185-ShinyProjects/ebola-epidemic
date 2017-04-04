@@ -322,4 +322,7 @@ c_w_national %>% ggplot(aes(Household_Size, Household_Size)) + geom_point(aes(co
 ```{r}
 c_w_national %>% ggplot(aes(Percent.Urban, Health.as.percent.of.GDP)) + geom_point(aes(size=GDP.x, colour=Country))
 ```
+```{r}
+cases_death_by_district_and_date_2_ %>% filter(Localite == "National") %>% ggplot(aes(Date, Value))
+```
 
