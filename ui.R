@@ -84,9 +84,9 @@ dashboardPage(skin = "green",
       tabItem("Introduction",
               
               fluidRow( 
-                column(width=6,
+                column(width=12,
 
-                box(background = "black", width = 6, p("Ebola Virus Disease is a severe and sometimes fatal disease spread to humans from wild animals and is transmitted from human to human. It is transmitted by contact with blood, organs, or bodily fluids of an infected individual. It first appeared in 1976. These first outbreaks originated in villages of Central Africa near tropical rainforests, but the most recent epidemic affected major urban areas as well as rural areas. Controlling the disease spread has posed much difficulty in past outbreaks. There are no Ebola vaccines or licensed treatments proven to neutralize the virus. The most recent outbreak (March 2014) was the largest and most complex outbreak since the discovery of the disease.  Guinea, Liberia, and Sierra Leone were the countries most affected. They all have weak health systems, lack resources, and have recently emerged from conflict and instability.  This is a factor that led to why these countries were so badly affected. There are three genera and 5 species identified. The Zaire species caused the 2014 outbreak. This outbreak was so large that WHO Director-General declared it a Public Health Emergency of International Concern under the International Health Regulations.
+                box(background = "black", p("Ebola Virus Disease is a severe and sometimes fatal disease spread to humans from wild animals and is transmitted from human to human. It is transmitted by contact with blood, organs, or bodily fluids of an infected individual. It first appeared in 1976. These first outbreaks originated in villages of Central Africa near tropical rainforests, but the most recent epidemic affected major urban areas as well as rural areas. Controlling the disease spread has posed much difficulty in past outbreaks. There are no Ebola vaccines or licensed treatments proven to neutralize the virus. The most recent outbreak (March 2014) was the largest and most complex outbreak since the discovery of the disease.  Guinea, Liberia, and Sierra Leone were the countries most affected. They all have weak health systems, lack resources, and have recently emerged from conflict and instability.  This is a factor that led to why these countries were so badly affected. There are three genera and 5 species identified. The Zaire species caused the 2014 outbreak. This outbreak was so large that WHO Director-General declared it a Public Health Emergency of International Concern under the International Health Regulations.
 Due to both our interest in medicinal science and spread of infectious disease we decided to focus our project on this outbreak.")
                     
                     ),
@@ -94,7 +94,7 @@ Due to both our interest in medicinal science and spread of infectious disease w
                 
                 
                 fluidRow(
-                box(width = 6, background = "green", img(src = "ebola_ecology_800px.jpg")))
+                box(background = "green", width=8, img(src = "ebola_ecology_800px.jpg")))
                 
               
               
