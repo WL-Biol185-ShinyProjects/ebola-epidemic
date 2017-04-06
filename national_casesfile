@@ -1,0 +1,666 @@
+"Country" "Localite" "Category" "Value" "Date" "Sources" "Link" "long" "lat" "categorylower" "Timeline"
+"1" "Guinea" "National" "Cases" 122 "3/31/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-1-avril-2014" -118.0949123 34.0802806 "cases" 14-03-31
+"2" "Guinea" "National" "Cases" 127 "4/1/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-2-avril-2014-0" -118.0949123 34.0802806 "cases" 14-04-01
+"3" "Guinea" "National" "Cases" 143 "4/4/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-april-2014" -118.0949123 34.0802806 "cases" 14-04-04
+"4" "Guinea" "National" "Cases" 151 "4/7/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-7-avril-2014" -118.0949123 34.0802806 "cases" 14-04-07
+"5" "Liberia" "National" "Cases" 21 "4/8/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF-Liberia%20SitRep%20%2312%20Ebola%20Viral%20Disease%208%20April%202014_1.pdf" -118.0949123 34.0802806 "cases" 14-04-08
+"6" "Liberia" "National" "Cases" 22 "4/9/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20No.%2013%20Ebola%20Viral%20Disease%209%20April%202014_2.pdf" -118.0949123 34.0802806 "cases" 14-04-09
+"7" "Guinea" "National" "Cases" 157 "4/10/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-10-april-2014" -118.0949123 34.0802806 "cases" 14-04-10
+"8" "Liberia" "National" "Cases" 25 "4/10/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola%20Virus%20Disease%20Epidemic%20in%20Liberia%2010%20April%20report_2.pdf" -118.0949123 34.0802806 "cases" 14-04-10
+"9" "Guinea" "National" "Cases" 159 "4/11/14" "WHO" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-14-avril-2014" -118.0949123 34.0802806 "cases" 14-04-11
+"10" "Liberia" "National" "Cases" 26 "4/13/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/13aprilEbola%20Virus%20Disease%20Epidemic%20in%20Liberia.%20Sitrep%20No.11%281%29_0.pdf" -118.0949123 34.0802806 "cases" 14-04-13
+"11" "Guinea" "National" "Cases" 168 "4/14/14" "WHO" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-14-avril-2014" -118.0949123 34.0802806 "cases" 14-04-14
+"12" "Guinea" "National" "Cases" 197 "4/16/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-17-avril-2014" -118.0949123 34.0802806 "cases" 14-04-16
+"13" "Liberia" "National" "Cases" 27 "4/16/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep16%20Ebola%20Viral%20Disease%2016Apr2014_1.pdf" -118.0949123 34.0802806 "cases" 14-04-16
+"14" "Guinea" "National" "Cases" 203 "4/17/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-19-avril-2014" -118.0949123 34.0802806 "cases" 14-04-17
+"15" "Liberia" "National" "Cases" 27 "4/18/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/18th%20%20April%202014%20pdf%281%29_0.pdf" -118.0949123 34.0802806 "cases" 14-04-18
+"16" "Guinea" "National" "Cases" 208 "4/20/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-22-april-2014" -118.0949123 34.0802806 "cases" 14-04-20
+"17" "Liberia" "National" "Cases" 27 "4/21/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF-Liberia%20SitRep%20%2318%20Ebola%20Viral%20Disease%2021%20April%202014_2.pdf" -118.0949123 34.0802806 "cases" 14-04-21
+"18" "Guinea" "National" "Cases" 218 "4/23/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-25-april-2014" -118.0949123 34.0802806 "cases" 14-04-23
+"19" "Liberia" "National" "Cases" 35 "4/23/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/24_april_Ebola%20Viral%20Disease-Sit%20Rep-%2016-%2024th%20%20April%202014_1.pdf" -118.0949123 34.0802806 "cases" 14-04-23
+"20" "Liberia" "National" "Cases" 35 "4/24/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-655734_3.pdf" -118.0949123 34.0802806 "cases" 14-04-24
+"21" "Guinea" "National" "Cases" 224 "4/26/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-28-april-2014" -118.0949123 34.0802806 "cases" 14-04-26
+"22" "Guinea" "National" "Cases" 226 "5/1/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-2-may-2014" -118.0949123 34.0802806 "cases" 14-05-01
+"23" "Liberia" "National" "Cases" 13 "5/2/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20Ebola%20Virus%20Disease%20SitRep%2020_0.pdf" -118.0949123 34.0802806 "cases" 14-05-02
+"24" "Guinea" "National" "Cases" 231 "5/3/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-may-2014" -118.0949123 34.0802806 "cases" 14-05-03
+"25" "Guinea" "National" "Cases" 235 "5/5/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-8-mai-2014" -118.0949123 34.0802806 "cases" 14-05-05
+"26" "Guinea" "National" "Cases" 236 "5/7/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-9-may-2014" -118.0949123 34.0802806 "cases" 14-05-07
+"27" "Liberia" "National" "Cases" 12 "5/9/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20%2321%20Ebola%20Viral%20Disease%20-%209%20May%202014_1.pdf" -118.0949123 34.0802806 "cases" 14-05-09
+"28" "Guinea" "National" "Cases" 233 "5/10/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-10-may-2014" -118.0949123 34.0802806 "cases" 14-05-10
+"29" "Guinea" "National" "Cases" 248 "5/12/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-15-may-2014" -118.0949123 34.0802806 "cases" 14-05-12
+"30" "Guinea" "National" "Cases" 258 "5/23/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-23-may-2014" -118.0949123 34.0802806 "cases" 14-05-23
+"31" "Guinea" "National" "Cases" 291 "5/28/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-30-may-2014" -118.0949123 34.0802806 "cases" 14-05-28
+"32" "Sierra Leone" "National" "Cases" 50 "5/29/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-663958_2.pdf" -118.0949123 34.0802806 "cases" 14-05-29
+"33" "Guinea" "National" "Cases" 328 "6/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-01-june-2014" -118.0949123 34.0802806 "cases" 14-06-01
+"34" "Sierra Leone" "National" "Cases" 79 "6/1/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-664928_3.pdf" -118.0949123 34.0802806 "cases" 14-06-01
+"35" "Liberia" "National" "Cases" 13 "6/2/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20%2322%20Ebola%20Viral%20Disease%202%20June%202014_0.pdf" -118.0949123 34.0802806 "cases" 14-06-02
+"36" "Guinea" "National" "Cases" 344 "6/3/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-june-2014" -118.0949123 34.0802806 "cases" 14-06-03
+"37" "Guinea" "National" "Cases" 351 "6/5/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-7-june-2014" -118.0949123 34.0802806 "cases" 14-06-05
+"38" "Sierra Leone" "National" "Cases" 81 "6/5/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-665698_2.pdf" -118.0949123 34.0802806 "cases" 14-06-05
+"39" "Sierra Leone" "National" "Cases" 89 "6/6/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Sierra%20Leone%20Ebola%20sitrep%206th%20June.pdf.pdf" -118.0949123 34.0802806 "cases" 14-06-06
+"40" "Liberia" "National" "Cases" 14 "6/7/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola%20Viral%20Disease-Sit%20Rep-%2027-%207th%20June%202014%20pdf.pdf.pdf" -118.0949123 34.0802806 "cases" 14-06-07
+"41" "Liberia" "National" "Cases" 16 "6/9/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Ebola%20Viral%20Disease-Sit%20Rep-%2029-%209th%20June%202014%20pdf%20docx.pdf" -118.0949123 34.0802806 "cases" 14-06-09
+"42" "Liberia" "National" "Cases" 30 "6/11/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Ebola%20Viral%20Disease%20Sit%20Rep%2030-11th%20June%202014_1.pdf" -118.0949123 34.0802806 "cases" 14-06-11
+"43" "Liberia" "National" "Cases" 31 "6/13/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Ebola%20Viral%20Disease-Sit%20Rep-%2032-%2013th%20June%202014.pdf%20docx.pdf.pdf" -118.0949123 34.0802806 "cases" 14-06-13
+"44" "Guinea" "National" "Cases" 398 "6/16/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-17-june-2014" -118.0949123 34.0802806 "cases" 14-06-16
+"45" "Liberia" "National" "Cases" 33 "6/16/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-668291_2.pdf" -118.0949123 34.0802806 "cases" 14-06-16
+"46" "Sierra Leone" "National" "Cases" 97 "6/17/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-668291_2.pdf" -118.0949123 34.0802806 "cases" 14-06-17
+"47" "Guinea" "National" "Cases" 390 "6/18/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-22-june-2014" -118.0949123 34.0802806 "cases" 14-06-18
+"48" "Liberia" "National" "Cases" 41 "6/19/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669658_2.pdf" -118.0949123 34.0802806 "cases" 14-06-19
+"49" "Sierra Leone" "National" "Cases" 136 "6/19/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669658_2.pdf" -118.0949123 34.0802806 "cases" 14-06-19
+"50" "Guinea" "National" "Cases" 390 "6/20/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-23-june-2014" -118.0949123 34.0802806 "cases" 14-06-20
+"51" "Sierra Leone" "National" "Cases" 158 "6/20/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669981_2.pdf" -118.0949123 34.0802806 "cases" 14-06-20
+"52" "Liberia" "National" "Cases" 51 "6/22/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669981_2.pdf" -118.0949123 34.0802806 "cases" 14-06-22
+"53" "Liberia" "National" "Cases" 70 "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -118.0949123 34.0802806 "cases" 14-06-26
+"54" "Guinea" "National" "Cases" 407 "6/27/14" "WHO; Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Guinea_Ebola_Sit_Rep_n73%20du%2028_juin_2014%20update.pdf" -118.0949123 34.0802806 "cases" 14-06-27
+"55" "Guinea" "National" "Cases" 413 "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "cases" 14-06-30
+"56" "Liberia" "National" "Cases" 107 "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "cases" 14-06-30
+"57" "Sierra Leone" "National" "Cases" 239 "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "cases" 14-06-30
+"58" "Guinea" "National" "Cases" 412 "7/2/14" "WHO" "http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4216-ebola-virus-disease-west-africa-3-july-2014.html" -118.0949123 34.0802806 "cases" 14-07-02
+"59" "Liberia" "National" "Cases" 115 "7/2/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-3-july-2014" -118.0949123 34.0802806 "cases" 14-07-02
+"60" "Sierra Leone" "National" "Cases" 252 "7/2/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-3-july-2014" -118.0949123 34.0802806 "cases" 14-07-02
+"61" "Guinea" "National" "Cases" 408 "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "cases" 14-07-06
+"62" "Liberia" "National" "Cases" 131 "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "cases" 14-07-06
+"63" "Sierra Leone" "National" "Cases" 305 "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "cases" 14-07-06
+"64" "Guinea" "National" "Cases" 409 "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "cases" 14-07-08
+"65" "Liberia" "National" "Cases" 142 "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "cases" 14-07-08
+"66" "Sierra Leone" "National" "Cases" 337 "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "cases" 14-07-08
+"67" "Guinea" "National" "Cases" 406 "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "cases" 14-07-12
+"68" "Liberia" "National" "Cases" 172 "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "cases" 14-07-12
+"69" "Sierra Leone" "National" "Cases" 386 "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "cases" 14-07-12
+"70" "Guinea" "National" "Cases" 411 "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "cases" 14-07-14
+"71" "Liberia" "National" "Cases" 174 "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "cases" 14-07-14
+"72" "Sierra Leone" "National" "Cases" 397 "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "cases" 14-07-14
+"73" "Guinea" "National" "Cases" 410 "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "cases" 14-07-17
+"74" "Liberia" "National" "Cases" 196 "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "cases" 14-07-17
+"75" "Sierra Leone" "National" "Cases" 442 "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "cases" 14-07-17
+"76" "Guinea" "National" "Cases" 415 "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-20
+"77" "Liberia" "National" "Cases" 224 "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-20
+"78" "Sierra Leone" "National" "Cases" 454 "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-20
+"79" "Guinea" "National" "Cases" 427 "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-23
+"80" "Liberia" "National" "Cases" 249 "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-23
+"81" "Sierra Leone" "National" "Cases" 525 "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "cases" 14-07-23
+"82" "Guinea" "National" "Cases" 460 "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "cases" 14-07-27
+"83" "Liberia" "National" "Cases" 329 "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "cases" 14-07-27
+"84" "Sierra Leone" "National" "Cases" 533 "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "cases" 14-07-27
+"85" "Guinea" "National" "Cases" 485 "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "cases" 14-08-01
+"86" "Liberia" "National" "Cases" 468 "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "cases" 14-08-01
+"87" "Nigeria" "National" "Cases" 4 "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "cases" 14-08-01
+"88" "Sierra Leone" "National" "Cases" 646 "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "cases" 14-08-01
+"89" "Guinea" "National" "Cases" 495 "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "cases" 14-08-04
+"90" "Liberia" "National" "Cases" 516 "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "cases" 14-08-04
+"91" "Nigeria" "National" "Cases" 9 "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "cases" 14-08-04
+"92" "Sierra Leone" "National" "Cases" 691 "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "cases" 14-08-04
+"93" "Guinea" "National" "Cases" 495 "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "cases" 14-08-06
+"94" "Liberia" "National" "Cases" 554 "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "cases" 14-08-06
+"95" "Nigeria" "National" "Cases" 13 "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "cases" 14-08-06
+"96" "Sierra Leone" "National" "Cases" 717 "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "cases" 14-08-06
+"97" "Guinea" "National" "Cases" 506 "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "cases" 14-08-09
+"98" "Liberia" "National" "Cases" 599 "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "cases" 14-08-09
+"99" "Nigeria" "National" "Cases" 13 "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "cases" 14-08-09
+"100" "Sierra Leone" "National" "Cases" 730 "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "cases" 14-08-09
+"101" "Guinea" "National" "Cases" 523 "8/14/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-14
+"102" "Liberia" "National" "Cases" 810 "8/14/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-14
+"103" "Nigeria" "National" "Cases" 12 "8/15/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-15
+"104" "Sierra Leone" "National" "Cases" 830 "8/15/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-15
+"105" "Guinea" "National" "Cases" 543 "8/16/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-16
+"106" "Liberia" "National" "Cases" 862 "8/17/14" "Gvt" "Liberia sitrep94" -118.0949123 34.0802806 "cases" 14-08-17
+"107" "Nigeria" "National" "Cases" 15 "8/17/14" "Gvt" "" -118.0949123 34.0802806 "cases" 14-08-17
+"108" "Sierra Leone" "National" "Cases" 850 "8/17/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola-Situation-Report_Vol-82_0.pdf" -118.0949123 34.0802806 "cases" 14-08-17
+"109" "Liberia" "National" "Cases" 964 "8/18/14" "Gvt" "Liberia sitrep95" -118.0949123 34.0802806 "cases" 14-08-18
+"110" "Guinea" "National" "Cases" 599 "8/19/14" "Gvt" "Sitrep 126 du 20 Aout" -118.0949123 34.0802806 "cases" 14-08-19
+"111" "Liberia" "National" "Cases" 1024 "8/19/14" "Gvt" "Sitrep 96 du 19Aout" -118.0949123 34.0802806 "cases" 14-08-19
+"112" "Nigeria" "National" "Cases" 20 "8/19/14" "Gvt" "Sitrep 20 du 19Aout" -118.0949123 34.0802806 "cases" 14-08-19
+"113" "Sierra Leone" "National" "Cases" 910 "8/19/14" "Gvt" "Sitrep 20Aout" -118.0949123 34.0802806 "cases" 14-08-19
+"114" "Guinea" "National" "Cases" 607 "8/20/14" "WHO" "Guinea TC 21Aout" -118.0949123 34.0802806 "cases" 14-08-20
+"115" "Liberia" "National" "Cases" 1074 "8/20/14" "Gvt" "Sitrep 97 du 20Aout" -118.0949123 34.0802806 "cases" 14-08-20
+"116" "Sierra Leone" "National" "Cases" 902 "8/20/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-85.pdf" -118.0949123 34.0802806 "cases" 14-08-20
+"117" "Nigeria" "National" "Cases" 15 "8/21/14" "Gvt" "Sitrep 22 du 21Aout" -118.0949123 34.0802806 "cases" 14-08-21
+"118" "Nigeria" "National" "Cases" 18 "8/22/14" "Gvt" "Sitrep 23 du 23Aout" -118.0949123 34.0802806 "cases" 14-08-22
+"119" "Guinea" "National" "Cases" 628 "8/23/14" "GVT" "GUinea sitrep 130 du 24Aout" -118.0949123 34.0802806 "cases" 14-08-23
+"120" "Nigeria" "National" "Cases" 19 "8/23/14" "Gvt" "Sitrep 24 du 23Aout" -118.0949123 34.0802806 "cases" 14-08-23
+"121" "Sierra Leone" "National" "Cases" 994 "8/23/14" "GVT" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-88.pdf" -118.0949123 34.0802806 "cases" 14-08-23
+"122" "Liberia" "National" "Cases" 1378 "8/24/14" "Gvt" "Sitrep N101 du 24Aout" -118.0949123 34.0802806 "cases" 14-08-24
+"123" "Sierra Leone" "National" "Cases" 1025 "8/24/14" "Gvt" "Sitrep 25Aug2014" -118.0949123 34.0802806 "cases" 14-08-24
+"124" "Guinea" "National" "Cases" 646 "8/25/14" "Gvt" "Sitrep N131 du 25Aout" -118.0949123 34.0802806 "cases" 14-08-25
+"125" "Liberia" "National" "Cases" 1395 "8/25/14" "Gvt" "Sitrep N102 du 25Aout" -118.0949123 34.0802806 "cases" 14-08-25
+"126" "Nigeria" "National" "Cases" 15 "8/25/14" "Gvt" "Sitrep 25 du 25Aout" -118.0949123 34.0802806 "cases" 14-08-25
+"127" "Sierra Leone" "National" "Cases" 1050 "8/25/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-90.pdf" -118.0949123 34.0802806 "cases" 14-08-25
+"128" "Guinea" "National" "Cases" 661 "8/26/14" "Gvt" "Sitrep N132 du 26 Aout" -118.0949123 34.0802806 "cases" 14-08-26
+"129" "Liberia" "National" "Cases" 1463 "8/26/14" "Gvt" "Sitrep N103 du 26Aout" -118.0949123 34.0802806 "cases" 14-08-26
+"130" "Sierra Leone" "National" "Cases" 1057 "8/26/14" "Gvt" "Sitrep 27Aug" -118.0949123 34.0802806 "cases" 14-08-26
+"131" "Guinea" "National" "Cases" 663 "8/27/14" "Gvt" "Sitrep N133 du 27 Aout" -118.0949123 34.0802806 "cases" 14-08-27
+"132" "Nigeria" "National" "Cases" 19 "8/27/14" "Gvt" "Sitrep 28 du 27Aout" -118.0949123 34.0802806 "cases" 14-08-27
+"133" "Guinea" "National" "Cases" 690 "8/28/14" "Gvt" "Sitrep N 135 29Aug" -118.0949123 34.0802806 "cases" 14-08-28
+"134" "Liberia" "National" "Cases" 1582 "8/28/14" "Gvt" "Sitrep 105 28Aug" -118.0949123 34.0802806 "cases" 14-08-28
+"135" "Nigeria" "National" "Cases" 19 "8/28/14" "Gvt" "Sitrep N 29 28Aug" -118.0949123 34.0802806 "cases" 14-08-28
+"136" "Sierra Leone" "National" "Cases" 1117 "8/28/14" "Gvt" "Sitrep 29Aug" -118.0949123 34.0802806 "cases" 14-08-28
+"137" "Guinea" "National" "Cases" 707 "8/29/14" "Gvt" "Sitrep N 136 30Aug" -118.0949123 34.0802806 "cases" 14-08-29
+"138" "Liberia" "National" "Cases" 1631 "8/29/14" "Gvt" "Sitrep 106 29 Aug" -118.0949123 34.0802806 "cases" 14-08-29
+"139" "Senegal" "National" "Cases" 1 "8/29/14" "Gvt" "Comuniqu_ de Presse MS" -118.0949123 34.0802806 "cases" 14-08-29
+"140" "Guinea" "National" "Cases" 749 "8/30/14" "Gvt" "Sitrep N 137 31Aug" -118.0949123 34.0802806 "cases" 14-08-30
+"141" "Liberia" "National" "Cases" 1673 "8/30/14" "Gvt" "Sitrep 107 30 Aug" -118.0949123 34.0802806 "cases" 14-08-30
+"142" "Nigeria" "National" "Cases" 21 "8/30/14" "Gvt" "Sitrep N 31 30Aug" -118.0949123 34.0802806 "cases" 14-08-30
+"143" "Guinea" "National" "Cases" 771 "8/31/14" "Gvt" "Sitrep N138 1Sep" -118.0949123 34.0802806 "cases" 14-08-31
+"144" "Liberia" "National" "Cases" 1690 "8/31/14" "Gvt" "Sitrep 108 31 Aug" -118.0949123 34.0802806 "cases" 14-08-31
+"145" "Sierra Leone" "National" "Cases" 1216 "8/31/14" "WHO" "Sitrep 1sep" -118.0949123 34.0802806 "cases" 14-08-31
+"146" "Guinea" "National" "Cases" 790 "9/1/14" "Gvt" "Sitrep 139 02Sep" -118.0949123 34.0802806 "cases" 14-09-01
+"147" "Liberia" "National" "Cases" 1763 "9/1/14" "Gvt" "Sitrep 109 1sep" -118.0949123 34.0802806 "cases" 14-09-01
+"148" "Nigeria" "National" "Cases" 22 "9/1/14" "Gvt" "Sitrep N33 1Sep" -118.0949123 34.0802806 "cases" 14-09-01
+"149" "Guinea" "National" "Cases" 812 "9/2/14" "Gvt" "Sitrep N140 3Sep" -118.0949123 34.0802806 "cases" 14-09-02
+"150" "Liberia" "National" "Cases" 1839 "9/2/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Liberia%20Ebola%20SitRep%20110%20Sept%202%2C%202014.pdf" -118.0949123 34.0802806 "cases" 14-09-02
+"151" "Sierra Leone" "National" "Cases" 1261 "9/2/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-98.pdf" -118.0949123 34.0802806 "cases" 14-09-02
+"152" "Guinea" "National" "Cases" 823 "9/3/14" "Gvt" "Sitrep N141 4Sep" -118.0949123 34.0802806 "cases" 14-09-03
+"153" "Liberia" "National" "Cases" 1863 "9/3/14" "Gvt" "Sitrep N111 3Sep" -118.0949123 34.0802806 "cases" 14-09-03
+"154" "Sierra Leone" "National" "Cases" 1292 "9/3/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-99.pdf" -118.0949123 34.0802806 "cases" 14-09-03
+"155" "Guinea" "National" "Cases" 826 "9/4/14" "Gvt" "Sitrep N142 5Sep" -118.0949123 34.0802806 "cases" 14-09-04
+"156" "Liberia" "National" "Cases" 1915 "9/4/14" "Gvt" "Sitrep N112 4Sep" -118.0949123 34.0802806 "cases" 14-09-04
+"157" "Guinea" "National" "Cases" 838 "9/5/14" "Gvt" "Sitrep N143 6Sep" -118.0949123 34.0802806 "cases" 14-09-05
+"158" "Liberia" "National" "Cases" 1968 "9/5/14" "Gvt" "Sitrep N113 5Sep" -118.0949123 34.0802806 "cases" 14-09-05
+"159" "Senegal" "National" "Cases" 1 "9/5/14" "Gvt" "Sitrep 5Sep" -118.0949123 34.0802806 "cases" 14-09-05
+"160" "Sierra Leone" "National" "Cases" 1361 "9/5/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-101.pdf" -118.0949123 34.0802806 "cases" 14-09-05
+"161" "Guinea" "National" "Cases" 862 "9/6/14" "Gvt" "Sitrep N144 7Sep" -118.0949123 34.0802806 "cases" 14-09-06
+"162" "Liberia" "National" "Cases" 2038 "9/6/14" "Gvt" "Sitrep N114 6Sep" -118.0949123 34.0802806 "cases" 14-09-06
+"163" "Senegal" "National" "Cases" 1 "9/6/14" "Gvt" "Sitrep 6Sep" -118.0949123 34.0802806 "cases" 14-09-06
+"164" "Sierra Leone" "National" "Cases" 1409 "9/6/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-102.pdf" -118.0949123 34.0802806 "cases" 14-09-06
+"165" "Guinea" "National" "Cases" 861 "9/7/14" "Gvt" "Sitrep N145 8Sep" -118.0949123 34.0802806 "cases" 14-09-07
+"166" "Liberia" "National" "Cases" 2073 "9/7/14" "Gvt" "Sitrep N115 7Sep" -118.0949123 34.0802806 "cases" 14-09-07
+"167" "Nigeria" "National" "Cases" 21 "9/7/14" "Gvt" "Sitrep N39 7Sep" -118.0949123 34.0802806 "cases" 14-09-07
+"168" "Senegal" "National" "Cases" 3 "9/7/14" "Gvt" "Sitrep 7Sep" -118.0949123 34.0802806 "cases" 14-09-07
+"169" "Liberia" "National" "Cases" 2184 "9/8/14" "Gvt" "Sitrep N116 8Sep" -118.0949123 34.0802806 "cases" 14-09-08
+"170" "Senegal" "National" "Cases" 2 "9/8/14" "Gvt" "Sitrep 8sep" -118.0949123 34.0802806 "cases" 14-09-08
+"171" "Guinea" "National" "Cases" 885 "9/9/14" "Gvt" "Sitrep N147 9Sep" -118.0949123 34.0802806 "cases" 14-09-09
+"172" "Senegal" "National" "Cases" 1 "9/9/14" "Gvt" "Sitrep 9sep" -118.0949123 34.0802806 "cases" 14-09-09
+"173" "Sierra Leone" "National" "Cases" 1478 "9/9/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-105.pdf" -118.0949123 34.0802806 "cases" 14-09-09
+"174" "Guinea" "National" "Cases" 899 "9/10/14" "Gvt" "Sitrep 148 du 11Sep" -118.0949123 34.0802806 "cases" 14-09-10
+"175" "Liberia" "National" "Cases" 2407 "9/10/14" "Gvt" "Sitrep 118 du 10Sep" -118.0949123 34.0802806 "cases" 14-09-10
+"176" "Nigeria" "National" "Cases" 21 "9/10/14" "Gvt" "Sitrep 42 du 10Sep" -118.0949123 34.0802806 "cases" 14-09-10
+"177" "Sierra Leone" "National" "Cases" 1509 "9/10/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-106.pdf" -118.0949123 34.0802806 "cases" 14-09-10
+"178" "Guinea" "National" "Cases" 909 "9/11/14" "Gvt" "Sitrep 149 du 12Sep" -118.0949123 34.0802806 "cases" 14-09-11
+"179" "Liberia" "National" "Cases" 2527 "9/11/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Liberia%20Ebola%20SitRep%20119%20Sept%2011%2C%202014.pdf" -118.0949123 34.0802806 "cases" 14-09-11
+"180" "Sierra Leone" "National" "Cases" 1551 "9/11/14" "WHO" "Sitrep 12 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-11
+"181" "Guinea" "National" "Cases" 913 "9/12/14" "Gvt" "Sitrep150 13Sep" -118.0949123 34.0802806 "cases" 14-09-12
+"182" "Senegal" "National" "Cases" 1 "9/12/14" "Gvt" "Sitrep 12 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-12
+"183" "Sierra Leone" "National" "Cases" 1586 "9/12/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-108.pdf" -118.0949123 34.0802806 "cases" 14-09-12
+"184" "Guinea" "National" "Cases" 936 "9/13/14" "Gvt" "Sitrep151 14Sep" -118.0949123 34.0802806 "cases" 14-09-13
+"185" "Nigeria" "National" "Cases" 21 "9/13/14" "Gvt" "Sitrep 45 du 13Sep" -118.0949123 34.0802806 "cases" 14-09-13
+"186" "Senegal" "National" "Cases" 1 "9/13/14" "Gvt" "Sitrep 13 Sept 2022" -118.0949123 34.0802806 "cases" 14-09-13
+"187" "Guinea" "National" "Cases" 942 "9/14/14" "Gvt" "Sitrep152 15Sep" -118.0949123 34.0802806 "cases" 14-09-14
+"188" "Liberia" "National" "Cases" 2712 "9/14/14" "Gvt" "http://mohsw.gov.lr/documents/Ebola%20SitRep%20122_sep_14.pdf" -118.0949123 34.0802806 "cases" 14-09-14
+"189" "Nigeria" "National" "Cases" 21 "9/15/14" "Gvt" "Sitrep 47 du 15Sep" -118.0949123 34.0802806 "cases" 14-09-15
+"190" "Senegal" "National" "Cases" 1 "9/15/14" "Gvt" "Sitrep 15 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-15
+"191" "Guinea" "National" "Cases" 964 "9/16/14" "Gvt" "Sitrep154 17Sep" -118.0949123 34.0802806 "cases" 14-09-16
+"192" "Nigeria" "National" "Cases" 21 "9/16/14" "Gvt" "Sitrep 48 du 16Sep" -118.0949123 34.0802806 "cases" 14-09-16
+"193" "Senegal" "National" "Cases" 1 "9/16/14" "Gvt" "Sitrep 16 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-16
+"194" "Sierra Leone" "National" "Cases" 1735 "9/16/14" "WHO" "Sitrep 17Sep" -118.0949123 34.0802806 "cases" 14-09-16
+"195" "Sierra Leone" "National" "Cases" 1735 "9/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-112.pdf" -118.0949123 34.0802806 "cases" 14-09-16
+"196" "Guinea" "National" "Cases" 965 "9/17/14" "Gvt" "Sitrep155 18Sep" -118.0949123 34.0802806 "cases" 14-09-17
+"197" "Senegal" "National" "Cases" 1 "9/17/14" "Gvt" "Sitrep 17 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-17
+"198" "Sierra Leone" "National" "Cases" 1753 "9/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-113.pdf" -118.0949123 34.0802806 "cases" 14-09-17
+"199" "Nigeria" "National" "Cases" 20 "9/18/14" "Gvt" "Sitrep 50 du 18Sep" -118.0949123 34.0802806 "cases" 14-09-18
+"200" "Sierra Leone" "National" "Cases" 1791 "9/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-114.pdf" -118.0949123 34.0802806 "cases" 14-09-18
+"201" "Guinea" "National" "Cases" 989 "9/19/14" "Gvt" "Sitrep157 20Sep" -118.0949123 34.0802806 "cases" 14-09-19
+"202" "Liberia" "National" "Cases" 3139 "9/19/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20127%20Sept%2019,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "cases" 14-09-19
+"203" "Nigeria" "National" "Cases" 20 "9/19/14" "Gvt" "Sitrep 51 du 19Sep" -118.0949123 34.0802806 "cases" 14-09-19
+"204" "Sierra Leone" "National" "Cases" 1813 "9/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-115.pdf" -118.0949123 34.0802806 "cases" 14-09-19
+"205" "Guinea" "National" "Cases" 1008 "9/20/14" "Gvt" "Sitrep158 21Sep" -118.0949123 34.0802806 "cases" 14-09-20
+"206" "Liberia" "National" "Cases" 3074 "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -118.0949123 34.0802806 "cases" 14-09-20
+"207" "Nigeria" "National" "Cases" 20 "9/20/14" "Gvt" "Sitrep 52 du 20Sep" -118.0949123 34.0802806 "cases" 14-09-20
+"208" "Senegal" "National" "Cases" 1 "9/20/14" "Gvt" "Sitrep 20 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-20
+"209" "Sierra Leone" "National" "Cases" 1876 "9/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-116.pdf" -118.0949123 34.0802806 "cases" 14-09-20
+"210" "Guinea" "National" "Cases" 1022 "9/21/14" "Gvt" "Sitrep159 22Sep" -118.0949123 34.0802806 "cases" 14-09-21
+"211" "Liberia" "National" "Cases" 3272 "9/21/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20129%20Sept%2021,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "cases" 14-09-21
+"212" "Nigeria" "National" "Cases" 20 "9/21/14" "Gvt" "Sitrep 53 du 21Sep" -118.0949123 34.0802806 "cases" 14-09-21
+"213" "Sierra Leone" "National" "Cases" 1940 "9/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-117.pdf" -118.0949123 34.0802806 "cases" 14-09-21
+"214" "Guinea" "National" "Cases" 1048 "9/22/14" "Gvt" "Sitrep160 23Sep" -118.0949123 34.0802806 "cases" 14-09-22
+"215" "Liberia" "National" "Cases" 3362 "9/22/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20130%20Sept%2022,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "cases" 14-09-22
+"216" "Sierra Leone" "National" "Cases" 1967 "9/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-118.pdf" -118.0949123 34.0802806 "cases" 14-09-22
+"217" "Guinea" "National" "Cases" 1074 "9/23/14" "Gvt" "Sitrep161 24Sep" -118.0949123 34.0802806 "cases" 14-09-23
+"218" "Liberia" "National" "Cases" 3450 "9/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20131Sept%2023,%202014.pptx%20New_1.pdf" -118.0949123 34.0802806 "cases" 14-09-23
+"219" "Nigeria" "National" "Cases" 20 "9/23/14" "Gvt" "Sitrep 55 du 23Sep" -118.0949123 34.0802806 "cases" 14-09-23
+"220" "Sierra Leone" "National" "Cases" 2021 "9/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-119.pdf" -118.0949123 34.0802806 "cases" 14-09-23
+"221" "Senegal" "National" "Cases" 1 "9/24/14" "Gvt" "Sitrep 24 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-24
+"222" "Sierra Leone" "National" "Cases" 2092 "9/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-120.pdf" -118.0949123 34.0802806 "cases" 14-09-24
+"223" "Guinea" "National" "Cases" 1103 "9/25/14" "Gvt" "Sitrep163 26Sep" -118.0949123 34.0802806 "cases" 14-09-25
+"224" "Liberia" "National" "Cases" 3556 "9/25/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20133%20Sept%2025.%202014%20%282%29.pdf" -118.0949123 34.0802806 "cases" 14-09-25
+"225" "Nigeria" "National" "Cases" 20 "9/25/14" "Gvt" "Sitrep 57 du 25Sep" -118.0949123 34.0802806 "cases" 14-09-25
+"226" "Senegal" "National" "Cases" 1 "9/25/14" "Gvt" "Sitrep 25 Sept 2022" -118.0949123 34.0802806 "cases" 14-09-25
+"227" "Sierra Leone" "National" "Cases" 2120 "9/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-121.pdf" -118.0949123 34.0802806 "cases" 14-09-25
+"228" "Liberia" "National" "Cases" 3627 "9/26/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20134%20Sept%2026,%202014.pptx%20New%20%283%29.pdf" -118.0949123 34.0802806 "cases" 14-09-26
+"229" "Sierra Leone" "National" "Cases" 2149 "9/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-122.pdf" -118.0949123 34.0802806 "cases" 14-09-26
+"230" "Liberia" "National" "Cases" 3664 "9/27/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20135%20Sept%2027,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "cases" 14-09-27
+"231" "Sierra Leone" "National" "Cases" 2208 "9/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-123.pdf" -118.0949123 34.0802806 "cases" 14-09-27
+"232" "Guinea" "National" "Cases" 1157 "9/28/14" "Gvt" "Sitrep166 29Sep" -118.0949123 34.0802806 "cases" 14-09-28
+"233" "Liberia" "National" "Cases" 3688 "9/28/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20136%20Sept%2028,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "cases" 14-09-28
+"234" "Sierra Leone" "National" "Cases" 2317 "9/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-124.pdf" -118.0949123 34.0802806 "cases" 14-09-28
+"235" "Guinea" "National" "Cases" 1169 "9/29/14" "Gvt" "Sitrep167  30Sep" -118.0949123 34.0802806 "cases" 14-09-29
+"236" "Liberia" "National" "Cases" 3778 "9/29/14" "Gvt" "Sitrep 137 29Sept" -118.0949123 34.0802806 "cases" 14-09-29
+"237" "Nigeria" "National" "Cases" 20 "9/29/14" "Gvt" "Sitrep 61 du 29Sep" -118.0949123 34.0802806 "cases" 14-09-29
+"238" "Senegal" "National" "Cases" 1 "9/29/14" "Gvt" "Sitrep 29 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-29
+"239" "Sierra Leone" "National" "Cases" 2407 "9/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-125.pdf" -118.0949123 34.0802806 "cases" 14-09-29
+"240" "Guinea" "National" "Cases" 1179 "9/30/14" "Gvt" "Sitrep168 30Sep" -118.0949123 34.0802806 "cases" 14-09-30
+"241" "Liberia" "National" "Cases" 3826 "9/30/14" "Gvt" "Sitrep 138 30Sept" -118.0949123 34.0802806 "cases" 14-09-30
+"242" "Nigeria" "National" "Cases" 20 "9/30/14" "Gvt" "Sitrep 62 du 30Sep" -118.0949123 34.0802806 "cases" 14-09-30
+"243" "Senegal" "National" "Cases" 1 "9/30/14" "Gvt" "Sitrep 30 Sept 2014" -118.0949123 34.0802806 "cases" 14-09-30
+"244" "Sierra Leone" "National" "Cases" 2437 "9/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-126.pdf" -118.0949123 34.0802806 "cases" 14-09-30
+"245" "Guinea" "National" "Cases" 1199 "10/1/14" "Gvt" "Sitrep169 1Oct" -118.0949123 34.0802806 "cases" 14-10-01
+"246" "Liberia" "National" "Cases" 3890 "10/1/14" "Gvt" "Sitrep139 1Oct" -118.0949123 34.0802806 "cases" 14-10-01
+"247" "Sierra Leone" "National" "Cases" 2480 "10/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-127.pdf" -118.0949123 34.0802806 "cases" 14-10-01
+"248" "Liberia" "National" "Cases" 3921 "10/2/14" "Gvt" "Sitrep140 2Oct" -118.0949123 34.0802806 "cases" 14-10-02
+"249" "Liberia" "National" "Cases" 3879 "10/3/14" "Gvt" "Sitrep141 3Oct" -118.0949123 34.0802806 "cases" 14-10-03
+"250" "Sierra Leone" "National" "Cases" 2572 "10/3/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-129.pdf" -118.0949123 34.0802806 "cases" 14-10-03
+"251" "Liberia" "National" "Cases" 3921 "10/4/14" "Gvt" "Sitrep142 4Oct" -118.0949123 34.0802806 "cases" 14-10-04
+"252" "Sierra Leone" "National" "Cases" 2727 "10/4/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-130.pdf" -118.0949123 34.0802806 "cases" 14-10-04
+"253" "Liberia" "National" "Cases" 3949 "10/5/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20143%20Oct%205th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-05
+"254" "Guinea" "National" "Cases" 1350 "10/7/14" "Gvt" "Sitrep175 7Oct" -118.0949123 34.0802806 "cases" 14-10-07
+"255" "Guinea" "National" "Cases" 1383 "10/8/14" "Gvt" "Sitrep176 8Oct" -118.0949123 34.0802806 "cases" 14-10-08
+"256" "Sierra Leone" "National" "Cases" 2950 "10/8/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-134.pdf" -118.0949123 34.0802806 "cases" 14-10-08
+"257" "Guinea" "National" "Cases" 1405 "10/9/14" "Gvt" "Sitrep177 9Oct" -118.0949123 34.0802806 "cases" 14-10-09
+"258" "Liberia" "National" "Cases" 4190 "10/9/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20147%20Oct%209th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-09
+"259" "Guinea" "National" "Cases" 1416 "10/10/14" "Gvt" "Sitrep178 10Oct" -118.0949123 34.0802806 "cases" 14-10-10
+"260" "Liberia" "National" "Cases" 4209 "10/10/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20148%20Oct%2010th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-10
+"261" "Sierra Leone" "National" "Cases" 3062 "10/10/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-136.pdf" -118.0949123 34.0802806 "cases" 14-10-10
+"262" "Guinea" "National" "Cases" 1441 "10/11/14" "Gvt" "Sitrep179 11Oct" -118.0949123 34.0802806 "cases" 14-10-11
+"263" "Liberia" "National" "Cases" 4249 "10/11/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20149%20Oct%2011th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-11
+"264" "Sierra Leone" "National" "Cases" 3187 "10/11/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-137.pdf" -118.0949123 34.0802806 "cases" 14-10-11
+"265" "Guinea" "National" "Cases" 1471 "10/12/14" "Gvt" "Sitrep180 12Oct" -118.0949123 34.0802806 "cases" 14-10-12
+"266" "Liberia" "National" "Cases" 4255 "10/12/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20150%20Oct%2012th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-12
+"267" "Sierra Leone" "National" "Cases" 3252 "10/12/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-138_0.pdf" -118.0949123 34.0802806 "cases" 14-10-12
+"268" "Guinea" "National" "Cases" 1483 "10/13/14" "Gvt" "Sitrep181 13Oct" -118.0949123 34.0802806 "cases" 14-10-13
+"269" "Liberia" "National" "Cases" 4262 "10/13/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20151%20Oct%2013th,%202014%20(1).pdf" -118.0949123 34.0802806 "cases" 14-10-13
+"270" "Sierra Leone" "National" "Cases" 3296 "10/13/14" "Gvt" "Sitrep vol 139  13Oct" -118.0949123 34.0802806 "cases" 14-10-13
+"271" "Guinea" "National" "Cases" 1519 "10/14/14" "Gvt" "Sitrep182 14Oct" -118.0949123 34.0802806 "cases" 14-10-14
+"272" "Sierra Leone" "National" "Cases" 3410 "10/14/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-140.pdf" -118.0949123 34.0802806 "cases" 14-10-14
+"273" "Sierra Leone" "National" "Cases" 3449 "10/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-141.pdf" -118.0949123 34.0802806 "cases" 14-10-15
+"274" "Guinea" "National" "Cases" 1528 "10/15/14" "Gvt" "Sitrep183 15Oct" -118.0949123 34.0802806 "cases" 14-10-15
+"275" "Guinea" "National" "Cases" 1479 "10/16/14" "Gvt" "Sitrep184 16Oct" -118.0949123 34.0802806 "cases" 14-10-16
+"276" "Liberia" "National" "Cases" 4440 "10/16/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20154%20Oct%2016th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-16
+"277" "Sierra Leone" "National" "Cases" 3508 "10/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-142.pdf" -118.0949123 34.0802806 "cases" 14-10-16
+"278" "Guinea" "National" "Cases" 1501 "10/17/14" "Gvt" "Sitrep185 17Oct" -118.0949123 34.0802806 "cases" 14-10-17
+"279" "Liberia" "National" "Cases" 4607 "10/17/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20155%20Oct%2017th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-17
+"280" "Sierra Leone" "National" "Cases" 3560 "10/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-143.pdf" -118.0949123 34.0802806 "cases" 14-10-17
+"281" "Guinea" "National" "Cases" 1532 "10/18/14" "Gvt" "Sitrep186 18Oct" -118.0949123 34.0802806 "cases" 14-10-18
+"282" "Liberia" "National" "Cases" 4665 "10/18/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20156%20Oct%2018th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-18
+"283" "Sierra Leone" "National" "Cases" 3624 "10/18/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-144.pdf" -118.0949123 34.0802806 "cases" 14-10-18
+"284" "Guinea" "National" "Cases" 1540 "10/19/14" "Gvt" "Sitrep187 19Oct" -118.0949123 34.0802806 "cases" 14-10-19
+"285" "Liberia" "National" "Cases" 4693 "10/19/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20157%20Oct%2019th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-19
+"286" "Sierra Leone" "National" "Cases" 3706 "10/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-145.pdf" -118.0949123 34.0802806 "cases" 14-10-19
+"287" "Guinea" "National" "Cases" 1547 "10/20/14" "Gvt" "Sitrep188 20Oct" -118.0949123 34.0802806 "cases" 14-10-20
+"288" "Liberia" "National" "Cases" 4744 "10/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20158%20Oct%2020th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-20
+"289" "Sierra Leone" "National" "Cases" 3786 "10/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-146.pdf" -118.0949123 34.0802806 "cases" 14-10-20
+"290" "Guinea" "National" "Cases" 1553 "10/21/14" "Gvt" "Sitrep189 21Oct" -118.0949123 34.0802806 "cases" 14-10-21
+"291" "Liberia" "National" "Cases" 4772 "10/21/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20159%20Oct%2021th,%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-21
+"292" "Sierra Leone" "National" "Cases" 3841 "10/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-147.pdf" -118.0949123 34.0802806 "cases" 14-10-21
+"293" "Guinea" "National" "Cases" 1575 "10/22/14" "Gvt" "Sitrep190 22Oct" -118.0949123 34.0802806 "cases" 14-10-22
+"294" "Liberia" "National" "Cases" 6166 "10/22/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20160%20Oct%2022th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-22
+"295" "Sierra Leone" "National" "Cases" 3896 "10/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-148.pdf" -118.0949123 34.0802806 "cases" 14-10-22
+"296" "Guinea" "National" "Cases" 1608 "10/23/14" "Gvt" "Sitrep191 23Oct" -118.0949123 34.0802806 "cases" 14-10-23
+"297" "Liberia" "National" "Cases" 6248 "10/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20161%20Oct%2023th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-23
+"298" "Sierra Leone" "National" "Cases" 3963 "10/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-149.pdf" -118.0949123 34.0802806 "cases" 14-10-23
+"299" "Guinea" "National" "Cases" 1598 "10/24/14" "Gvt" "Sitrep192 24Oct" -118.0949123 34.0802806 "cases" 14-10-24
+"300" "Liberia" "National" "Cases" 6253 "10/24/14" "Gvt" "http://www.mohsw.gov.lr/content_display.php?press_id=152&sub=press_release" -118.0949123 34.0802806 "cases" 14-10-24
+"301" "Mali" "National" "Cases" 1 "10/24/14" "WHO" "Sitrep 1 24OCt" -118.0949123 34.0802806 "cases" 14-10-24
+"302" "Sierra Leone" "National" "Cases" 4017 "10/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-150.pdf" -118.0949123 34.0802806 "cases" 14-10-24
+"303" "Guinea" "National" "Cases" 1612 "10/25/14" "Gvt" "Sitrep193 25Oct" -118.0949123 34.0802806 "cases" 14-10-25
+"304" "Liberia" "National" "Cases" 6267 "10/25/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20163%20Oct%2025th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-25
+"305" "Mali" "National" "Cases" 1 "10/25/14" "WHO" "Sitrep 2 25OCt" -118.0949123 34.0802806 "cases" 14-10-25
+"306" "Sierra Leone" "National" "Cases" 4130 "10/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-151.pdf" -118.0949123 34.0802806 "cases" 14-10-25
+"307" "Guinea" "National" "Cases" 1631 "10/26/14" "Gvt" "Sitrep194 26Oct" -118.0949123 34.0802806 "cases" 14-10-26
+"308" "Mali" "National" "Cases" 1 "10/26/14" "WHO" "Sitrep 3 26OCt" -118.0949123 34.0802806 "cases" 14-10-26
+"309" "Sierra Leone" "National" "Cases" 4200 "10/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-152.pdf" -118.0949123 34.0802806 "cases" 14-10-26
+"310" "Guinea" "National" "Cases" 1647 "10/27/14" "Gvt" "Sitrep195 27Oct" -118.0949123 34.0802806 "cases" 14-10-27
+"311" "Liberia" "National" "Cases" 6239 "10/27/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20165%20Oct%2027th%202014%20%281%29.pdf" -118.0949123 34.0802806 "cases" 14-10-27
+"312" "Mali" "National" "Cases" 1 "10/27/14" "WHO" "Sitrep 4 26OCt" -118.0949123 34.0802806 "cases" 14-10-27
+"313" "Sierra Leone" "National" "Cases" 4330 "10/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-153.pdf" -118.0949123 34.0802806 "cases" 14-10-27
+"314" "Guinea" "National" "Cases" 1661 "10/28/14" "Gvt" "Sitrep196 28Oct" -118.0949123 34.0802806 "cases" 14-10-28
+"315" "Liberia" "National" "Cases" 6398 "10/28/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20166%20Oct%2028th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-28
+"316" "Mali" "National" "Cases" 1 "10/28/14" "WHO" "Sitrep 5 28OCt" -118.0949123 34.0802806 "cases" 14-10-28
+"317" "Sierra Leone" "National" "Cases" 4392 "10/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-154.pdf" -118.0949123 34.0802806 "cases" 14-10-28
+"318" "Guinea" "National" "Cases" 1667 "10/29/14" "Gvt" "Sitrep197 29Oct" -118.0949123 34.0802806 "cases" 14-10-29
+"319" "Liberia" "National" "Cases" 6454 "10/29/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20167%20Oct%2029th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-29
+"320" "Mali" "National" "Cases" 1 "10/29/14" "WHO" "Sitrep 6 29OCt" -118.0949123 34.0802806 "cases" 14-10-29
+"321" "Guinea" "National" "Cases" 1675 "10/30/14" "Gvt" "Sitrep198 30Oct" -118.0949123 34.0802806 "cases" 14-10-30
+"322" "Liberia" "National" "Cases" 6485 "10/30/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20168%20Oct%2030th%202014.pdf" -118.0949123 34.0802806 "cases" 14-10-30
+"323" "Sierra Leone" "National" "Cases" 4487 "10/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-156.pdf" -118.0949123 34.0802806 "cases" 14-10-30
+"324" "Guinea" "National" "Cases" 1688 "10/31/14" "Gvt" "Sitrep199 31Oct" -118.0949123 34.0802806 "cases" 14-10-31
+"325" "Liberia" "National" "Cases" 6525 "10/31/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20169%20Oct%2031th%202014%20%281%29.pdf" -118.0949123 34.0802806 "cases" 14-10-31
+"326" "Sierra Leone" "National" "Cases" 4611 "10/31/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-157.pdf" -118.0949123 34.0802806 "cases" 14-10-31
+"327" "Guinea" "National" "Cases" 1700 "11/1/14" "Gvt" "Sitrep200 01Nov" -118.0949123 34.0802806 "cases" 14-11-01
+"328" "Sierra Leone" "National" "Cases" 4686 "11/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-158.pdf" -118.0949123 34.0802806 "cases" 14-11-01
+"329" "Guinea" "National" "Cases" 1731 "11/2/14" "Gvt" "Sitrep201 02Nov" -118.0949123 34.0802806 "cases" 14-11-02
+"330" "Liberia" "National" "Cases" 6524 "11/2/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20171%20Nov%202nd%202014.pdf" -118.0949123 34.0802806 "cases" 14-11-02
+"331" "Sierra Leone" "National" "Cases" 4759 "11/2/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-159.pdf" -118.0949123 34.0802806 "cases" 14-11-02
+"332" "Guinea" "National" "Cases" 1760 "11/3/14" "Gvt" "Sitrep202 03Nov" -118.0949123 34.0802806 "cases" 14-11-03
+"333" "Liberia" "National" "Cases" 6562 "11/3/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20172%20Nov%203rd%202014%20new.pdf" -118.0949123 34.0802806 "cases" 14-11-03
+"334" "Guinea" "National" "Cases" 1744 "11/4/14" "Gvt" "Sitrep203 04Nov" -118.0949123 34.0802806 "cases" 14-11-04
+"335" "Liberia" "National" "Cases" 6619 "11/4/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20173%20Nov%204th%202014.pdf" -118.0949123 34.0802806 "cases" 14-11-04
+"336" "Guinea" "National" "Cases" 1777 "11/5/14" "Gvt" "Sitrep204 05Nov" -118.0949123 34.0802806 "cases" 14-11-05
+"337" "Mali" "National" "Cases" 1 "11/5/14" "WHO" "Sitrep 12 05Nov." -118.0949123 34.0802806 "cases" 14-11-05
+"338" "Guinea" "National" "Cases" 1818 "11/6/14" "Gvt" "Sitrep205 06Nov" -118.0949123 34.0802806 "cases" 14-11-06
+"339" "Liberia" "National" "Cases" 6278 "11/6/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20175%20Nov%206th%202014%20%281%29.pdf" -118.0949123 34.0802806 "cases" 14-11-06
+"340" "Sierra Leone" "National" "Cases" 4962 "11/6/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-163.pdf" -118.0949123 34.0802806 "cases" 14-11-06
+"341" "Guinea" "National" "Cases" 1825 "11/7/14" "Gvt" "Sitrep 206 07Nov" -118.0949123 34.0802806 "cases" 14-11-07
+"342" "Liberia" "National" "Cases" 6776 "11/7/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20176%20Nov%207th%202014.pdf" -118.0949123 34.0802806 "cases" 14-11-07
+"343" "Sierra Leone" "National" "Cases" 5019 "11/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-164.pdf" -118.0949123 34.0802806 "cases" 14-11-07
+"344" "Guinea" "National" "Cases" 1835 "11/8/14" "gvt" "Sitrep 207 08Nov" -118.0949123 34.0802806 "cases" 14-11-08
+"345" "Liberia" "National" "Cases" 6822 "11/8/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20177%20Nov%208th%202014.pdf" -118.0949123 34.0802806 "cases" 14-11-08
+"346" "Sierra Leone" "National" "Cases" 5222 "11/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-165.pdf" -118.0949123 34.0802806 "cases" 14-11-08
+"347" "Guinea" "National" "Cases" 1878 "11/9/14" "gvt" "Sitrep 208 09Nov" -118.0949123 34.0802806 "cases" 14-11-09
+"348" "Sierra Leone" "National" "Cases" 4435 "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -118.0949123 34.0802806 "cases" 14-11-09
+"349" "Guinea" "National" "Cases" 1902 "11/10/14" "gvt" "Sitrep 209 10Nov" -118.0949123 34.0802806 "cases" 14-11-10
+"350" "Sierra Leone" "National" "Cases" 5494 "11/10/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-167.pdf" -118.0949123 34.0802806 "cases" 14-11-10
+"351" "Guinea" "National" "Cases" 1919 "11/11/14" "gvt" "Sitrep 210 11Nov" -118.0949123 34.0802806 "cases" 14-11-11
+"352" "Sierra Leone" "National" "Cases" 4617 "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -118.0949123 34.0802806 "cases" 14-11-11
+"353" "Guinea" "National" "Cases" 1928 "11/12/14" "gvt" "Sitrep 211 11Nov" -118.0949123 34.0802806 "cases" 14-11-12
+"354" "Mali" "National" "Cases" 3 "11/12/14" "WHO" "Sitrep 19 12Nov." -118.0949123 34.0802806 "cases" 14-11-12
+"355" "Sierra Leone" "National" "Cases" 5682 "11/12/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-169.pdf" -118.0949123 34.0802806 "cases" 14-11-12
+"356" "Guinea" "National" "Cases" 1924 "11/13/14" "gvt" "Sitrep 212 13Nov" -118.0949123 34.0802806 "cases" 14-11-13
+"357" "Liberia" "National" "Cases" 7009 "11/13/14" "Gvt" "SITRep 182 Nov 13th 2014" -118.0949123 34.0802806 "cases" 14-11-13
+"358" "Sierra Leone" "National" "Cases" 5789 "11/13/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-170.pdf" -118.0949123 34.0802806 "cases" 14-11-13
+"359" "Guinea" "National" "Cases" 1936 "11/14/14" "gvt" "Sitrep 213 13Nov" -118.0949123 34.0802806 "cases" 14-11-14
+"360" "Mali" "National" "Cases" 6 "11/14/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/MALI%20-%20EVD-%20Sitrep%2014%20Novembre%202014-22h00-1.pdf" -118.0949123 34.0802806 "cases" 14-11-14
+"361" "Sierra Leone" "National" "Cases" 5904 "11/14/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-171.pdf" -118.0949123 34.0802806 "cases" 14-11-14
+"362" "Guinea" "National" "Cases" 1958 "11/15/14" "gvt" "Sitrep 214 15Nov" -118.0949123 34.0802806 "cases" 14-11-15
+"363" "Mali" "National" "Cases" 6 "11/15/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/MALI%20-%20EVD-%20Sitrep%2017%20Novembre%202014_21h25.pdf" -118.0949123 34.0802806 "cases" 14-11-15
+"364" "Sierra Leone" "National" "Cases" 5970 "11/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-172.pdf" -118.0949123 34.0802806 "cases" 14-11-15
+"365" "Liberia" "National" "Cases" 7082 "11/16/14" "Gvt" "SITRep 186 Nov 17th 2014 (1)" -118.0949123 34.0802806 "cases" 14-11-16
+"366" "Sierra Leone" "National" "Cases" 6073 "11/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-173.pdf" -118.0949123 34.0802806 "cases" 14-11-16
+"367" "Guinea" "National" "Cases" 2003 "11/17/14" "Gvt" "Sitrep 216 17Nov" -118.0949123 34.0802806 "cases" 14-11-17
+"368" "Sierra Leone" "National" "Cases" 6137 "11/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-174.pdf" -118.0949123 34.0802806 "cases" 14-11-17
+"369" "Guinea" "National" "Cases" 2047 "11/18/14" "Gvt" "Sitrep 217 18Nov" -118.0949123 34.0802806 "cases" 14-11-18
+"370" "Liberia" "National" "Cases" 7084 "11/18/14" "Gvt" "SITRep 187 Nov 18th 2014" -118.0949123 34.0802806 "cases" 14-11-18
+"371" "Sierra Leone" "National" "Cases" 6190 "11/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-175.pdf" -118.0949123 34.0802806 "cases" 14-11-18
+"372" "Guinea" "National" "Cases" 2055 "11/19/14" "Gvt" "Sitrep 218 19Nov" -118.0949123 34.0802806 "cases" 14-11-19
+"373" "Liberia" "National" "Cases" 7017 "11/19/14" "Gvt" "SITRep 188 Nov 19th 2014" -118.0949123 34.0802806 "cases" 14-11-19
+"374" "Mali" "National" "Cases" 6 "11/19/14" "WHO" "MALI - EVD- Sitrep 19 Novembre 2014_22h03" -118.0949123 34.0802806 "cases" 14-11-19
+"375" "Sierra Leone" "National" "Cases" 6261 "11/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-176.pdf" -118.0949123 34.0802806 "cases" 14-11-19
+"376" "Guinea" "National" "Cases" 2065 "11/20/14" "Gvt" "Sitrep 219 20Nov" -118.0949123 34.0802806 "cases" 14-11-20
+"377" "Liberia" "National" "Cases" 7161 "11/20/14" "Gvt" "SITRep 189 Nov 20th 2014" -118.0949123 34.0802806 "cases" 14-11-20
+"378" "Sierra Leone" "National" "Cases" 6391 "11/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-177.pdf" -118.0949123 34.0802806 "cases" 14-11-20
+"379" "Guinea" "National" "Cases" 2094 "11/21/14" "Gvt" "Sitrep 220 21Nov" -118.0949123 34.0802806 "cases" 14-11-21
+"380" "Liberia" "National" "Cases" 7165 "11/21/14" "Gvt" "SITRep 190 Nov 21th 2014" -118.0949123 34.0802806 "cases" 14-11-21
+"381" "Sierra Leone" "National" "Cases" 6460 "11/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-178.pdf" -118.0949123 34.0802806 "cases" 14-11-21
+"382" "Guinea" "National" "Cases" 2112 "11/22/14" "Gvt" "Sitrep 221 22Nov" -118.0949123 34.0802806 "cases" 14-11-22
+"383" "Liberia" "National" "Cases" 7168 "11/22/14" "Gvt" "SITRep 191 Nov 22th 2014" -118.0949123 34.0802806 "cases" 14-11-22
+"384" "Sierra Leone" "National" "Cases" 6535 "11/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-179.pdf" -118.0949123 34.0802806 "cases" 14-11-22
+"385" "Guinea" "National" "Cases" 2134 "11/23/14" "Gvt" "Sitrep 222 23Nov" -118.0949123 34.0802806 "cases" 14-11-23
+"386" "Liberia" "National" "Cases" 7196 "11/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20192%20Nov%2023th%202014.pdf" -118.0949123 34.0802806 "cases" 14-11-23
+"387" "Mali" "National" "Cases" 8 "11/23/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2024%20Novembre%202014_20h00.pdf" -118.0949123 34.0802806 "cases" 14-11-23
+"388" "Sierra Leone" "National" "Cases" 6599 "11/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-180.pdf" -118.0949123 34.0802806 "cases" 14-11-23
+"389" "Guinea" "National" "Cases" 2100 "11/24/14" "Gvt" "Sitrep 223 24Nov" -118.0949123 34.0802806 "cases" 14-11-24
+"390" "Liberia" "National" "Cases" 7244 "11/24/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20193%20Nov%2024th%202014P.pdf" -118.0949123 34.0802806 "cases" 14-11-24
+"391" "Mali" "National" "Cases" 8 "11/24/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2025%20Novembre%202014_20h30.pdf" -118.0949123 34.0802806 "cases" 14-11-24
+"392" "Sierra Leone" "National" "Cases" 6714 "11/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-181.pdf" -118.0949123 34.0802806 "cases" 14-11-24
+"393" "Guinea" "National" "Cases" 2123 "11/25/14" "Gvt" "Sitrep 224 25Nov" -118.0949123 34.0802806 "cases" 14-11-25
+"394" "Mali" "National" "Cases" 8 "11/25/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2026%20Novembre%202014_21h25.pdf" -118.0949123 34.0802806 "cases" 14-11-25
+"395" "Sierra Leone" "National" "Cases" 6802 "11/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-182.pdf" -118.0949123 34.0802806 "cases" 14-11-25
+"396" "Sierra Leone" "National" "Cases" 6911 "11/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-183.pdf" -118.0949123 34.0802806 "cases" 14-11-26
+"397" "Guinea" "National" "Cases" 2133 "11/26/14" "Gvt" "Sitrep 225 26Nov" -118.0949123 34.0802806 "cases" 14-11-26
+"398" "Sierra Leone" "National" "Cases" 7021 "11/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-184.pdf" -118.0949123 34.0802806 "cases" 14-11-27
+"399" "Sierra Leone" "National" "Cases" 7109 "11/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-185.pdf" -118.0949123 34.0802806 "cases" 14-11-28
+"400" "Sierra Leone" "National" "Cases" 7226 "11/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-186.pdf" -118.0949123 34.0802806 "cases" 14-11-29
+"401" "Guinea" "National" "Cases" 2160 "11/29/14" "Gvt" "Sitrep 228 29Nov" -118.0949123 34.0802806 "cases" 14-11-29
+"402" "Liberia" "National" "Cases" 7254 "11/25/14" "Gvt" "SITRep 194 Nov 25th 2014" -118.0949123 34.0802806 "cases" 14-11-25
+"403" "Liberia" "National" "Cases" 7278 "11/26/14" "Gvt" "SITRep 195 Nov 26th 2014" -118.0949123 34.0802806 "cases" 14-11-26
+"404" "Liberia" "National" "Cases" 7278 "11/27/14" "Gvt" "SITRep 196 Nov 27th 2014" -118.0949123 34.0802806 "cases" 14-11-27
+"405" "Liberia" "National" "Cases" 7635 "11/28/14" "Gvt" "SITRep 197 Nov 28th 2014" -118.0949123 34.0802806 "cases" 14-11-28
+"406" "Sierra Leone" "National" "Cases" 7312 "11/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-187.pdf" -118.0949123 34.0802806 "cases" 14-11-30
+"407" "Guinea" "National" "Cases" 2145 "11/27/14" "Gvt" "Sitrep 226 27Nov" -118.0949123 34.0802806 "cases" 14-11-27
+"408" "Guinea" "National" "Cases" 2155 "11/28/14" "Gvt" "Sitrep 227 28Nov" -118.0949123 34.0802806 "cases" 14-11-28
+"409" "Guinea" "National" "Cases" 2164 "11/30/14" "Gvt" "Sitrep 229 30Nov" -118.0949123 34.0802806 "cases" 14-11-30
+"410" "Sierra Leone" "National" "Cases" 7420 "12/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-188.pdf" -118.0949123 34.0802806 "cases" 14-12-01
+"411" "Sierra Leone" "National" "Cases" 7551 "12/2/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-189.pdf" -118.0949123 34.0802806 "cases" 14-12-02
+"412" "Liberia" "National" "Cases" 7650 "11/29/14" "Gvt" "SITRep 198 Nov 29th 2014" -118.0949123 34.0802806 "cases" 14-11-29
+"413" "Liberia" "National" "Cases" 7653 "11/30/14" "Gvt" "SITRep 199 Nov 30th 2014" -118.0949123 34.0802806 "cases" 14-11-30
+"414" "Liberia" "National" "Cases" 7675 "12/1/14" "Gvt" "SITRep 200 Dec 1st 2014" -118.0949123 34.0802806 "cases" 14-12-01
+"415" "Guinea" "National" "Cases" 2186 "12/2/14" "Gvt" "Sitrep 231 02Dec" -118.0949123 34.0802806 "cases" 14-12-02
+"416" "Liberia" "National" "Cases" 7690 "12/2/14" "Gvt" "SITRep 201 Dec 2nd 2014" -118.0949123 34.0802806 "cases" 14-12-02
+"417" "Liberia" "National" "Cases" 7719 "12/3/14" "Gvt" "SITRep 202 Dec 3rd 2014" -118.0949123 34.0802806 "cases" 14-12-03
+"418" "Guinea" "National" "Cases" 2192 "12/3/14" "Gvt" "Sitrep 232 03Dec" -118.0949123 34.0802806 "cases" 14-12-03
+"419" "Guinea" "National" "Cases" 2255 "12/4/14" "Gvt" "Sitrep 233 04Dec" -118.0949123 34.0802806 "cases" 14-12-04
+"420" "Guinea" "National" "Cases" 2269 "12/5/14" "Gvt" "Sitrep 234 05Dec" -118.0949123 34.0802806 "cases" 14-12-05
+"421" "Guinea" "National" "Cases" 2283 "12/6/14" "Gvt" "Sitrep 235 06Dec" -118.0949123 34.0802806 "cases" 14-12-06
+"422" "Guinea" "National" "Cases" 2292 "12/7/14" "Gvt" "Sitrep 236 06Dec" -118.0949123 34.0802806 "cases" 14-12-07
+"423" "Guinea" "National" "Cases" 2339 "12/9/14" "Gvt" "Sitrep 238 06Dec" -118.0949123 34.0802806 "cases" 14-12-09
+"424" "Guinea" "National" "Cases" 2394 "12/13/14" "Gvt" "Sitrep 242 13Dec" -118.0949123 34.0802806 "cases" 14-12-13
+"425" "Sierra Leone" "National" "Cases" 7676 "12/4/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-191.pdf" -118.0949123 34.0802806 "cases" 14-12-04
+"426" "Sierra Leone" "National" "Cases" 7754 "12/5/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-192.pdf" -118.0949123 34.0802806 "cases" 14-12-05
+"427" "Sierra Leone" "National" "Cases" 7798 "12/6/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-193.pdf" -118.0949123 34.0802806 "cases" 14-12-06
+"428" "Sierra Leone" "National" "Cases" 7897 "12/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-194.pdf" -118.0949123 34.0802806 "cases" 14-12-07
+"429" "Sierra Leone" "National" "Cases" 7955 "12/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-195.pdf" -118.0949123 34.0802806 "cases" 14-12-08
+"430" "Sierra Leone" "National" "Cases" 8014 "12/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-196.pdf" -118.0949123 34.0802806 "cases" 14-12-09
+"431" "Sierra Leone" "National" "Cases" 8069 "12/10/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-197.pdf" -118.0949123 34.0802806 "cases" 14-12-10
+"432" "Sierra Leone" "National" "Cases" 8152 "12/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-198.pdf" -118.0949123 34.0802806 "cases" 14-12-11
+"433" "Sierra Leone" "National" "Cases" 8201 "12/12/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-199.pdf" -118.0949123 34.0802806 "cases" 14-12-12
+"434" "Sierra Leone" "National" "Cases" 8273 "12/13/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-200.pdf" -118.0949123 34.0802806 "cases" 14-12-13
+"435" "Sierra Leone" "National" "Cases" 8356 "12/14/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-201.pdf" -118.0949123 34.0802806 "cases" 14-12-14
+"436" "Liberia" "National" "Cases" 7719 "12/4/14" "Gvt" "SITRep 203 Dec 4th 2014" -118.0949123 34.0802806 "cases" 14-12-04
+"437" "Liberia" "National" "Cases" 7731 "12/5/14" "Gvt" "SITRep 204 Dec 5th 2014" -118.0949123 34.0802806 "cases" 14-12-05
+"438" "Liberia" "National" "Cases" 7735 "12/5/14" "Gvt" "SITRep 205 Dec 6th 2014" -118.0949123 34.0802806 "cases" 14-12-05
+"439" "Liberia" "National" "Cases" 7765 "12/6/14" "Gvt" "SITRep 206 Dec 7th 2014" -118.0949123 34.0802806 "cases" 14-12-06
+"440" "Liberia" "National" "Cases" 7786 "12/7/14" "Gvt" "SITRep 207 Dec 8th 2014" -118.0949123 34.0802806 "cases" 14-12-07
+"441" "Liberia" "National" "Cases" 7797 "12/8/14" "Gvt" "SITRep 208 Dec 9th 2014" -118.0949123 34.0802806 "cases" 14-12-08
+"442" "Liberia" "National" "Cases" 7812 "12/9/14" "Gvt" "SITRep 209 Dec 10th 2014" -118.0949123 34.0802806 "cases" 14-12-09
+"443" "Liberia" "National" "Cases" 7819 "12/11/14" "Gvt" "SITRep 210 Dec 11th 2014" -118.0949123 34.0802806 "cases" 14-12-11
+"444" "Liberia" "National" "Cases" 7828 "12/12/14" "Gvt" "SITRep 211 Dec 12th 2014" -118.0949123 34.0802806 "cases" 14-12-12
+"445" "Liberia" "National" "Cases" 7835 "12/13/14" "Gvt" "SITRep 212 Dec 13th 2014" -118.0949123 34.0802806 "cases" 14-12-13
+"446" "Liberia" "National" "Cases" 7819 "12/14/14" "Gvt" "SITRep 213 Dec 14th 2014" -118.0949123 34.0802806 "cases" 14-12-14
+"447" "Sierra Leone" "National" "Cases" 8428 "12/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-202.pdf" -118.0949123 34.0802806 "cases" 14-12-15
+"448" "Sierra Leone" "National" "Cases" 8488 "12/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-203.pdf" -118.0949123 34.0802806 "cases" 14-12-16
+"449" "Sierra Leone" "National" "Cases" 8759 "12/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-204.pdf" -118.0949123 34.0802806 "cases" 14-12-17
+"450" "Liberia" "National" "Cases" 7823 "12/15/14" "Gvt" "SITRep 214 Dec 15th 2014" -118.0949123 34.0802806 "cases" 14-12-15
+"451" "Liberia" "National" "Cases" 7822 "12/16/14" "Gvt" "SITRep 215 Dec 16th 2014" -118.0949123 34.0802806 "cases" 14-12-16
+"452" "Liberia" "National" "Cases" 7815 "12/17/14" "Gvt" "SITRep 216 Dec 17th 2014" -118.0949123 34.0802806 "cases" 14-12-17
+"453" "Liberia" "National" "Cases" 7830 "12/18/14" "Gvt" "SITRep 217 Dec 18th 2014" -118.0949123 34.0802806 "cases" 14-12-18
+"454" "Sierra Leone" "National" "Cases" 8832 "12/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-205.pdf" -118.0949123 34.0802806 "cases" 14-12-18
+"455" "Sierra Leone" "National" "Cases" 8880 "12/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-206.pdf" -118.0949123 34.0802806 "cases" 14-12-19
+"456" "Sierra Leone" "National" "Cases" 8939 "12/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-207.pdf" -118.0949123 34.0802806 "cases" 14-12-20
+"457" "Sierra Leone" "National" "Cases" 9004 "12/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-208.pdf" -118.0949123 34.0802806 "cases" 14-12-21
+"458" "Guinea" "National" "Cases" 2430 "12/15/14" "Gvt" "Sitrep 244 15Dec" -118.0949123 34.0802806 "cases" 14-12-15
+"459" "Guinea" "National" "Cases" 2453 "12/16/14" "Gvt" "Sitrep 245 16Dec" -118.0949123 34.0802806 "cases" 14-12-16
+"460" "Guinea" "National" "Cases" 2482 "12/17/14" "Gvt" "Sitrep 246 17Dec" -118.0949123 34.0802806 "cases" 14-12-17
+"461" "Guinea" "National" "Cases" 2502 "12/18/14" "Gvt" "Sitrep 247 18Dec" -118.0949123 34.0802806 "cases" 14-12-18
+"462" "Guinea" "National" "Cases" 2557 "12/19/14" "Gvt" "Sitrep 248 19Dec" -118.0949123 34.0802806 "cases" 14-12-19
+"463" "Guinea" "National" "Cases" 2571 "12/20/14" "Gvt" "Sitrep 249 20Dec" -118.0949123 34.0802806 "cases" 14-12-20
+"464" "Guinea" "National" "Cases" 2597 "12/21/14" "Gvt" "Sitrep 250 21Dec" -118.0949123 34.0802806 "cases" 14-12-21
+"465" "Guinea" "National" "Cases" 2606 "12/22/14" "Gvt" "Sitrep 251 22Dec" -118.0949123 34.0802806 "cases" 14-12-22
+"466" "Guinea" "National" "Cases" 2624 "12/23/14" "Gvt" "Sitrep 252 23Dec" -118.0949123 34.0802806 "cases" 14-12-23
+"467" "Guinea" "National" "Cases" 2630 "12/24/14" "Gvt" "Sitrep 253 24Dec" -118.0949123 34.0802806 "cases" 14-12-24
+"468" "Guinea" "National" "Cases" 2659 "12/25/14" "Gvt" "Sitrep 254 25Dec" -118.0949123 34.0802806 "cases" 14-12-25
+"469" "Guinea" "National" "Cases" 2670 "12/26/14" "Gvt" "Sitrep 255 26Dec" -118.0949123 34.0802806 "cases" 14-12-26
+"470" "Guinea" "National" "Cases" 2695 "12/27/14" "Gvt" "Sitrep 256 27Dec" -118.0949123 34.0802806 "cases" 14-12-27
+"471" "Sierra Leone" "National" "Cases" 9079 "12/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-209.pdf" -118.0949123 34.0802806 "cases" 14-12-22
+"472" "Sierra Leone" "National" "Cases" 9155 "12/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-210.pdf" -118.0949123 34.0802806 "cases" 14-12-23
+"473" "Sierra Leone" "National" "Cases" 9203 "12/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-211.pdf" -118.0949123 34.0802806 "cases" 14-12-24
+"474" "Sierra Leone" "National" "Cases" 9276 "12/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-212.pdf" -118.0949123 34.0802806 "cases" 14-12-25
+"475" "Sierra Leone" "National" "Cases" 9339 "12/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-213.pdf" -118.0949123 34.0802806 "cases" 14-12-26
+"476" "Sierra Leone" "National" "Cases" 9409 "12/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-214.pdf" -118.0949123 34.0802806 "cases" 14-12-27
+"477" "Sierra Leone" "National" "Cases" 9446 "12/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-215.pdf" -118.0949123 34.0802806 "cases" 14-12-28
+"478" "Sierra Leone" "National" "Cases" 9546 "12/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-216.pdf" -118.0949123 34.0802806 "cases" 14-12-29
+"479" "Liberia" "National" "Cases" 7852 "12/19/14" "Gvt" "SITRep 218 Dec 19th 2014" -118.0949123 34.0802806 "cases" 14-12-19
+"480" "Liberia" "National" "Cases" 7862 "12/20/14" "Gvt" "SITRep 219 Dec 20th 2014" -118.0949123 34.0802806 "cases" 14-12-20
+"481" "Liberia" "National" "Cases" 7876 "12/21/14" "Gvt" "SITRep 220 Dec 21st 2014" -118.0949123 34.0802806 "cases" 14-12-21
+"482" "Liberia" "National" "Cases" 7922 "12/22/14" "Gvt" "SITRep 221 Dec 22nd 2014" -118.0949123 34.0802806 "cases" 14-12-22
+"483" "Liberia" "National" "Cases" 7938 "12/23/14" "Gvt" "SITRep 222 Dec 23rd 2014" -118.0949123 34.0802806 "cases" 14-12-23
+"484" "Liberia" "National" "Cases" 7977 "12/24/14" "Gvt" "SITRep 223 Dec 24th 2014" -118.0949123 34.0802806 "cases" 14-12-24
+"485" "Liberia" "National" "Cases" 7987 "12/25/14" "Gvt" "SITRep 224 Dec 25th 2014" -118.0949123 34.0802806 "cases" 14-12-25
+"486" "Liberia" "National" "Cases" 8002 "12/26/14" "Gvt" "SITRep 225 Dec 26th 2014" -118.0949123 34.0802806 "cases" 14-12-26
+"487" "Sierra Leone" "National" "Cases" 9605 "12/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-217.pdf" -118.0949123 34.0802806 "cases" 14-12-30
+"488" "Sierra Leone" "National" "Cases" 9633 "12/31/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-218.pdf" -118.0949123 34.0802806 "cases" 14-12-31
+"489" "Sierra Leone" "National" "Cases" 9683 "1/1/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-219.pdf" -118.0949123 34.0802806 "cases" 15-01-01
+"490" "Sierra Leone" "National" "Cases" 9719 "1/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-220.pdf" -118.0949123 34.0802806 "cases" 15-01-02
+"491" "Sierra Leone" "National" "Cases" 9772 "1/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-221.pdf" -118.0949123 34.0802806 "cases" 15-01-03
+"492" "Liberia" "National" "Cases" 8012 "12/27/14" "Gvt" "SITRep 226 Dec 27th 2014" -118.0949123 34.0802806 "cases" 14-12-27
+"493" "Liberia" "National" "Cases" 8017 "12/28/14" "Gvt" "SITRep 227 Dec 28th 2014" -118.0949123 34.0802806 "cases" 14-12-28
+"494" "Liberia" "National" "Cases" 8044 "12/29/14" "Gvt" "SITRep 228 Dec 29th 2014" -118.0949123 34.0802806 "cases" 14-12-29
+"495" "Liberia" "National" "Cases" 8087 "12/30/14" "Gvt" "SITRep 229 Dec 30th 2014" -118.0949123 34.0802806 "cases" 14-12-30
+"496" "Liberia" "National" "Cases" 8115 "12/31/14" "Gvt" "SITRep 230 Dec 31st 2014" -118.0949123 34.0802806 "cases" 14-12-31
+"497" "Guinea" "National" "Cases" 2706 "12/28/14" "Gvt" "Sitrep 257 28Dec" -118.0949123 34.0802806 "cases" 14-12-28
+"498" "Guinea" "National" "Cases" 2730 "12/29/14" "Gvt" "Sitrep 258 29Dec" -118.0949123 34.0802806 "cases" 14-12-29
+"499" "Guinea" "National" "Cases" 2739 "12/30/14" "Gvt" "Sitrep 259 30Dec" -118.0949123 34.0802806 "cases" 14-12-30
+"500" "Guinea" "National" "Cases" 2729 "12/31/14" "Gvt" "Sitrep 260 31Dec" -118.0949123 34.0802806 "cases" 14-12-31
+"501" "Guinea" "National" "Cases" 2750 "1/1/15" "Gvt" "Sitrep 261 1Jan" -118.0949123 34.0802806 "cases" 15-01-01
+"502" "Guinea" "National" "Cases" 2760 "1/2/15" "Gvt" "Sitrep 262 2Jan" -118.0949123 34.0802806 "cases" 15-01-02
+"503" "Guinea" "National" "Cases" 2769 "1/3/15" "Gvt" "Sitrep 263 3Jan" -118.0949123 34.0802806 "cases" 15-01-03
+"504" "Guinea" "National" "Cases" 2775 "1/4/15" "Gvt" "Sitrep 264 4Jan" -118.0949123 34.0802806 "cases" 15-01-04
+"505" "Sierra Leone" "National" "Cases" 9780 "1/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-222.pdf" -118.0949123 34.0802806 "cases" 15-01-04
+"506" "Sierra Leone" "National" "Cases" 9890 "1/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-223.pdf" -118.0949123 34.0802806 "cases" 15-01-05
+"507" "Liberia" "National" "Cases" 8128 "1/1/15" "Gvt" "SITRep 231 Jan 1st 2015" -118.0949123 34.0802806 "cases" 15-01-01
+"508" "Liberia" "National" "Cases" 8153 "1/2/15" "Gvt" "SITRep 232 Jan 2nd 2015" -118.0949123 34.0802806 "cases" 15-01-02
+"509" "Sierra Leone" "National" "Cases" 9930 "1/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-224.pdf" -118.0949123 34.0802806 "cases" 15-01-06
+"510" "Guinea" "National" "Cases" 2776 "1/5/15" "Gvt" "Sitrep 265 5Jan" -118.0949123 34.0802806 "cases" 15-01-05
+"511" "Sierra Leone" "National" "Cases" 9973 "1/7/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-225.pdf" -118.0949123 34.0802806 "cases" 15-01-07
+"512" "Liberia" "National" "Cases" 8162 "1/3/15" "Gvt" "SITRep 233 Jan 3rd 2015" -118.0949123 34.0802806 "cases" 15-01-03
+"513" "Liberia" "National" "Cases" 8170 "1/4/15" "Gvt" "SITRep 234 Jan 4th 2015" -118.0949123 34.0802806 "cases" 15-01-04
+"514" "Liberia" "National" "Cases" 8218 "1/5/15" "Gvt" "SITRep 235 Jan 5th 2015" -118.0949123 34.0802806 "cases" 15-01-05
+"515" "Liberia" "National" "Cases" 8256 "1/6/15" "Gvt" "SITRep 236 Jan 6th 2015" -118.0949123 34.0802806 "cases" 15-01-06
+"516" "Guinea" "National" "Cases" 2793 "1/7/15" "Gvt" "Sitrep 267 7Jan" -118.0949123 34.0802806 "cases" 15-01-07
+"517" "Guinea" "National" "Cases" 2797 "1/8/15" "Gvt" "Sitrep 268 8Jan" -118.0949123 34.0802806 "cases" 15-01-08
+"518" "Guinea" "National" "Cases" 2798 "1/9/15" "Gvt" "Sitrep 269 9Jan" -118.0949123 34.0802806 "cases" 15-01-09
+"519" "Guinea" "National" "Cases" 2799 "1/10/15" "Gvt" "Sitrep 270 10Jan" -118.0949123 34.0802806 "cases" 15-01-10
+"520" "Sierra Leone" "National" "Cases" 10009 "1/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-226.pdf" -118.0949123 34.0802806 "cases" 15-01-08
+"521" "Sierra Leone" "National" "Cases" 10056 "1/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-227.pdf" -118.0949123 34.0802806 "cases" 15-01-09
+"522" "Sierra Leone" "National" "Cases" 10094 "1/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-228.pdf" -118.0949123 34.0802806 "cases" 15-01-10
+"523" "Sierra Leone" "National" "Cases" 10124 "1/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-229.pdf" -118.0949123 34.0802806 "cases" 15-01-11
+"524" "Sierra Leone" "National" "Cases" 10150 "1/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-230.pdf" -118.0949123 34.0802806 "cases" 15-01-12
+"525" "Sierra Leone" "National" "Cases" 10186 "1/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-231.pdf" -118.0949123 34.0802806 "cases" 15-01-13
+"526" "Sierra Leone" "National" "Cases" 10216 "1/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-232.pdf" -118.0949123 34.0802806 "cases" 15-01-14
+"527" "Sierra Leone" "National" "Cases" 10251 "1/15/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-233.pdf" -118.0949123 34.0802806 "cases" 15-01-15
+"528" "Sierra Leone" "National" "Cases" 10286 "1/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-234.pdf" -118.0949123 34.0802806 "cases" 15-01-16
+"529" "Sierra Leone" "National" "Cases" 10306 "1/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-235.pdf" -118.0949123 34.0802806 "cases" 15-01-17
+"530" "Guinea" "National" "Cases" 2806 "1/11/15" "Gvt" "Sitrep 271 11Jan" -118.0949123 34.0802806 "cases" 15-01-11
+"531" "Guinea" "National" "Cases" 2825 "1/13/15" "Gvt" "Sitrep 273 13Jan" -118.0949123 34.0802806 "cases" 15-01-13
+"532" "Guinea" "National" "Cases" 2822 "1/14/15" "Gvt" "Sitrep 274 14Jan" -118.0949123 34.0802806 "cases" 15-01-14
+"533" "Guinea" "National" "Cases" 2865 "1/15/15" "Gvt" "Sitrep 275 15Jan" -118.0949123 34.0802806 "cases" 15-01-15
+"534" "Guinea" "National" "Cases" 2868 "1/16/15" "Gvt" "Sitrep 276 16Jan" -118.0949123 34.0802806 "cases" 15-01-16
+"535" "Guinea" "National" "Cases" 2873 "1/17/15" "Gvt" "Sitrep 277 17Jan" -118.0949123 34.0802806 "cases" 15-01-17
+"536" "Guinea" "National" "Cases" 2871 "1/18/15" "Gvt" "Sitrep 278 18Jan" -118.0949123 34.0802806 "cases" 15-01-18
+"537" "Guinea" "National" "Cases" 2873 "1/19/15" "Gvt" "Sitrep 279 19Jan" -118.0949123 34.0802806 "cases" 15-01-19
+"538" "Sierra Leone" "National" "Cases" 10340 "1/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-236.pdf" -118.0949123 34.0802806 "cases" 15-01-18
+"539" "Sierra Leone" "National" "Cases" 10362 "1/19/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-237.pdf" -118.0949123 34.0802806 "cases" 15-01-19
+"540" "Liberia" "National" "Cases" 8316 "1/10/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20240%20Jan%2010th%202015_1.pdf" -118.0949123 34.0802806 "cases" 15-01-10
+"541" "Liberia" "National" "Cases" 8322 "1/11/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20241%20Jan%2011th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-11
+"542" "Liberia" "National" "Cases" 8353 "1/12/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20242%20Jan%2012th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-12
+"543" "Liberia" "National" "Cases" 8377 "1/13/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20243%20Jan%2013th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-13
+"544" "Liberia" "National" "Cases" 8396 "1/14/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20244%20Jan%2014th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-14
+"545" "Liberia" "National" "Cases" 8423 "1/15/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20245%20Jan%2015th%202015_1.pdf" -118.0949123 34.0802806 "cases" 15-01-15
+"546" "Liberia" "National" "Cases" 8435 "1/16/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20246%20Jan%2016th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-16
+"547" "Liberia" "National" "Cases" 8447 "1/17/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20247%20Jan%2017th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-17
+"548" "Liberia" "National" "Cases" 8462 "1/18/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20248%20Jan%2018th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-18
+"549" "Guinea" "National" "Cases" 2873 "1/20/15" "Gvt" "Sitrep 280 20Jan" -118.0949123 34.0802806 "cases" 15-01-20
+"550" "Guinea" "National" "Cases" 2881 "1/21/15" "Gvt" "Sitrep 281 21Jan" -118.0949123 34.0802806 "cases" 15-01-21
+"551" "Sierra Leone" "National" "Cases" 10400 "1/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-238.pdf" -118.0949123 34.0802806 "cases" 15-01-20
+"552" "Sierra Leone" "National" "Cases" 10417 "1/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-239.pdf" -118.0949123 34.0802806 "cases" 15-01-21
+"553" "Guinea" "National" "Cases" 2893 "1/22/15" "Gvt" "Sitrep 282 22Jan" -118.0949123 34.0802806 "cases" 15-01-22
+"554" "Guinea" "National" "Cases" 2896 "1/23/15" "Gvt" "Sitrep 283 23Jan" -118.0949123 34.0802806 "cases" 15-01-23
+"555" "Guinea" "National" "Cases" 2909 "1/24/15" "Gvt" "Sitrep 284 24Jan" -118.0949123 34.0802806 "cases" 15-01-24
+"556" "Sierra Leone" "National" "Cases" 10457 "1/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-240.pdf" -118.0949123 34.0802806 "cases" 15-01-22
+"557" "Sierra Leone" "National" "Cases" 10471 "1/23/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-241.pdf" -118.0949123 34.0802806 "cases" 15-01-23
+"558" "Sierra Leone" "National" "Cases" 10491 "1/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-241.pdf" -118.0949123 34.0802806 "cases" 15-01-24
+"559" "Sierra Leone" "National" "Cases" 10518 "1/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-243.pdf" -118.0949123 34.0802806 "cases" 15-01-25
+"560" "Liberia" "National" "Cases" 8486 "1/19/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20249%20Jan%2019th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-19
+"561" "Liberia" "National" "Cases" 8507 "1/20/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20250%20Jan%2020th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-20
+"562" "Guinea" "National" "Cases" 2917 "1/25/15" "Gvt" "Sitrep 285 25Jan" -118.0949123 34.0802806 "cases" 15-01-25
+"563" "Guinea" "National" "Cases" 2921 "1/26/15" "Gvt" "Sitrep 286 26Jan" -118.0949123 34.0802806 "cases" 15-01-26
+"564" "Guinea" "National" "Cases" 2920 "1/27/15" "Gvt" "Sitrep 287 27Jan" -118.0949123 34.0802806 "cases" 15-01-27
+"565" "Sierra Leone" "National" "Cases" 10537 "1/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-244.pdf" -118.0949123 34.0802806 "cases" 15-01-26
+"566" "Sierra Leone" "National" "Cases" 10561 "1/27/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-245.pdf" -118.0949123 34.0802806 "cases" 15-01-27
+"567" "Liberia" "National" "Cases" 8704 "1/31/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20261%20Jan%2031st%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-31
+"568" "Guinea" "National" "Cases" 2959 "1/31/15" "Gvt" "Sitrep 291 31Jan" -118.0949123 34.0802806 "cases" 15-01-31
+"569" "Sierra Leone" "National" "Cases" 10637 "1/29/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-247.pdf" -118.0949123 34.0802806 "cases" 15-01-29
+"570" "Guinea" "National" "Cases" 2926 "1/28/15" "Gvt" "Sitrep 288 28Jan" -118.0949123 34.0802806 "cases" 15-01-28
+"571" "Guinea" "National" "Cases" 2928 "1/29/15" "Gvt" "Sitrep 289 29Jan" -118.0949123 34.0802806 "cases" 15-01-29
+"572" "Guinea" "National" "Cases" 2932 "1/30/15" "Gvt" "Sitrep 290 30Jan" -118.0949123 34.0802806 "cases" 15-01-30
+"573" "Liberia" "National" "Cases" 8592 "1/24/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20254%20Jan%2024th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-24
+"574" "Liberia" "National" "Cases" 8603 "1/25/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20255%20Jan%2025th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-25
+"575" "Liberia" "National" "Cases" 8649 "1/28/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20258%20Jan%2028th%202015%20F.pdf" -118.0949123 34.0802806 "cases" 15-01-28
+"576" "Liberia" "National" "Cases" 8666 "1/29/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20259%20Jan%2029th%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-29
+"577" "Liberia" "National" "Cases" 8704 "1/31/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20261%20Jan%2031st%202015.pdf" -118.0949123 34.0802806 "cases" 15-01-31
+"578" "Liberia" "National" "Cases" 8720 "2/1/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20262%20Feb%201st%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-01
+"579" "Liberia" "National" "Cases" 8738 "2/1/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20263%20Feb%202nd%202015%20Final.pdf" -118.0949123 34.0802806 "cases" 15-02-01
+"580" "Liberia" "National" "Cases" 8812 "2/5/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20266%20Feb%205th%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-05
+"581" "Liberia" "National" "Cases" 8852 "2/6/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20267%20Feb%206th%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-06
+"582" "Liberia" "National" "Cases" 8859 "2/7/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20268%20Feb%207th%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-07
+"583" "Sierra Leone" "National" "Cases" 7552 "1/31/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-249.pdf" -118.0949123 34.0802806 "cases" 15-01-31
+"584" "Sierra Leone" "National" "Cases" 6248 "2/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-250.pdf" -118.0949123 34.0802806 "cases" 15-02-02
+"585" "Sierra Leone" "National" "Cases" 6261 "2/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-251.pdf" -118.0949123 34.0802806 "cases" 15-02-03
+"586" "Sierra Leone" "National" "Cases" 6286 "2/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-252.pdf" -118.0949123 34.0802806 "cases" 15-02-04
+"587" "Sierra Leone" "National" "Cases" 6306 "2/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-253.pdf" -118.0949123 34.0802806 "cases" 15-02-05
+"588" "Sierra Leone" "National" "Cases" 6353 "2/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-255.pdf" -118.0949123 34.0802806 "cases" 15-02-06
+"589" "Sierra Leone" "National" "Cases" 10905 "2/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-256.pdf" -118.0949123 34.0802806 "cases" 15-02-08
+"590" "Sierra Leone" "National" "Cases" 6388 "2/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-257.pdf" -118.0949123 34.0802806 "cases" 15-02-09
+"591" "Sierra Leone" "National" "Cases" 10987 "2/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-259.pdf" -118.0949123 34.0802806 "cases" 15-02-10
+"592" "Liberia" "National" "Cases" 8864 "2/8/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20269%20Feb%208th%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-08
+"593" "Liberia" "National" "Cases" 8905 "2/9/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20270%20Feb%209th%202015.pdf" -118.0949123 34.0802806 "cases" 15-02-09
+"594" "Guinea" "National" "Cases" 2959 "1/31/15" "Gvt" "Sitrep 291 31Jan" -118.0949123 34.0802806 "cases" 15-01-31
+"595" "Guinea" "National" "Cases" 2975 "2/1/15" "Gvt" "Sitrep 292 01Fev" -118.0949123 34.0802806 "cases" 15-02-01
+"596" "Guinea" "National" "Cases" 2986 "2/2/15" "Gvt" "Sitrep 293 02Fev" -118.0949123 34.0802806 "cases" 15-02-02
+"597" "Sierra Leone" "National" "Cases" 11010 "2/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-260.pdf" -118.0949123 34.0802806 "cases" 15-02-11
+"598" "Sierra Leone" "National" "Cases" 11025 "2/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-261.pdf" -118.0949123 34.0802806 "cases" 15-02-12
+"599" "Sierra Leone" "National" "Cases" 11059 "2/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-262.pdf" -118.0949123 34.0802806 "cases" 15-02-13
+"600" "Sierra Leone" "National" "Cases" 11074 "2/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-263.pdf" -118.0949123 34.0802806 "cases" 15-02-14
+"601" "Sierra Leone" "National" "Cases" 11103 "2/15/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-264.pdf" -118.0949123 34.0802806 "cases" 15-02-15
+"602" "Sierra Leone" "National" "Cases" 11117 "2/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-265.pdf" -118.0949123 34.0802806 "cases" 15-02-16
+"603" "Sierra Leone" "National" "Cases" 11155 "2/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-266.pdf" -118.0949123 34.0802806 "cases" 15-02-17
+"604" "Sierra Leone" "National" "Cases" 11183 "2/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-267.pdf" -118.0949123 34.0802806 "cases" 15-02-18
+"605" "Sierra Leone" "National" "Cases" 11200 "2/19/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-268.pdf" -118.0949123 34.0802806 "cases" 15-02-19
+"606" "Sierra Leone" "National" "Cases" 11227 "2/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-269.pdf" -118.0949123 34.0802806 "cases" 15-02-20
+"607" "Sierra Leone" "National" "Cases" 11253 "2/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-270.pdf" -118.0949123 34.0802806 "cases" 15-02-21
+"608" "Sierra Leone" "National" "Cases" 11276 "2/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-271.pdf" -118.0949123 34.0802806 "cases" 15-02-22
+"609" "Sierra Leone" "National" "Cases" 5637 "2/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-272.pdf" -118.0949123 34.0802806 "cases" 15-02-24
+"610" "Sierra Leone" "National" "Cases" 11316 "2/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-273.pdf" -118.0949123 34.0802806 "cases" 15-02-25
+"611" "Sierra Leone" "National" "Cases" 8402 "2/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-274.pdf" -118.0949123 34.0802806 "cases" 15-02-26
+"612" "Sierra Leone" "National" "Cases" 9477 "2/28/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-276.pdf" -118.0949123 34.0802806 "cases" 15-02-28
+"613" "Sierra Leone" "National" "Cases" 9491 "3/1/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-277.pdf" -118.0949123 34.0802806 "cases" 15-03-01
+"614" "Sierra Leone" "National" "Cases" 11440 "3/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-278.pdf" -118.0949123 34.0802806 "cases" 15-03-02
+"615" "Sierra Leone" "National" "Cases" 11452 "3/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-279.pdf" -118.0949123 34.0802806 "cases" 15-03-03
+"616" "Sierra Leone" "National" "Cases" 11471 "3/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-280.pdf" -118.0949123 34.0802806 "cases" 15-03-04
+"617" "Sierra Leone" "National" "Cases" 8521 "3/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-281.pdf" -118.0949123 34.0802806 "cases" 15-03-05
+"618" "Sierra Leone" "National" "Cases" 11534 "3/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-282.pdf" -118.0949123 34.0802806 "cases" 15-03-06
+"619" "Sierra Leone" "National" "Cases" 10624 "3/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-284.pdf" -118.0949123 34.0802806 "cases" 15-03-08
+"620" "Sierra Leone" "National" "Cases" 11619 "3/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-285.pdf" -118.0949123 34.0802806 "cases" 15-03-09
+"621" "Sierra Leone" "National" "Cases" 10344 "3/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-286.pdf" -118.0949123 34.0802806 "cases" 15-03-10
+"622" "Sierra Leone" "National" "Cases" 11651 "3/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-287.pdf" -118.0949123 34.0802806 "cases" 15-03-11
+"623" "Guinea" "National" "Cases" 2988 "2/3/15" "Gvt" "Sitrep 294 03Fev" -118.0949123 34.0802806 "cases" 15-02-03
+"624" "Guinea" "National" "Cases" 2993 "2/4/15" "Gvt" "Sitrep 295 04Fev" -118.0949123 34.0802806 "cases" 15-02-04
+"625" "Guinea" "National" "Cases" 3005 "2/5/15" "Gvt" "Sitrep 296 05Fev" -118.0949123 34.0802806 "cases" 15-02-05
+"626" "Guinea" "National" "Cases" 3024 "2/6/15" "Gvt" "Sitrep 297 06Fev" -118.0949123 34.0802806 "cases" 15-02-06
+"627" "Guinea" "National" "Cases" 3042 "2/7/15" "Gvt" "Sitrep 298 07Fev" -118.0949123 34.0802806 "cases" 15-02-07
+"628" "Guinea" "National" "Cases" 3081 "2/10/15" "Gvt" "Sitrep 301  10Fev" -118.0949123 34.0802806 "cases" 15-02-10
+"629" "Guinea" "National" "Cases" 3083 "2/11/15" "Gvt" "Sitrep 302  11Fev" -118.0949123 34.0802806 "cases" 15-02-11
+"630" "Guinea" "National" "Cases" 3090 "2/12/15" "Gvt" "Sitrep 303  12Fev" -118.0949123 34.0802806 "cases" 15-02-12
+"631" "Guinea" "National" "Cases" 3099 "2/13/15" "Gvt" "Sitrep 304 13Fev" -118.0949123 34.0802806 "cases" 15-02-13
+"632" "Guinea" "National" "Cases" 3101 "2/14/15" "Gvt" "Sitrep 305 14Fev" -118.0949123 34.0802806 "cases" 15-02-14
+"633" "Guinea" "National" "Cases" 3113 "2/16/15" "Gvt" "Sitrep 307 16Fev" -118.0949123 34.0802806 "cases" 15-02-16
+"634" "Guinea" "National" "Cases" 3115 "2/17/15" "Gvt" "Sitrep 308 17Fev" -118.0949123 34.0802806 "cases" 15-02-17
+"635" "Guinea" "National" "Cases" 3120 "2/18/15" "Gvt" "Sitrep 30918Fev" -118.0949123 34.0802806 "cases" 15-02-18
+"636" "Guinea" "National" "Cases" 3131 "2/19/15" "Gvt" "Sitrep 31019Fev" -118.0949123 34.0802806 "cases" 15-02-19
+"637" "Guinea" "National" "Cases" 3149 "2/20/15" "Gvt" "Sitrep 31120Fev" -118.0949123 34.0802806 "cases" 15-02-20
+"638" "Guinea" "National" "Cases" 3155 "2/21/15" "Gvt" "Sitrep 31221Fev" -118.0949123 34.0802806 "cases" 15-02-21
+"639" "Guinea" "National" "Cases" 3155 "1/22/15" "Gvt" "sitrep 31322Fev" -118.0949123 34.0802806 "cases" 15-01-22
+"640" "Guinea" "National" "Cases" 3175 "2/24/15" "Gvt" "sitrep 31524Fev" -118.0949123 34.0802806 "cases" 15-02-24
+"641" "Guinea" "National" "Cases" 3190 "2/25/15" "Gvt" "sitrep 31625Fev" -118.0949123 34.0802806 "cases" 15-02-25
+"642" "Guinea" "National" "Cases" 3197 "2/26/15" "Gvt" "sitrep 31726Fev" -118.0949123 34.0802806 "cases" 15-02-26
+"643" "Guinea" "National" "Cases" 3197 "2/27/15" "Gvt" "sitrep 31827Fev" -118.0949123 34.0802806 "cases" 15-02-27
+"644" "Guinea" "National" "Cases" 3205 "2/28/15" "Gvt" "sitrep 31928Fev" -118.0949123 34.0802806 "cases" 15-02-28
+"645" "Guinea" "National" "Cases" 3219 "3/1/15" "Gvt" "sitrep 32001Mar" -118.0949123 34.0802806 "cases" 15-03-01
+"646" "Guinea" "National" "Cases" 3230 "3/2/15" "Gvt" "sitrep 32102Mar" -118.0949123 34.0802806 "cases" 15-03-02
+"647" "Guinea" "National" "Cases" 3237 "3/3/15" "Gvt" "sitrep 32203Mar" -118.0949123 34.0802806 "cases" 15-03-03
+"648" "Guinea" "National" "Cases" 3248 "3/4/15" "Gvt" "sitrep 32304Mar" -118.0949123 34.0802806 "cases" 15-03-04
+"649" "Guinea" "National" "Cases" 3259 "3/5/15" "Gvt" "sitrep 32405Mar" -118.0949123 34.0802806 "cases" 15-03-05
+"650" "Guinea" "National" "Cases" 3263 "3/6/15" "Gvt" "sitrep 32506Mar" -118.0949123 34.0802806 "cases" 15-03-06
+"651" "Sierra Leone" "National" "Cases" 11670 "3/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-288.pdf" -118.0949123 34.0802806 "cases" 15-03-12
+"652" "Sierra Leone" "National" "Cases" 11681 "3/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD_Vol-289.pdf" -118.0949123 34.0802806 "cases" 15-03-13
+"653" "Sierra Leone" "National" "Cases" 11696 "3/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-290.pdf" -118.0949123 34.0802806 "cases" 15-03-14
+"654" "Sierra Leone" "National" "Cases" 10438 "3/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-292.pdf" -118.0949123 34.0802806 "cases" 15-03-16
+"655" "Sierra Leone" "National" "Cases" 11743 "3/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-293.pdf" -118.0949123 34.0802806 "cases" 15-03-17
+"656" "Sierra Leone" "National" "Cases" 11753 "3/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-294.pdf" -118.0949123 34.0802806 "cases" 15-03-18
+"657" "Sierra Leone" "National" "Cases" 11776 "3/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-296.pdf" -118.0949123 34.0802806 "cases" 15-03-20
+"658" "Sierra Leone" "National" "Cases" 10746 "3/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-297.pdf" -118.0949123 34.0802806 "cases" 15-03-21
+"659" "Sierra Leone" "National" "Cases" 10759 "3/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-298.pdf" -118.0949123 34.0802806 "cases" 15-03-22
+"660" "Sierra Leone" "National" "Cases" 10771 "3/23/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-299.pdf" -118.0949123 34.0802806 "cases" 15-03-23
+"661" "Sierra Leone" "National" "Cases" 11828 "3/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-300.pdf" -118.0949123 34.0802806 "cases" 15-03-24
+"662" "Sierra Leone" "National" "Cases" 11840 "3/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-301.pdf" -118.0949123 34.0802806 "cases" 15-03-25
+"663" "Sierra Leone" "National" "Cases" 11863 "3/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-302.pdf" -118.0949123 34.0802806 "cases" 15-03-26
+"664" "Sierra Leone" "National" "Cases" 11881 "3/27/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-303.pdf" -118.0949123 34.0802806 "cases" 15-03-27
+"665" "Sierra Leone" "National" "Cases" 11890 "3/28/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-304.pdf" -118.0949123 34.0802806 "cases" 15-03-28

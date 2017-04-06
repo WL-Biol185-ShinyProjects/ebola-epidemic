@@ -1,0 +1,33 @@
+---
+title: "slider_data_cases"
+runtime: shiny
+output: html_document
+---
+
+```{r}
+cases_death_by_district_and_date_2_ <- read.csv("~/ebola-epidemic/cases_death_by_district_and_date(2).csv")
+
+```
+
+
+```{r}
+library(shiny)
+library(dplyr)
+library(ggplot2)
+
+```
+
+```{r}
+sliderInput("Date", label = h3("Date"), min = min(cases_death_by_district_and_date_2_$Date), 
+        max = max(cases_death_by_district_and_date_2_$Date), value = c(min(cases_death_by_district_and_date_2_$Date), max(cases_death_by_district_and_date_2_$Date)))
+
+renderPlot({
+cases_death_by_district_and_date_2_%>%
+  ggplot(aes(Date, Value, color=Localite)) + geom_point() + geom_smooth ()
+})
+```
+#i think that i need to make the date column into something else. 
+
+# dates <- (cases_death_by_district_and_date_2_$Date
+
+# as.Date(dates, "%m/%d/%y")

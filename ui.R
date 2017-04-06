@@ -20,7 +20,7 @@ datavariable$Value <- as.numeric(datavariable$Value)
 
 
 
-countrydata$NewDate <- as.Date(as.character(countrydata$NewDate))
+countrydata$Timeline <- as.Date(as.character(countrydata$Timeline))
 
 
 
@@ -30,7 +30,7 @@ casesdata$Localite <- as.character(casesdata$Localite)
 casesdata$Value <- as.numeric(casesdata$Value)
 
 
-cases_countrydata$NewDate <- as.Date(as.character(cases_countrydata$NewDate))
+cases_countrydata$Timeline <- as.Date(as.character(cases_countrydata$Timeline))
 
 
 
@@ -84,11 +84,23 @@ dashboardPage(skin = "green",
       tabItem("Introduction",
               
               fluidRow( 
+                column(width=6,
+
                 box(background = "black", width = 6, p("Ebola Virus Disease is a severe and sometimes fatal disease spread to humans from wild animals and is transmitted from human to human. It is transmitted by contact with blood, organs, or bodily fluids of an infected individual. It first appeared in 1976. These first outbreaks originated in villages of Central Africa near tropical rainforests, but the most recent epidemic affected major urban areas as well as rural areas. Controlling the disease spread has posed much difficulty in past outbreaks. There are no Ebola vaccines or licensed treatments proven to neutralize the virus. The most recent outbreak (March 2014) was the largest and most complex outbreak since the discovery of the disease.  Guinea, Liberia, and Sierra Leone were the countries most affected. They all have weak health systems, lack resources, and have recently emerged from conflict and instability.  This is a factor that led to why these countries were so badly affected. There are three genera and 5 species identified. The Zaire species caused the 2014 outbreak. This outbreak was so large that WHO Director-General declared it a Public Health Emergency of International Concern under the International Health Regulations.
-Due to both our interest in medicinal science and spread of infectious disease we decided to focus our project on this outbreak.")),
-                box(background = "green", img(src = "ebola_ecology_800px.jpg", width = 500))
+Due to both our interest in medicinal science and spread of infectious disease we decided to focus our project on this outbreak.")
+                    
+                    ),
+                box(background = "green", img(src = "Ebloa.jpg")))),
                 
-              )),
+                
+                fluidRow(
+                box(width = 6, background = "green", img(src = "ebola_ecology_800px.jpg")))
+                
+              
+              
+              
+              
+              ),
   #############################     
       
       tabItem("dataissues",
@@ -118,7 +130,7 @@ In organizing our data we discovered the importance of data reporting and data e
   tabItem("dashboard",
               
               
-          fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total deaths that occured in each localite. The radius of the blue circles represent the value of the amount of people that have died in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of deaths.")
+          fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total deaths that occured in each localite. The radius of the blue circles represent the value of the amount of people that have died in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of deaths. It should be noted that from June 27th to August 14th reaserchers only collected data on a national scale, so there is a lack of data for this time period.")
             
             
           )),
@@ -148,7 +160,7 @@ In organizing our data we discovered the importance of data reporting and data e
                              value = min(datavariable$Timeline)),
                      
                      
-                     selectInput("selectsociodeath", label = ("Socio-Economic Data"), 
+                     selectInput("selectsociodeath", label = ("Size by Socio-Economic Data"), 
                                  choices = colnames(datavariable)[14:18]),
                      
                      selectInput("selectcolordeath", label = ("Color by Localite or Country"), 
@@ -160,7 +172,7 @@ In organizing our data we discovered the importance of data reporting and data e
                
                
               fluidRow(
-                 box(width = 12, background = "blue", plotOutput("death_graph", height = "400", width = "1050")))),
+                 box(title = "The Total Number of Deaths up Until Date Selected", height = 700, width = 12, background = "blue", plotOutput("death_graph", height = "600")))),
     
     
 ####################################    
@@ -168,7 +180,7 @@ In organizing our data we discovered the importance of data reporting and data e
       tabItem("Cases",
               
               
-              fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total number of cases that occured in each localite. The radius of the blue circles represent the value of the amount of people that were diagnosed in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of cases.")
+              fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total number of cases that occured in each localite. The radius of the blue circles represent the value of the amount of people that were diagnosed in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of cases. It should be noted that from June 27th to August 14th reaserchers only collected data on a national scale, so there is a lack of data for this time period. ")
               )),
               
               fluidRow(
@@ -205,7 +217,7 @@ In organizing our data we discovered the importance of data reporting and data e
               
               
               fluidRow(
-                box(width=12, background = "blue", plotOutput("cases_graph", height = "400", width = "1050")))),
+                box(title = "The Total Number of Cases up Until Date Selected", height = 700, width= 12, background = "blue", plotOutput("cases_graph", height = "600")))),
       
       
 #####################################################################      
@@ -219,17 +231,31 @@ In organizing our data we discovered the importance of data reporting and data e
               ),
               
               fluidRow(
-               box(title = "Total Deaths", width = 12, background = "blue",
-              plotOutput("country_graph", height = "400", width = "1000"))),
+                
+               #box(title = "Total Deaths", width = 12, background = "blue",
+              #plotOutput("country_graph", height = "400", width = "1000"))),
               
               
-              fluidRow(
-                box(title = "Total Cases", width = 12, background = "blue",
-                plotOutput("casescountrygraph", height = "400", width = "1000")))
+              #fluidRow(
+                #box(title = "Total Cases", width = 12, background = "blue",
+               #plotOutput("casescountrygraph", height = "400", width = "1000")))
               
               
+                tabBox("National Data", id= "national", width = 12,
+                       
+                       tabPanel("Deaths", plotOutput("country_graph", height = "400")),
+                       tabPanel("Cases", plotOutput("casescountrygraph", height = "400"))))
+                  
+                  
+                
+                
+                
+                ),
+                
+                
+                
               
-              ),
+              
       
               
               
@@ -242,7 +268,7 @@ In organizing our data we discovered the importance of data reporting and data e
               
       tabItem("Socio",        
               
-              fluidRow(box(background= "blue", p("If you are interested in how two of the socioeconomic data types interact with eachother, use the two select boxes below to chagne the x and y variables on the corresponding graph. Enjoy!")
+              fluidRow(box(width = 12, background= "blue", p("If you are interested in how two of the socioeconomic data types interact with eachother, use the two select boxes below to chagne the x and y variables on the corresponding graph. Enjoy!")
                 
                 
               )),          
@@ -250,7 +276,7 @@ In organizing our data we discovered the importance of data reporting and data e
               fluidRow(
              
                   
-              box(status = "primary", background = "black", 
+              box(width = 12, status = "primary", background = "black", 
                   
                   selectInput("selectX", label = ("Select box for X"), 
                               choices = colnames(sociodata)), 
@@ -264,9 +290,9 @@ In organizing our data we discovered the importance of data reporting and data e
               
               
               
-              fluidRow(box(background = "blue", width = 6,
+              fluidRow(box(width = 12, background = "blue",
                 
-                plotOutput("GDPgraph", height = "400", width = "500"))
+                plotOutput("GDPgraph", height = "400"))
                       
               )),
   
@@ -292,7 +318,19 @@ Market research your competitors and peers trust. (n.d.). Retrieved April 02, 20
                 br(),
                 br(),
                 
-                a("Sub-national Time Series Data on Ebola Cases and Deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal and Mali since March 2014. Sub-national Time Series Data on Ebola Cases and Deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal and Mali since March 2014 - Humanitarian Data Exchange. HDX, n.d. Web. 04 Apr. 2017.", href="https://data.humdata.org/dataset/rowca-ebola-cases"))))
+                a("Sub-national Time Series Data on Ebola Cases and Deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal and Mali since March 2014. Sub-national Time Series Data on Ebola Cases and Deaths in Guinea, Liberia, Sierra Leone, Nigeria, Senegal and Mali since March 2014 - Humanitarian Data Exchange. HDX, n.d. Web. 04 Apr. 2017.", href="https://data.humdata.org/dataset/rowca-ebola-cases"),
+                
+                br(),
+                br(),
+                
+                a("D. Kahle and H. Wickham. ggmap: Spatial Visualization with ggplot2. The R Journal, 5(1), 144-161.", href = "http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf"),
+                
+                br(),
+                br(),
+                
+                a("Pharma2016. Zaire Ebola Virus. Digital image. Pharma Integrates, n.d. Web. 6 Apr. 2017.", href = "http://www.pharma-integrates.com/cepheid-receives-emergency-use-authorization-from-fda-for-xpert-ebola-diagnostic-test/")
+                
+                )))
   
   
       

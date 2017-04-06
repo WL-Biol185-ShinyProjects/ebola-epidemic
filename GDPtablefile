@@ -1,0 +1,665 @@
+"Country" "Localite" "Category" "Value" "Date" "Sources" "Link" "long" "lat" "categorylower" "NewDate" "Numericdate" "newvalue" "Numericvalue" "Avg household" "GDP"
+"1" "Guinea" "National" "Deaths" "80" "3/31/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-1-avril-2014" -118.0949123 34.0802806 "deaths" 14-03-31 -714325 "80" 80 8.74 523.12
+"2" "Guinea" "National" "Deaths" "83" "4/1/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-2-avril-2014-0" -118.0949123 34.0802806 "deaths" 14-04-01 -714324 "83" 83 8.74 523.12
+"3" "Guinea" "National" "Deaths" "86" "4/4/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-april-2014" -118.0949123 34.0802806 "deaths" 14-04-04 -714321 "86" 86 8.74 523.12
+"4" "Guinea" "National" "Deaths" "95" "4/7/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-7-avril-2014" -118.0949123 34.0802806 "deaths" 14-04-07 -714318 "95" 95 8.74 523.12
+"5" "Liberia" "National" "Deaths" "10" "4/8/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF-Liberia%20SitRep%20%2312%20Ebola%20Viral%20Disease%208%20April%202014_1.pdf" -118.0949123 34.0802806 "deaths" 14-04-08 -714317 "10" 10 4.97 454.13
+"6" "Liberia" "National" "Deaths" "12" "4/9/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20No.%2013%20Ebola%20Viral%20Disease%209%20April%202014_2.pdf" -118.0949123 34.0802806 "deaths" 14-04-09 -714316 "12" 12 4.97 454.13
+"7" "Guinea" "National" "Deaths" "101" "4/10/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-10-april-2014" -118.0949123 34.0802806 "deaths" 14-04-10 -714315 "101" 101 8.74 523.12
+"8" "Liberia" "National" "Deaths" "12" "4/10/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola%20Virus%20Disease%20Epidemic%20in%20Liberia%2010%20April%20report_2.pdf" -118.0949123 34.0802806 "deaths" 14-04-10 -714315 "12" 12 4.97 454.13
+"9" "Guinea" "National" "Deaths" "106" "4/11/14" "WHO" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-14-avril-2014" -118.0949123 34.0802806 "deaths" 14-04-11 -714314 "106" 106 8.74 523.12
+"10" "Liberia" "National" "Deaths" "13" "4/13/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/13aprilEbola%20Virus%20Disease%20Epidemic%20in%20Liberia.%20Sitrep%20No.11%281%29_0.pdf" -118.0949123 34.0802806 "deaths" 14-04-13 -714312 "13" 13 4.97 454.13
+"11" "Guinea" "National" "Deaths" "108" "4/14/14" "WHO" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-14-avril-2014" -118.0949123 34.0802806 "deaths" 14-04-14 -714311 "108" 108 8.74 523.12
+"12" "Guinea" "National" "Deaths" "122" "4/16/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-17-avril-2014" -118.0949123 34.0802806 "deaths" 14-04-16 -714309 "122" 122 8.74 523.12
+"13" "Liberia" "National" "Deaths" "13" "4/16/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep16%20Ebola%20Viral%20Disease%2016Apr2014_1.pdf" -118.0949123 34.0802806 "deaths" 14-04-16 -714309 "13" 13 4.97 454.13
+"14" "Guinea" "National" "Deaths" "129" "4/17/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-19-avril-2014" -118.0949123 34.0802806 "deaths" 14-04-17 -714308 "129" 129 8.74 523.12
+"15" "Liberia" "National" "Deaths" "13" "4/18/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/18th%20%20April%202014%20pdf%281%29_0.pdf" -118.0949123 34.0802806 "deaths" 14-04-18 -714307 "13" 13 4.97 454.13
+"16" "Guinea" "National" "Deaths" "136" "4/20/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-22-april-2014" -118.0949123 34.0802806 "deaths" 14-04-20 -714305 "136" 136 8.74 523.12
+"17" "Liberia" "National" "Deaths" "13" "4/21/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF-Liberia%20SitRep%20%2318%20Ebola%20Viral%20Disease%2021%20April%202014_2.pdf" -118.0949123 34.0802806 "deaths" 14-04-21 -714304 "13" 13 4.97 454.13
+"18" "Guinea" "National" "Deaths" "141" "4/23/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-25-april-2014" -118.0949123 34.0802806 "deaths" 14-04-23 -714302 "141" 141 8.74 523.12
+"19" "Liberia" "National" "Deaths" "11" "4/23/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/24_april_Ebola%20Viral%20Disease-Sit%20Rep-%2016-%2024th%20%20April%202014_1.pdf" -118.0949123 34.0802806 "deaths" 14-04-23 -714302 "11" 11 4.97 454.13
+"20" "Liberia" "National" "Deaths" "11" "4/24/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-655734_3.pdf" -118.0949123 34.0802806 "deaths" 14-04-24 -714301 "11" 11 4.97 454.13
+"21" "Guinea" "National" "Deaths" "143" "4/26/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-28-april-2014" -118.0949123 34.0802806 "deaths" 14-04-26 -714299 "143" 143 8.74 523.12
+"22" "Guinea" "National" "Deaths" "149" "5/1/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-2-may-2014" -118.0949123 34.0802806 "deaths" 14-05-01 -714294 "149" 149 8.74 523.12
+"23" "Liberia" "National" "Deaths" "11" "5/2/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20Ebola%20Virus%20Disease%20SitRep%2020_0.pdf" -118.0949123 34.0802806 "deaths" 14-05-02 -714293 "11" 11 4.97 454.13
+"24" "Guinea" "National" "Deaths" "155" "5/3/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-may-2014" -118.0949123 34.0802806 "deaths" 14-05-03 -714292 "155" 155 8.74 523.12
+"25" "Guinea" "National" "Deaths" "157" "5/5/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/maladie-virus-ebola-afrique-de-l-ouest-mise-jour-8-mai-2014" -118.0949123 34.0802806 "deaths" 14-05-05 -714290 "157" 157 8.74 523.12
+"26" "Guinea" "National" "Deaths" "158" "5/7/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-9-may-2014" -118.0949123 34.0802806 "deaths" 14-05-07 -714288 "158" 158 8.74 523.12
+"27" "Liberia" "National" "Deaths" "11" "5/9/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20%2321%20Ebola%20Viral%20Disease%20-%209%20May%202014_1.pdf" -118.0949123 34.0802806 "deaths" 14-05-09 -714286 "11" 11 4.97 454.13
+"28" "Guinea" "National" "Deaths" "157" "5/10/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-10-may-2014" -118.0949123 34.0802806 "deaths" 14-05-10 -714285 "157" 157 8.74 523.12
+"29" "Guinea" "National" "Deaths" "171" "5/12/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-15-may-2014" -118.0949123 34.0802806 "deaths" 14-05-12 -714283 "171" 171 8.74 523.12
+"30" "Guinea" "National" "Deaths" "174" "5/23/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-23-may-2014" -118.0949123 34.0802806 "deaths" 14-05-23 -714272 "174" 174 8.74 523.12
+"31" "Sierra Leone" "National" "Deaths" "5" "5/27/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Sierra%20Leone%20Ebola%20sitrep%2028%20May%202014.pdf" -118.0949123 34.0802806 "deaths" 14-05-27 -714268 "5" 5 5.56 678.96
+"32" "Guinea" "National" "Deaths" "193" "5/28/14" "Ministere de la Sante" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-30-may-2014" -118.0949123 34.0802806 "deaths" 14-05-28 -714267 "193" 193 8.74 523.12
+"33" "Sierra Leone" "National" "Deaths" "6" "5/29/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-663958_2.pdf" -118.0949123 34.0802806 "deaths" 14-05-29 -714266 "6" 6 5.56 678.96
+"34" "Guinea" "National" "Deaths" "193" "6/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-01-june-2014" -118.0949123 34.0802806 "deaths" 14-06-01 -714263 "193" 193 8.74 523.12
+"35" "Sierra Leone" "National" "Deaths" "6" "6/1/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-664928_3.pdf" -118.0949123 34.0802806 "deaths" 14-06-01 -714263 "6" 6 5.56 678.96
+"36" "Liberia" "National" "Deaths" "10" "6/2/14" "UNICEF" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/UNICEF%20Liberia%20SitRep%20%2322%20Ebola%20Viral%20Disease%202%20June%202014_0.pdf" -118.0949123 34.0802806 "deaths" 14-06-02 -714262 "10" 10 4.97 454.13
+"37" "Guinea" "National" "Deaths" "215" "6/3/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-5-june-2014" -118.0949123 34.0802806 "deaths" 14-06-03 -714261 "215" 215 8.74 523.12
+"38" "Guinea" "National" "Deaths" "226" "6/5/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-7-june-2014" -118.0949123 34.0802806 "deaths" 14-06-05 -714259 "226" 226 8.74 523.12
+"39" "Sierra Leone" "National" "Deaths" "6" "6/5/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-665698_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-05 -714259 "6" 6 5.56 678.96
+"40" "Sierra Leone" "National" "Deaths" "7" "6/6/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Sierra%20Leone%20Ebola%20sitrep%206th%20June.pdf.pdf" -118.0949123 34.0802806 "deaths" 14-06-06 -714258 "7" 7 5.56 678.96
+"41" "Liberia" "National" "Deaths" "10" "6/7/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola%20Viral%20Disease-Sit%20Rep-%2027-%207th%20June%202014%20pdf.pdf.pdf" -118.0949123 34.0802806 "deaths" 14-06-07 -714257 "10" 10 4.97 454.13
+"42" "Liberia" "National" "Deaths" "15" "6/11/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Ebola%20Viral%20Disease%20Sit%20Rep%2030-11th%20June%202014_1.pdf" -118.0949123 34.0802806 "deaths" 14-06-11 -714253 "15" 15 4.97 454.13
+"43" "Liberia" "National" "Deaths" "17" "6/13/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Ebola%20Viral%20Disease-Sit%20Rep-%2032-%2013th%20June%202014.pdf%20docx.pdf.pdf" -118.0949123 34.0802806 "deaths" 14-06-13 -714251 "17" 17 4.97 454.13
+"44" "Guinea" "National" "Deaths" "264" "6/16/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-17-june-2014" -118.0949123 34.0802806 "deaths" 14-06-16 -714248 "264" 264 8.74 523.12
+"45" "Liberia" "National" "Deaths" "24" "6/16/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-668291_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-16 -714248 "24" 24 4.97 454.13
+"46" "Sierra Leone" "National" "Deaths" "49" "6/17/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-668291_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-17 -714247 "49" 49 5.56 678.96
+"47" "Guinea" "National" "Deaths" "267" "6/18/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-22-june-2014" -118.0949123 34.0802806 "deaths" 14-06-18 -714246 "267" 267 8.74 523.12
+"48" "Liberia" "National" "Deaths" "25" "6/19/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669658_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-19 -714245 "25" 25 4.97 454.13
+"49" "Sierra Leone" "National" "Deaths" "58" "6/19/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669658_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-19 -714245 "58" 58 5.56 678.96
+"50" "Guinea" "National" "Deaths" "270" "6/20/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-situation-23-june-2014" -118.0949123 34.0802806 "deaths" 14-06-20 -714244 "270" 270 8.74 523.12
+"51" "Sierra Leone" "National" "Deaths" "35" "6/20/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669981_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-20 -714244 "35" 35 5.56 678.96
+"52" "Liberia" "National" "Deaths" "34" "6/22/14" "WHO" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/node-669981_2.pdf" -118.0949123 34.0802806 "deaths" 14-06-22 -714242 "34" 34 4.97 454.13
+"53" "Liberia" "National" "Deaths" "46" "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -118.0949123 34.0802806 "deaths" 14-06-26 -714238 "46" 46 4.97 454.13
+"54" "Guinea" "National" "Deaths" "293" "6/27/14" "WHO; Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Guinea_Ebola_Sit_Rep_n73%20du%2028_juin_2014%20update.pdf" -118.0949123 34.0802806 "deaths" 14-06-27 -714237 "293" 293 8.74 523.12
+"55" "Guinea" "National" "Deaths" "303" "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "deaths" 14-06-30 -714234 "303" 303 8.74 523.12
+"56" "Liberia" "National" "Deaths" "65" "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "deaths" 14-06-30 -714234 "65" 65 4.97 454.13
+"57" "Sierra Leone" "National" "Deaths" "99" "6/30/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-1-july-2014" -118.0949123 34.0802806 "deaths" 14-06-30 -714234 "99" 99 5.56 678.96
+"58" "Guinea" "National" "Deaths" "305" "7/2/14" "WHO" "http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4216-ebola-virus-disease-west-africa-3-july-2014.html" -118.0949123 34.0802806 "deaths" 14-07-02 -714232 "305" 305 8.74 523.12
+"59" "Liberia" "National" "Deaths" "75" "7/2/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-3-july-2014" -118.0949123 34.0802806 "deaths" 14-07-02 -714232 "75" 75 4.97 454.13
+"60" "Sierra Leone" "National" "Deaths" "101" "7/2/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-3-july-2014" -118.0949123 34.0802806 "deaths" 14-07-02 -714232 "101" 101 5.56 678.96
+"61" "Guinea" "National" "Deaths" "307" "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "deaths" 14-07-06 -714228 "307" 307 8.74 523.12
+"62" "Liberia" "National" "Deaths" "84" "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "deaths" 14-07-06 -714228 "84" 84 4.97 454.13
+"63" "Sierra Leone" "National" "Deaths" "127" "7/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-7-july-2014" -118.0949123 34.0802806 "deaths" 14-07-06 -714228 "127" 127 5.56 678.96
+"64" "Guinea" "National" "Deaths" "309" "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "deaths" 14-07-08 -714226 "309" 309 8.74 523.12
+"65" "Liberia" "National" "Deaths" "88" "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "deaths" 14-07-08 -714226 "88" 88 4.97 454.13
+"66" "Sierra Leone" "National" "Deaths" "142" "7/8/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-10-july-2014" -118.0949123 34.0802806 "deaths" 14-07-08 -714226 "142" 142 5.56 678.96
+"67" "Guinea" "National" "Deaths" "304" "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "deaths" 14-07-12 -714222 "304" 304 8.74 523.12
+"68" "Liberia" "National" "Deaths" "105" "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "deaths" 14-07-12 -714222 "105" 105 4.97 454.13
+"69" "Sierra Leone" "National" "Deaths" "194" "7/12/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-14-july-2014" -118.0949123 34.0802806 "deaths" 14-07-12 -714222 "194" 194 5.56 678.96
+"70" "Guinea" "National" "Deaths" "310" "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "deaths" 14-07-14 -714220 "310" 310 8.74 523.12
+"71" "Liberia" "National" "Deaths" "106" "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "deaths" 14-07-14 -714220 "106" 106 4.97 454.13
+"72" "Sierra Leone" "National" "Deaths" "197" "7/14/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease.pdf" -118.0949123 34.0802806 "deaths" 14-07-14 -714220 "197" 197 5.56 678.96
+"73" "Guinea" "National" "Deaths" "310" "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "deaths" 14-07-17 -714217 "310" 310 8.74 523.12
+"74" "Liberia" "National" "Deaths" "116" "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "deaths" 14-07-17 -714217 "116" 116 4.97 454.13
+"75" "Sierra Leone" "National" "Deaths" "206" "7/17/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_0.pdf" -118.0949123 34.0802806 "deaths" 14-07-17 -714217 "206" 206 5.56 678.96
+"76" "Guinea" "National" "Deaths" "314" "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-20 -714214 "314" 314 8.74 523.12
+"77" "Liberia" "National" "Deaths" "127" "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-20 -714214 "127" 127 4.97 454.13
+"78" "Sierra Leone" "National" "Deaths" "219" "7/20/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2023July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-20 -714214 "219" 219 5.56 678.96
+"79" "Guinea" "National" "Deaths" "319" "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-23 -714211 "319" 319 8.74 523.12
+"80" "Liberia" "National" "Deaths" "129" "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-23 -714211 "129" 129 4.97 454.13
+"81" "Sierra Leone" "National" "Deaths" "224" "7/23/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease%20West%20Africa%20update%2025July2014.pdf" -118.0949123 34.0802806 "deaths" 14-07-23 -714211 "224" 224 5.56 678.96
+"82" "Guinea" "National" "Deaths" "339" "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "deaths" 14-07-27 -714207 "339" 339 8.74 523.12
+"83" "Liberia" "National" "Deaths" "156" "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "deaths" 14-07-27 -714207 "156" 156 4.97 454.13
+"84" "Nigeria" "National" "Deaths" "1" "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "deaths" 14-07-27 -714207 "1" 1 4.8 3005.51
+"85" "Sierra Leone" "National" "Deaths" "233" "7/27/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-29-july-2014" -118.0949123 34.0802806 "deaths" 14-07-27 -714207 "233" 233 5.56 678.96
+"86" "Guinea" "National" "Deaths" "358" "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "deaths" 14-08-01 -714202 "358" 358 8.74 523.12
+"87" "Liberia" "National" "Deaths" "255" "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "deaths" 14-08-01 -714202 "255" 255 4.97 454.13
+"88" "Nigeria" "National" "Deaths" "1" "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "deaths" 14-08-01 -714202 "1" 1 4.8 3005.51
+"89" "Sierra Leone" "National" "Deaths" "273" "8/1/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-4-august-2014" -118.0949123 34.0802806 "deaths" 14-08-01 -714202 "273" 273 5.56 678.96
+"90" "Guinea" "National" "Deaths" "363" "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "deaths" 14-08-04 -714199 "363" 363 8.74 523.12
+"91" "Liberia" "National" "Deaths" "282" "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "deaths" 14-08-04 -714199 "282" 282 4.97 454.13
+"92" "Nigeria" "National" "Deaths" "1" "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "deaths" 14-08-04 -714199 "1" 1 4.8 3005.51
+"93" "Sierra Leone" "National" "Deaths" "286" "8/4/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-6-august-2014" -118.0949123 34.0802806 "deaths" 14-08-04 -714199 "286" 286 5.56 678.96
+"94" "Guinea" "National" "Deaths" "367" "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "deaths" 14-08-06 -714197 "367" 367 8.74 523.12
+"95" "Liberia" "National" "Deaths" "294" "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "deaths" 14-08-06 -714197 "294" 294 4.97 454.13
+"96" "Nigeria" "National" "Deaths" "2" "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "deaths" 14-08-06 -714197 "2" 2 4.8 3005.51
+"97" "Sierra Leone" "National" "Deaths" "298" "8/6/14" "WHO" "http://reliefweb.int/report/guinea/ebola-virus-disease-west-africa-update-8-august-2014" -118.0949123 34.0802806 "deaths" 14-08-06 -714197 "298" 298 5.56 678.96
+"98" "Guinea" "National" "Deaths" "373" "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "deaths" 14-08-09 -714194 "373" 373 8.74 523.12
+"99" "Liberia" "National" "Deaths" "323" "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "deaths" 14-08-09 -714194 "323" 323 4.97 454.13
+"100" "Nigeria" "National" "Deaths" "2" "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "deaths" 14-08-09 -714194 "2" 2 4.8 3005.51
+"101" "Sierra Leone" "National" "Deaths" "315" "8/9/14" "WHO" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola%20virus%20disease_1.pdf" -118.0949123 34.0802806 "deaths" 14-08-09 -714194 "315" 315 5.56 678.96
+"102" "Guinea" "National" "Deaths" "380" "8/14/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-14 -714189 "380" 380 8.74 523.12
+"103" "Liberia" "National" "Deaths" "435" "8/14/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-14 -714189 "435" 435 4.97 454.13
+"104" "Nigeria" "National" "Deaths" "4" "8/15/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-15 -714188 "4" 4 4.8 3005.51
+"105" "Sierra Leone" "National" "Deaths" "355" "8/15/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-15 -714188 "355" 355 5.56 678.96
+"106" "Guinea" "National" "Deaths" "394" "8/16/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-16 -714187 "394" 394 8.74 523.12
+"107" "Liberia" "National" "Deaths" "481" "8/17/14" "Gvt" "Liberia sitrep94" -118.0949123 34.0802806 "deaths" 14-08-17 -714186 "481" 481 4.97 454.13
+"108" "Nigeria" "National" "Deaths" "4" "8/17/14" "Gvt" "" -118.0949123 34.0802806 "deaths" 14-08-17 -714186 "4" 4 4.8 3005.51
+"109" "Sierra Leone" "National" "Deaths" "344" "8/17/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Ebola-Situation-Report_Vol-82_0.pdf" -118.0949123 34.0802806 "deaths" 14-08-17 -714186 "344" 344 5.56 678.96
+"110" "Liberia" "National" "Deaths" "565" "8/18/14" "Gvt" "Liberia sitrep95" -118.0949123 34.0802806 "deaths" 14-08-18 -714185 "565" 565 4.97 454.13
+"111" "Guinea" "National" "Deaths" "400" "8/19/14" "Gvt" "Sitrep 126 du 20 Aout" -118.0949123 34.0802806 "deaths" 14-08-19 -714184 "400" 400 8.74 523.12
+"112" "Liberia" "National" "Deaths" "587" "8/19/14" "Gvt" "Sitrep 96 du 19Aout" -118.0949123 34.0802806 "deaths" 14-08-19 -714184 "587" 587 4.97 454.13
+"113" "Nigeria" "National" "Deaths" "5" "8/19/14" "Gvt" "Sitrep 20 du 19Aout" -118.0949123 34.0802806 "deaths" 14-08-19 -714184 "5" 5 4.8 3005.51
+"114" "Sierra Leone" "National" "Deaths" "392" "8/19/14" "Gvt" "Sitrep 20Aout" -118.0949123 34.0802806 "deaths" 14-08-19 -714184 "392" 392 5.56 678.96
+"115" "Guinea" "National" "Deaths" "" "8/20/14" "WHO" "Guinea TC 21Aout" -118.0949123 34.0802806 "deaths" 14-08-20 -714183 "" NA 8.74 523.12
+"116" "Liberia" "National" "Deaths" "613" "8/20/14" "Gvt" "Sitrep 97 du 20Aout" -118.0949123 34.0802806 "deaths" 14-08-20 -714183 "613" 613 4.97 454.13
+"117" "Sierra Leone" "National" "Deaths" "361" "8/20/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-85.pdf" -118.0949123 34.0802806 "deaths" 14-08-20 -714183 "361" 361 5.56 678.96
+"118" "Nigeria" "National" "Deaths" "5" "8/21/14" "Gvt" "Sitrep 22 du 21Aout" -118.0949123 34.0802806 "deaths" 14-08-21 -714182 "5" 5 4.8 3005.51
+"119" "Nigeria" "National" "Deaths" "6" "8/22/14" "Gvt" "Sitrep 23 du 23Aout" -118.0949123 34.0802806 "deaths" 14-08-22 -714181 "6" 6 4.8 3005.51
+"120" "Guinea" "National" "Deaths" "423" "8/23/14" "GVT" "GUinea sitrep 130 du 24Aout" -118.0949123 34.0802806 "deaths" 14-08-23 -714180 "423" 423 8.74 523.12
+"121" "Nigeria" "National" "Deaths" "6" "8/23/14" "Gvt" "Sitrep 24 du 23Aout" -118.0949123 34.0802806 "deaths" 14-08-23 -714180 "6" 6 4.8 3005.51
+"122" "Sierra Leone" "National" "Deaths" "381" "8/23/14" "GVT" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-88.pdf" -118.0949123 34.0802806 "deaths" 14-08-23 -714180 "381" 381 5.56 678.96
+"123" "Liberia" "National" "Deaths" "743" "8/24/14" "Gvt" "Sitrep N101 du 24Aout" -118.0949123 34.0802806 "deaths" 14-08-24 -714179 "743" 743 4.97 454.13
+"124" "Sierra Leone" "National" "Deaths" "424" "8/24/14" "Gvt" "Sitrep 25Aug2014" -118.0949123 34.0802806 "deaths" 14-08-24 -714179 "424" 424 5.56 678.96
+"125" "Guinea" "National" "Deaths" "430" "8/25/14" "Gvt" "Sitrep N131 du 25Aout" -118.0949123 34.0802806 "deaths" 14-08-25 -714178 "430" 430 8.74 523.12
+"126" "Liberia" "National" "Deaths" "771" "8/25/14" "Gvt" "Sitrep N102 du 25Aout" -118.0949123 34.0802806 "deaths" 14-08-25 -714178 "771" 771 4.97 454.13
+"127" "Nigeria" "National" "Deaths" "6" "8/25/14" "Gvt" "Sitrep 25 du 25Aout" -118.0949123 34.0802806 "deaths" 14-08-25 -714178 "6" 6 4.8 3005.51
+"128" "Sierra Leone" "National" "Deaths" "400" "8/25/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-90.pdf" -118.0949123 34.0802806 "deaths" 14-08-25 -714178 "400" 400 5.56 678.96
+"129" "Guinea" "National" "Deaths" "435" "8/26/14" "Gvt" "Sitrep N132 du 26 Aout" -118.0949123 34.0802806 "deaths" 14-08-26 -714177 "435" 435 8.74 523.12
+"130" "Liberia" "National" "Deaths" "823" "8/26/14" "Gvt" "Sitrep N103 du 26Aout" -118.0949123 34.0802806 "deaths" 14-08-26 -714177 "823" 823 4.97 454.13
+"131" "Sierra Leone" "National" "Deaths" "447" "8/26/14" "Gvt" "Sitrep 27Aug" -118.0949123 34.0802806 "deaths" 14-08-26 -714177 "447" 447 5.56 678.96
+"132" "Guinea" "National" "Deaths" "438" "8/27/14" "Gvt" "Sitrep N133 du 27 Aout" -118.0949123 34.0802806 "deaths" 14-08-27 -714176 "438" 438 8.74 523.12
+"133" "Nigeria" "National" "Deaths" "7" "8/27/14" "Gvt" "Sitrep 28 du 27Aout" -118.0949123 34.0802806 "deaths" 14-08-27 -714176 "7" 7 4.8 3005.51
+"134" "Guinea" "National" "Deaths" "460" "8/28/14" "Gvt" "Sitrep N 135 29Aug" -118.0949123 34.0802806 "deaths" 14-08-28 -714175 "460" 460 8.74 523.12
+"135" "Liberia" "National" "Deaths" "885" "8/28/14" "Gvt" "Sitrep 105 28Aug" -118.0949123 34.0802806 "deaths" 14-08-28 -714175 "885" 885 4.97 454.13
+"136" "Nigeria" "National" "Deaths" "7" "8/28/14" "Gvt" "Sitrep N 29 28Aug" -118.0949123 34.0802806 "deaths" 14-08-28 -714175 "7" 7 4.8 3005.51
+"137" "Sierra Leone" "National" "Deaths" "455" "8/28/14" "Gvt" "Sitrep 29Aug" -118.0949123 34.0802806 "deaths" 14-08-28 -714175 "455" 455 5.56 678.96
+"138" "Guinea" "National" "Deaths" "468" "8/29/14" "Gvt" "Sitrep N 136 30Aug" -118.0949123 34.0802806 "deaths" 14-08-29 -714174 "468" 468 8.74 523.12
+"139" "Liberia" "National" "Deaths" "907" "8/29/14" "Gvt" "Sitrep 106 29 Aug" -118.0949123 34.0802806 "deaths" 14-08-29 -714174 "907" 907 4.97 454.13
+"140" "Guinea" "National" "Deaths" "489" "8/30/14" "Gvt" "Sitrep N 137 31Aug" -118.0949123 34.0802806 "deaths" 14-08-30 -714173 "489" 489 8.74 523.12
+"141" "Liberia" "National" "Deaths" "949" "8/30/14" "Gvt" "Sitrep 107 30 Aug" -118.0949123 34.0802806 "deaths" 14-08-30 -714173 "949" 949 4.97 454.13
+"142" "Nigeria" "National" "Deaths" "7" "8/30/14" "Gvt" "Sitrep N 31 30Aug" -118.0949123 34.0802806 "deaths" 14-08-30 -714173 "7" 7 4.8 3005.51
+"143" "Guinea" "National" "Deaths" "494" "8/31/14" "Gvt" "Sitrep N138 1Sep" -118.0949123 34.0802806 "deaths" 14-08-31 -714172 "494" 494 8.74 523.12
+"144" "Liberia" "National" "Deaths" "970" "8/31/14" "Gvt" "Sitrep 108 31 Aug" -118.0949123 34.0802806 "deaths" 14-08-31 -714172 "970" 970 4.97 454.13
+"145" "Sierra Leone" "National" "Deaths" "480" "8/31/14" "WHO" "Sitrep 1sep" -118.0949123 34.0802806 "deaths" 14-08-31 -714172 "480" 480 5.56 678.96
+"146" "Guinea" "National" "Deaths" "501" "9/1/14" "Gvt" "Sitrep 139 02Sep" -118.0949123 34.0802806 "deaths" 14-09-01 -714171 "501" 501 8.74 523.12
+"147" "Liberia" "National" "Deaths" "1,004" "9/1/14" "Gvt" "Sitrep 109 1sep" -118.0949123 34.0802806 "deaths" 14-09-01 -714171 "1004" 1004 4.97 454.13
+"148" "Nigeria" "National" "Deaths" "7" "9/1/14" "Gvt" "Sitrep N33 1Sep" -118.0949123 34.0802806 "deaths" 14-09-01 -714171 "7" 7 4.8 3005.51
+"149" "Guinea" "National" "Deaths" "517" "9/2/14" "Gvt" "Sitrep N140 3Sep" -118.0949123 34.0802806 "deaths" 14-09-02 -714170 "517" 517 8.74 523.12
+"150" "Liberia" "National" "Deaths" "1051" "9/2/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Liberia%20Ebola%20SitRep%20110%20Sept%202%2C%202014.pdf" -118.0949123 34.0802806 "deaths" 14-09-02 -714170 "1051" 1051 4.97 454.13
+"151" "Sierra Leone" "National" "Deaths" "447" "9/2/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-98.pdf" -118.0949123 34.0802806 "deaths" 14-09-02 -714170 "447" 447 5.56 678.96
+"152" "Guinea" "National" "Deaths" "522" "9/3/14" "Gvt" "Sitrep N141 4Sep" -118.0949123 34.0802806 "deaths" 14-09-03 -714169 "522" 522 8.74 523.12
+"153" "Liberia" "National" "Deaths" "1,078" "9/3/14" "Gvt" "Sitrep N111 3Sep" -118.0949123 34.0802806 "deaths" 14-09-03 -714169 "1078" 1078 4.97 454.13
+"154" "Sierra Leone" "National" "Deaths" "452" "9/3/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-99.pdf" -118.0949123 34.0802806 "deaths" 14-09-03 -714169 "452" 452 5.56 678.96
+"155" "Guinea" "National" "Deaths" "534" "9/4/14" "Gvt" "Sitrep N142 5Sep" -118.0949123 34.0802806 "deaths" 14-09-04 -714168 "534" 534 8.74 523.12
+"156" "Liberia" "National" "Deaths" "1114" "9/4/14" "Gvt" "Sitrep N112 4Sep" -118.0949123 34.0802806 "deaths" 14-09-04 -714168 "1114" 1114 4.97 454.13
+"157" "Guinea" "National" "Deaths" "551" "9/5/14" "Gvt" "Sitrep N143 6Sep" -118.0949123 34.0802806 "deaths" 14-09-05 -714167 "551" 551 8.74 523.12
+"158" "Liberia" "National" "Deaths" "1,169" "9/5/14" "Gvt" "Sitrep N113 5Sep" -118.0949123 34.0802806 "deaths" 14-09-05 -714167 "1169" 1169 4.97 454.13
+"159" "Senegal" "National" "Deaths" "0" "9/5/14" "Gvt" "Sitrep 5Sep" -118.0949123 34.0802806 "deaths" 14-09-05 -714167 "0" 0 9.56 1046.59
+"160" "Sierra Leone" "National" "Deaths" "461" "9/5/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-101.pdf" -118.0949123 34.0802806 "deaths" 14-09-05 -714167 "461" 461 5.56 678.96
+"161" "Guinea" "National" "Deaths" "555" "9/6/14" "Gvt" "Sitrep N144 7Sep" -118.0949123 34.0802806 "deaths" 14-09-06 -714166 "555" 555 8.74 523.12
+"162" "Liberia" "National" "Deaths" "1,213" "9/6/14" "Gvt" "Sitrep N114 6Sep" -118.0949123 34.0802806 "deaths" 14-09-06 -714166 "1213" 1213 4.97 454.13
+"163" "Senegal" "National" "Deaths" "0" "9/6/14" "Gvt" "Sitrep 6Sep" -118.0949123 34.0802806 "deaths" 14-09-06 -714166 "0" 0 9.56 1046.59
+"164" "Sierra Leone" "National" "Deaths" "474" "9/6/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-102.pdf" -118.0949123 34.0802806 "deaths" 14-09-06 -714166 "474" 474 5.56 678.96
+"165" "Guinea" "National" "Deaths" "557" "9/7/14" "Gvt" "Sitrep N145 8Sep" -118.0949123 34.0802806 "deaths" 14-09-07 -714165 "557" 557 8.74 523.12
+"166" "Liberia" "National" "Deaths" "1,235" "9/7/14" "Gvt" "Sitrep N115 7Sep" -118.0949123 34.0802806 "deaths" 14-09-07 -714165 "1235" 1235 4.97 454.13
+"167" "Nigeria" "National" "Deaths" "8" "9/7/14" "Gvt" "Sitrep N39 7Sep" -118.0949123 34.0802806 "deaths" 14-09-07 -714165 "8" 8 4.8 3005.51
+"168" "Senegal" "National" "Deaths" "0" "9/7/14" "Gvt" "Sitrep 7Sep" -118.0949123 34.0802806 "deaths" 14-09-07 -714165 "0" 0 9.56 1046.59
+"169" "Liberia" "National" "Deaths" "1212" "9/8/14" "Gvt" "Sitrep N116 8Sep" -118.0949123 34.0802806 "deaths" 14-09-08 -714164 "1212" 1212 4.97 454.13
+"170" "Senegal" "National" "Deaths" "0" "9/8/14" "Gvt" "Sitrep 8sep" -118.0949123 34.0802806 "deaths" 14-09-08 -714164 "0" 0 9.56 1046.59
+"171" "Guinea" "National" "Deaths" "568" "9/9/14" "Gvt" "Sitrep N147 9Sep" -118.0949123 34.0802806 "deaths" 14-09-09 -714163 "568" 568 8.74 523.12
+"172" "Senegal" "National" "Deaths" "0" "9/9/14" "Gvt" "Sitrep 9sep" -118.0949123 34.0802806 "deaths" 14-09-09 -714163 "0" 0 9.56 1046.59
+"173" "Sierra Leone" "National" "Deaths" "484" "9/9/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-105.pdf" -118.0949123 34.0802806 "deaths" 14-09-09 -714163 "484" 484 5.56 678.96
+"174" "Guinea" "National" "Deaths" "568" "9/10/14" "Gvt" "Sitrep 148 du 11Sep" -118.0949123 34.0802806 "deaths" 14-09-10 -714162 "568" 568 8.74 523.12
+"175" "Liberia" "National" "Deaths" "1296" "9/10/14" "Gvt" "Sitrep 118 du 10Sep" -118.0949123 34.0802806 "deaths" 14-09-10 -714162 "1296" 1296 4.97 454.13
+"176" "Nigeria" "National" "Deaths" "8" "9/10/14" "Gvt" "Sitrep 42 du 10Sep" -118.0949123 34.0802806 "deaths" 14-09-10 -714162 "8" 8 4.8 3005.51
+"177" "Sierra Leone" "National" "Deaths" "493" "9/10/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-106.pdf" -118.0949123 34.0802806 "deaths" 14-09-10 -714162 "493" 493 5.56 678.96
+"178" "Guinea" "National" "Deaths" "571" "9/11/14" "Gvt" "Sitrep 149 du 12Sep" -118.0949123 34.0802806 "deaths" 14-09-11 -714161 "571" 571 8.74 523.12
+"179" "Liberia" "National" "Deaths" "1349" "9/11/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Liberia%20Ebola%20SitRep%20119%20Sept%2011%2C%202014.pdf" -118.0949123 34.0802806 "deaths" 14-09-11 -714161 "1349" 1349 4.97 454.13
+"180" "Sierra Leone" "National" "Deaths" "547" "9/11/14" "WHO" "Sitrep 12 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-11 -714161 "547" 547 5.56 678.96
+"181" "Guinea" "National" "Deaths" "577" "9/12/14" "Gvt" "Sitrep150 13Sep" -118.0949123 34.0802806 "deaths" 14-09-12 -714160 "577" 577 8.74 523.12
+"182" "Senegal" "National" "Deaths" "0" "9/12/14" "Gvt" "Sitrep 12 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-12 -714160 "0" 0 9.56 1046.59
+"183" "Sierra Leone" "National" "Deaths" "507" "9/12/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-108.pdf" -118.0949123 34.0802806 "deaths" 14-09-12 -714160 "507" 507 5.56 678.96
+"184" "Guinea" "National" "Deaths" "595" "9/13/14" "Gvt" "Sitrep151 14Sep" -118.0949123 34.0802806 "deaths" 14-09-13 -714159 "595" 595 8.74 523.12
+"185" "Nigeria" "National" "Deaths" "8" "9/13/14" "Gvt" "Sitrep 45 du 13Sep" -118.0949123 34.0802806 "deaths" 14-09-13 -714159 "8" 8 4.8 3005.51
+"186" "Senegal" "National" "Deaths" "0" "9/13/14" "Gvt" "Sitrep 13 Sept 2024" -118.0949123 34.0802806 "deaths" 14-09-13 -714159 "0" 0 9.56 1046.59
+"187" "Guinea" "National" "Deaths" "601" "9/14/14" "Gvt" "Sitrep152 15Sep" -118.0949123 34.0802806 "deaths" 14-09-14 -714158 "601" 601 8.74 523.12
+"188" "Liberia" "National" "Deaths" "1,450" "9/14/14" "Gvt" "http://mohsw.gov.lr/documents/Ebola%20SitRep%20122_sep_14.pdf" -118.0949123 34.0802806 "deaths" 14-09-14 -714158 "1450" 1450 4.97 454.13
+"189" "Nigeria" "National" "Deaths" "8" "9/15/14" "Gvt" "Sitrep 47 du 15Sep" -118.0949123 34.0802806 "deaths" 14-09-15 -714157 "8" 8 4.8 3005.51
+"190" "Senegal" "National" "Deaths" "0" "9/15/14" "Gvt" "Sitrep 15 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-15 -714157 "0" 0 9.56 1046.59
+"191" "Guinea" "National" "Deaths" "608" "9/16/14" "Gvt" "Sitrep154 17Sep" -118.0949123 34.0802806 "deaths" 14-09-16 -714156 "608" 608 8.74 523.12
+"192" "Nigeria" "National" "Deaths" "8" "9/16/14" "Gvt" "Sitrep 48 du 16Sep" -118.0949123 34.0802806 "deaths" 14-09-16 -714156 "8" 8 4.8 3005.51
+"193" "Senegal" "National" "Deaths" "0" "9/16/14" "Gvt" "Sitrep 16 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-16 -714156 "0" 0 9.56 1046.59
+"194" "Sierra Leone" "National" "Deaths" "580" "9/16/14" "WHO" "Sitrep 17Sep" -118.0949123 34.0802806 "deaths" 14-09-16 -714156 "580" 580 5.56 678.96
+"195" "Sierra Leone" "National" "Deaths" "531" "9/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-112.pdf" -118.0949123 34.0802806 "deaths" 14-09-16 -714156 "531" 531 5.56 678.96
+"196" "Guinea" "National" "Deaths" "623" "9/17/14" "Gvt" "Sitrep155 18Sep" -118.0949123 34.0802806 "deaths" 14-09-17 -714155 "623" 623 8.74 523.12
+"197" "Senegal" "National" "Deaths" "0" "9/17/14" "Gvt" "Sitrep 17 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-17 -714155 "0" 0 9.56 1046.59
+"198" "Sierra Leone" "National" "Deaths" "537" "9/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-113.pdf" -118.0949123 34.0802806 "deaths" 14-09-17 -714155 "537" 537 5.56 678.96
+"199" "Nigeria" "National" "Deaths" "8" "9/18/14" "Gvt" "Sitrep 50 du 18Sep" -118.0949123 34.0802806 "deaths" 14-09-18 -714154 "8" 8 4.8 3005.51
+"200" "Sierra Leone" "National" "Deaths" "543" "9/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-114.pdf" -118.0949123 34.0802806 "deaths" 14-09-18 -714154 "543" 543 5.56 678.96
+"201" "Guinea" "National" "Deaths" "632" "9/19/14" "Gvt" "Sitrep157 20Sep" -118.0949123 34.0802806 "deaths" 14-09-19 -714153 "632" 632 8.74 523.12
+"202" "Liberia" "National" "Deaths" "1,633" "9/19/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20127%20Sept%2019,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "deaths" 14-09-19 -714153 "1633" 1633 4.97 454.13
+"203" "Nigeria" "National" "Deaths" "8" "9/19/14" "Gvt" "Sitrep 51 du 19Sep" -118.0949123 34.0802806 "deaths" 14-09-19 -714153 "8" 8 4.8 3005.51
+"204" "Sierra Leone" "National" "Deaths" "545" "9/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-115.pdf" -118.0949123 34.0802806 "deaths" 14-09-19 -714153 "545" 545 5.56 678.96
+"205" "Guinea" "National" "Deaths" "632" "9/20/14" "Gvt" "Sitrep158 21Sep" -118.0949123 34.0802806 "deaths" 14-09-20 -714152 "632" 632 8.74 523.12
+"206" "Liberia" "National" "Deaths" "" "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-09-20 -714152 "" NA 4.97 454.13
+"207" "Nigeria" "National" "Deaths" "8" "9/20/14" "Gvt" "Sitrep 52 du 20Sep" -118.0949123 34.0802806 "deaths" 14-09-20 -714152 "8" 8 4.8 3005.51
+"208" "Senegal" "National" "Deaths" "0" "9/20/14" "Gvt" "Sitrep 20 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-20 -714152 "0" 0 9.56 1046.59
+"209" "Sierra Leone" "National" "Deaths" "549" "9/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-116.pdf" -118.0949123 34.0802806 "deaths" 14-09-20 -714152 "549" 549 5.56 678.96
+"210" "Guinea" "National" "Deaths" "635" "9/21/14" "Gvt" "Sitrep159 22Sep" -118.0949123 34.0802806 "deaths" 14-09-21 -714151 "635" 635 8.74 523.12
+"211" "Liberia" "National" "Deaths" "1,709" "9/21/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20129%20Sept%2021,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "deaths" 14-09-21 -714151 "1709" 1709 4.97 454.13
+"212" "Nigeria" "National" "Deaths" "8" "9/21/14" "Gvt" "Sitrep 53 du 21Sep" -118.0949123 34.0802806 "deaths" 14-09-21 -714151 "8" 8 4.8 3005.51
+"213" "Sierra Leone" "National" "Deaths" "550" "9/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-117.pdf" -118.0949123 34.0802806 "deaths" 14-09-21 -714151 "550" 550 5.56 678.96
+"214" "Guinea" "National" "Deaths" "643" "9/22/14" "Gvt" "Sitrep160 23Sep" -118.0949123 34.0802806 "deaths" 14-09-22 -714150 "643" 643 8.74 523.12
+"215" "Liberia" "National" "Deaths" "1,768" "9/22/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20130%20Sept%2022,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "deaths" 14-09-22 -714150 "1768" 1768 4.97 454.13
+"216" "Sierra Leone" "National" "Deaths" "554" "9/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-118.pdf" -118.0949123 34.0802806 "deaths" 14-09-22 -714150 "554" 554 5.56 678.96
+"217" "Guinea" "National" "Deaths" "648" "9/23/14" "Gvt" "Sitrep161 24Sep" -118.0949123 34.0802806 "deaths" 14-09-23 -714149 "648" 648 8.74 523.12
+"218" "Liberia" "National" "Deaths" "1,819" "9/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20131Sept%2023,%202014.pptx%20New_1.pdf" -118.0949123 34.0802806 "deaths" 14-09-23 -714149 "1819" 1819 4.97 454.13
+"219" "Nigeria" "National" "Deaths" "8" "9/23/14" "Gvt" "Sitrep 55 du 23Sep" -118.0949123 34.0802806 "deaths" 14-09-23 -714149 "8" 8 4.8 3005.51
+"220" "Sierra Leone" "National" "Deaths" "557" "9/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-119.pdf" -118.0949123 34.0802806 "deaths" 14-09-23 -714149 "557" 557 5.56 678.96
+"221" "Senegal" "National" "Deaths" "0" "9/24/14" "Gvt" "Sitrep 24 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-24 -714148 "0" 0 9.56 1046.59
+"222" "Sierra Leone" "National" "Deaths" "557" "9/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-120.pdf" -118.0949123 34.0802806 "deaths" 14-09-24 -714148 "557" 557 5.56 678.96
+"223" "Guinea" "National" "Deaths" "668" "9/25/14" "Gvt" "Sitrep163 26Sep" -118.0949123 34.0802806 "deaths" 14-09-25 -714147 "668" 668 8.74 523.12
+"224" "Liberia" "National" "Deaths" "1,911" "9/25/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20133%20Sept%2025.%202014%20%282%29.pdf" -118.0949123 34.0802806 "deaths" 14-09-25 -714147 "1911" 1911 4.97 454.13
+"225" "Nigeria" "National" "Deaths" "8" "9/25/14" "Gvt" "Sitrep 57 du 25Sep" -118.0949123 34.0802806 "deaths" 14-09-25 -714147 "8" 8 4.8 3005.51
+"226" "Senegal" "National" "Deaths" "0" "9/25/14" "Gvt" "Sitrep 25 Sept 2024" -118.0949123 34.0802806 "deaths" 14-09-25 -714147 "0" 0 9.56 1046.59
+"227" "Sierra Leone" "National" "Deaths" "561" "9/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-121.pdf" -118.0949123 34.0802806 "deaths" 14-09-25 -714147 "561" 561 5.56 678.96
+"228" "Liberia" "National" "Deaths" "1,975" "9/26/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20134%20Sept%2026,%202014.pptx%20New%20%283%29.pdf" -118.0949123 34.0802806 "deaths" 14-09-26 -714146 "1975" 1975 4.97 454.13
+"229" "Sierra Leone" "National" "Deaths" "561" "9/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-122.pdf" -118.0949123 34.0802806 "deaths" 14-09-26 -714146 "561" 561 5.56 678.96
+"230" "Liberia" "National" "Deaths" "1,983" "9/27/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20135%20Sept%2027,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "deaths" 14-09-27 -714145 "1983" 1983 4.97 454.13
+"231" "Sierra Leone" "National" "Deaths" "566" "9/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-123.pdf" -118.0949123 34.0802806 "deaths" 14-09-27 -714145 "566" 566 5.56 678.96
+"232" "Guinea" "National" "Deaths" "710" "9/28/14" "Gvt" "Sitrep166 29Sep" -118.0949123 34.0802806 "deaths" 14-09-28 -714144 "710" 710 8.74 523.12
+"233" "Liberia" "National" "Deaths" "1,987" "9/28/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20Sit%20Rep%20136%20Sept%2028,%202014.pptx%20New.pdf" -118.0949123 34.0802806 "deaths" 14-09-28 -714144 "1987" 1987 4.97 454.13
+"234" "Sierra Leone" "National" "Deaths" "570" "9/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-124.pdf" -118.0949123 34.0802806 "deaths" 14-09-28 -714144 "570" 570 5.56 678.96
+"235" "Guinea" "National" "Deaths" "714" "9/29/14" "Gvt" "Sitrep167  30Sep" -118.0949123 34.0802806 "deaths" 14-09-29 -714143 "714" 714 8.74 523.12
+"236" "Liberia" "National" "Deaths" "2,026" "9/29/14" "Gvt" "Sitrep 137 29Sept" -118.0949123 34.0802806 "deaths" 14-09-29 -714143 "2026" 2026 4.97 454.13
+"237" "Nigeria" "National" "Deaths" "8" "9/29/14" "Gvt" "Sitrep 61 du 29Sep" -118.0949123 34.0802806 "deaths" 14-09-29 -714143 "8" 8 4.8 3005.51
+"238" "Senegal" "National" "Deaths" "0" "9/29/14" "Gvt" "Sitrep 29 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-29 -714143 "0" 0 9.56 1046.59
+"239" "Sierra Leone" "National" "Deaths" "575" "9/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-125.pdf" -118.0949123 34.0802806 "deaths" 14-09-29 -714143 "575" 575 5.56 678.96
+"240" "Guinea" "National" "Deaths" "722" "9/30/14" "Gvt" "Sitrep168 30Sep" -118.0949123 34.0802806 "deaths" 14-09-30 -714142 "722" 722 8.74 523.12
+"241" "Liberia" "National" "Deaths" "2,058" "9/30/14" "Gvt" "Sitrep 138 30Sept" -118.0949123 34.0802806 "deaths" 14-09-30 -714142 "2058" 2058 4.97 454.13
+"242" "Nigeria" "National" "Deaths" "8" "9/30/14" "Gvt" "Sitrep 62 du 30Sep" -118.0949123 34.0802806 "deaths" 14-09-30 -714142 "8" 8 4.8 3005.51
+"243" "Senegal" "National" "Deaths" "0" "9/30/14" "Gvt" "Sitrep 30 Sept 2014" -118.0949123 34.0802806 "deaths" 14-09-30 -714142 "0" 0 9.56 1046.59
+"244" "Sierra Leone" "National" "Deaths" "576" "9/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-126.pdf" -118.0949123 34.0802806 "deaths" 14-09-30 -714142 "576" 576 5.56 678.96
+"245" "Guinea" "National" "Deaths" "739" "10/1/14" "Gvt" "Sitrep169 1Oct" -118.0949123 34.0802806 "deaths" 14-10-01 -714141 "739" 739 8.74 523.12
+"246" "Liberia" "National" "Deaths" "2,082" "10/1/14" "Gvt" "Sitrep139 1Oct" -118.0949123 34.0802806 "deaths" 14-10-01 -714141 "2082" 2082 4.97 454.13
+"247" "Sierra Leone" "National" "Deaths" "580" "10/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-127.pdf" -118.0949123 34.0802806 "deaths" 14-10-01 -714141 "580" 580 5.56 678.96
+"248" "Liberia" "National" "Deaths" "2,116" "10/2/14" "Gvt" "Sitrep140 2Oct" -118.0949123 34.0802806 "deaths" 14-10-02 -714140 "2116" 2116 4.97 454.13
+"249" "Liberia" "National" "Deaths" "2,154" "10/3/14" "Gvt" "Sitrep141 3Oct" -118.0949123 34.0802806 "deaths" 14-10-03 -714139 "2154" 2154 4.97 454.13
+"250" "Sierra Leone" "National" "Deaths" "586" "10/3/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-129.pdf" -118.0949123 34.0802806 "deaths" 14-10-03 -714139 "586" 586 5.56 678.96
+"251" "Liberia" "National" "Deaths" "2,199" "10/4/14" "Gvt" "Sitrep142 4Oct" -118.0949123 34.0802806 "deaths" 14-10-04 -714138 "2199" 2199 4.97 454.13
+"252" "Sierra Leone" "National" "Deaths" "831" "10/4/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-130.pdf" -118.0949123 34.0802806 "deaths" 14-10-04 -714138 "831" 831 5.56 678.96
+"253" "Liberia" "National" "Deaths" "2,220" "10/5/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20143%20Oct%205th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-05 -714137 "2220" 2220 4.97 454.13
+"254" "Guinea" "National" "Deaths" "778" "10/7/14" "Gvt" "Sitrep175 7Oct" -118.0949123 34.0802806 "deaths" 14-10-07 -714135 "778" 778 8.74 523.12
+"255" "Guinea" "National" "Deaths" "789" "10/8/14" "Gvt" "Sitrep176 8Oct" -118.0949123 34.0802806 "deaths" 14-10-08 -714134 "789" 789 8.74 523.12
+"256" "Sierra Leone" "National" "Deaths" "890" "10/8/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-134.pdf" -118.0949123 34.0802806 "deaths" 14-10-08 -714134 "890" 890 5.56 678.96
+"257" "Guinea" "National" "Deaths" "808" "10/9/14" "Gvt" "Sitrep177 9Oct" -118.0949123 34.0802806 "deaths" 14-10-09 -714133 "808" 808 8.74 523.12
+"258" "Liberia" "National" "Deaths" "2,400" "10/9/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20147%20Oct%209th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-09 -714133 "2400" 2400 4.97 454.13
+"259" "Guinea" "National" "Deaths" "813" "10/10/14" "Gvt" "Sitrep178 10Oct" -118.0949123 34.0802806 "deaths" 14-10-10 -714132 "813" 813 8.74 523.12
+"260" "Liberia" "National" "Deaths" "2,414" "10/10/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20148%20Oct%2010th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-10 -714132 "2414" 2414 4.97 454.13
+"261" "Sierra Leone" "National" "Deaths" "1,156" "10/10/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-136.pdf" -118.0949123 34.0802806 "deaths" 14-10-10 -714132 "1156" 1156 5.56 678.96
+"262" "Guinea" "National" "Deaths" "831" "10/11/14" "Gvt" "Sitrep179 11Oct" -118.0949123 34.0802806 "deaths" 14-10-11 -714131 "831" 831 8.74 523.12
+"263" "Liberia" "National" "Deaths" "2,458" "10/11/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20149%20Oct%2011th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-11 -714131 "2458" 2458 4.97 454.13
+"264" "Sierra Leone" "National" "Deaths" "1,173" "10/11/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-137.pdf" -118.0949123 34.0802806 "deaths" 14-10-11 -714131 "1173" 1173 5.56 678.96
+"265" "Guinea" "National" "Deaths" "843" "10/12/14" "Gvt" "Sitrep180 12Oct" -118.0949123 34.0802806 "deaths" 14-10-12 -714130 "843" 843 8.74 523.12
+"266" "Liberia" "National" "Deaths" "2,462" "10/12/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20150%20Oct%2012th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-12 -714130 "2462" 2462 4.97 454.13
+"267" "Sierra Leone" "National" "Deaths" "1,183" "10/12/14" "Gvt" "https://www.humanitarianresponse.info/system/files/documents/files/Ebola-Situation-Report_Vol-138_0.pdf" -118.0949123 34.0802806 "deaths" 14-10-12 -714130 "1183" 1183 5.56 678.96
+"268" "Guinea" "National" "Deaths" "850" "10/13/14" "Gvt" "Sitrep181 13Oct" -118.0949123 34.0802806 "deaths" 14-10-13 -714129 "850" 850 8.74 523.12
+"269" "Liberia" "National" "Deaths" "2,484" "10/13/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20151%20Oct%2013th,%202014%20(1).pdf" -118.0949123 34.0802806 "deaths" 14-10-13 -714129 "2484" 2484 4.97 454.13
+"270" "Sierra Leone" "National" "Deaths" "1,198" "10/13/14" "Gvt" "Sitrep vol 139  13Oct" -118.0949123 34.0802806 "deaths" 14-10-13 -714129 "1198" 1198 5.56 678.96
+"271" "Guinea" "National" "Deaths" "862" "10/14/14" "Gvt" "Sitrep182 14Oct" -118.0949123 34.0802806 "deaths" 14-10-14 -714128 "862" 862 8.74 523.12
+"272" "Sierra Leone" "National" "Deaths" "1,200" "10/14/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-140.pdf" -118.0949123 34.0802806 "deaths" 14-10-14 -714128 "1200" 1200 5.56 678.96
+"273" "Sierra Leone" "National" "Deaths" "1,216" "10/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-141.pdf" -118.0949123 34.0802806 "deaths" 14-10-15 -714127 "1216" 1216 5.56 678.96
+"274" "Guinea" "National" "Deaths" "876" "10/15/14" "Gvt" "Sitrep183 15Oct" -118.0949123 34.0802806 "deaths" 14-10-15 -714127 "876" 876 8.74 523.12
+"275" "Guinea" "National" "Deaths" "883" "10/16/14" "Gvt" "Sitrep184 16Oct" -118.0949123 34.0802806 "deaths" 14-10-16 -714126 "883" 883 8.74 523.12
+"276" "Liberia" "National" "Deaths" "2,660" "10/16/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20154%20Oct%2016th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-16 -714126 "2660" 2660 4.97 454.13
+"277" "Sierra Leone" "National" "Deaths" "1,220" "10/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-142.pdf" -118.0949123 34.0802806 "deaths" 14-10-16 -714126 "1220" 1220 5.56 678.96
+"278" "Guinea" "National" "Deaths" "886" "10/17/14" "Gvt" "Sitrep185 17Oct" -118.0949123 34.0802806 "deaths" 14-10-17 -714125 "886" 886 8.74 523.12
+"279" "Liberia" "National" "Deaths" "2,689" "10/17/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20155%20Oct%2017th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-17 -714125 "2689" 2689 4.97 454.13
+"280" "Sierra Leone" "National" "Deaths" "1,227" "10/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-143.pdf" -118.0949123 34.0802806 "deaths" 14-10-17 -714125 "1227" 1227 5.56 678.96
+"281" "Guinea" "National" "Deaths" "901" "10/18/14" "Gvt" "Sitrep186 18Oct" -118.0949123 34.0802806 "deaths" 14-10-18 -714124 "901" 901 8.74 523.12
+"282" "Liberia" "National" "Deaths" "2,705" "10/18/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20156%20Oct%2018th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-18 -714124 "2705" 2705 4.97 454.13
+"283" "Sierra Leone" "National" "Deaths" "1,246" "10/18/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-144.pdf" -118.0949123 34.0802806 "deaths" 14-10-18 -714124 "1246" 1246 5.56 678.96
+"284" "Guinea" "National" "Deaths" "904" "10/19/14" "Gvt" "Sitrep187 19Oct" -118.0949123 34.0802806 "deaths" 14-10-19 -714123 "904" 904 8.74 523.12
+"285" "Liberia" "National" "Deaths" "2,709" "10/19/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20157%20Oct%2019th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-19 -714123 "2709" 2709 4.97 454.13
+"286" "Sierra Leone" "National" "Deaths" "1,259" "10/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-145.pdf" -118.0949123 34.0802806 "deaths" 14-10-19 -714123 "1259" 1259 5.56 678.96
+"287" "Guinea" "National" "Deaths" "916" "10/20/14" "Gvt" "Sitrep188 20Oct" -118.0949123 34.0802806 "deaths" 14-10-20 -714122 "916" 916 8.74 523.12
+"288" "Liberia" "National" "Deaths" "2,737" "10/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20158%20Oct%2020th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-20 -714122 "2737" 2737 4.97 454.13
+"289" "Sierra Leone" "National" "Deaths" "1,270" "10/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-146.pdf" -118.0949123 34.0802806 "deaths" 14-10-20 -714122 "1270" 1270 5.56 678.96
+"290" "Guinea" "National" "Deaths" "926" "10/21/14" "Gvt" "Sitrep189 21Oct" -118.0949123 34.0802806 "deaths" 14-10-21 -714121 "926" 926 8.74 523.12
+"291" "Liberia" "National" "Deaths" "2,770" "10/21/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20159%20Oct%2021th,%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-21 -714121 "2770" 2770 4.97 454.13
+"292" "Sierra Leone" "National" "Deaths" "1,274" "10/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-147.pdf" -118.0949123 34.0802806 "deaths" 14-10-21 -714121 "1274" 1274 5.56 678.96
+"293" "Guinea" "National" "Deaths" "941" "10/22/14" "Gvt" "Sitrep190 22Oct" -118.0949123 34.0802806 "deaths" 14-10-22 -714120 "941" 941 8.74 523.12
+"294" "Liberia" "National" "Deaths" "2,168" "10/22/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20160%20Oct%2022th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-22 -714120 "2168" 2168 4.97 454.13
+"295" "Sierra Leone" "National" "Deaths" "1,281" "10/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-148.pdf" -118.0949123 34.0802806 "deaths" 14-10-22 -714120 "1281" 1281 5.56 678.96
+"296" "Guinea" "National" "Deaths" "952" "10/23/14" "Gvt" "Sitrep191 23Oct" -118.0949123 34.0802806 "deaths" 14-10-23 -714119 "952" 952 8.74 523.12
+"297" "Liberia" "National" "Deaths" "2,104" "10/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20161%20Oct%2023th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-23 -714119 "2104" 2104 4.97 454.13
+"298" "Sierra Leone" "National" "Deaths" "1,299" "10/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-149.pdf" -118.0949123 34.0802806 "deaths" 14-10-23 -714119 "1299" 1299 5.56 678.96
+"299" "Guinea" "National" "Deaths" "981" "10/24/14" "Gvt" "Sitrep192 24Oct" -118.0949123 34.0802806 "deaths" 14-10-24 -714118 "981" 981 8.74 523.12
+"300" "Liberia" "National" "Deaths" "2,014" "10/24/14" "Gvt" "http://www.mohsw.gov.lr/content_display.php?press_id=152&sub=press_release" -118.0949123 34.0802806 "deaths" 14-10-24 -714118 "2014" 2014 4.97 454.13
+"301" "Mali" "National" "Deaths" "0" "10/24/14" "WHO" "Sitrep 1 24OCt" -118.0949123 34.0802806 "deaths" 14-10-24 -714118 "0" 0 5.7 715.13
+"302" "Sierra Leone" "National" "Deaths" "1,341" "10/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-150.pdf" -118.0949123 34.0802806 "deaths" 14-10-24 -714118 "1341" 1341 5.56 678.96
+"303" "Guinea" "National" "Deaths" "988" "10/25/14" "Gvt" "Sitrep193 25Oct" -118.0949123 34.0802806 "deaths" 14-10-25 -714117 "988" 988 8.74 523.12
+"304" "Liberia" "National" "Deaths" "2,106" "10/25/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITREP%20163%20Oct%2025th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-25 -714117 "2106" 2106 4.97 454.13
+"305" "Mali" "National" "Deaths" "0" "10/25/14" "WHO" "Sitrep 2 25OCt" -118.0949123 34.0802806 "deaths" 14-10-25 -714117 "0" 0 5.7 715.13
+"306" "Sierra Leone" "National" "Deaths" "1,383" "10/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-151.pdf" -118.0949123 34.0802806 "deaths" 14-10-25 -714117 "1383" 1383 5.56 678.96
+"307" "Guinea" "National" "Deaths" "994" "10/26/14" "Gvt" "Sitrep194 26Oct" -118.0949123 34.0802806 "deaths" 14-10-26 -714116 "994" 994 8.74 523.12
+"308" "Mali" "National" "Deaths" "1" "10/26/14" "WHO" "Sitrep 3 26OCt" -118.0949123 34.0802806 "deaths" 14-10-26 -714116 "1" 1 5.7 715.13
+"309" "Sierra Leone" "National" "Deaths" "1,387" "10/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-152.pdf" -118.0949123 34.0802806 "deaths" 14-10-26 -714116 "1387" 1387 5.56 678.96
+"310" "Guinea" "National" "Deaths" "1,000" "10/27/14" "Gvt" "Sitrep195 27Oct" -118.0949123 34.0802806 "deaths" 14-10-27 -714115 "1000" 1000 8.74 523.12
+"311" "Liberia" "National" "Deaths" "2,446" "10/27/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20165%20Oct%2027th%202014%20%281%29.pdf" -118.0949123 34.0802806 "deaths" 14-10-27 -714115 "2446" 2446 4.97 454.13
+"312" "Mali" "National" "Deaths" "1" "10/27/14" "WHO" "Sitrep 4 26OCt" -118.0949123 34.0802806 "deaths" 14-10-27 -714115 "1" 1 5.7 715.13
+"313" "Sierra Leone" "National" "Deaths" "1,419" "10/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-153.pdf" -118.0949123 34.0802806 "deaths" 14-10-27 -714115 "1419" 1419 5.56 678.96
+"314" "Guinea" "National" "Deaths" "1,014" "10/28/14" "Gvt" "Sitrep196 28Oct" -118.0949123 34.0802806 "deaths" 14-10-28 -714114 "1014" 1014 8.74 523.12
+"315" "Liberia" "National" "Deaths" "2,403" "10/28/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20166%20Oct%2028th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-28 -714114 "2403" 2403 4.97 454.13
+"316" "Mali" "National" "Deaths" "1" "10/28/14" "WHO" "Sitrep 5 28OCt" -118.0949123 34.0802806 "deaths" 14-10-28 -714114 "1" 1 5.7 715.13
+"317" "Sierra Leone" "National" "Deaths" "1,422" "10/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-154.pdf" -118.0949123 34.0802806 "deaths" 14-10-28 -714114 "1422" 1422 5.56 678.96
+"318" "Guinea" "National" "Deaths" "1,018" "10/29/14" "Gvt" "Sitrep197 29Oct" -118.0949123 34.0802806 "deaths" 14-10-29 -714113 "1018" 1018 8.74 523.12
+"319" "Liberia" "National" "Deaths" "2,609" "10/29/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20167%20Oct%2029th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-29 -714113 "2609" 2609 4.97 454.13
+"320" "Mali" "National" "Deaths" "1" "10/29/14" "WHO" "Sitrep 6 29OCt" -118.0949123 34.0802806 "deaths" 14-10-29 -714113 "1" 1 5.7 715.13
+"321" "Guinea" "National" "Deaths" "1,022" "10/30/14" "Gvt" "Sitrep198 30Oct" -118.0949123 34.0802806 "deaths" 14-10-30 -714112 "1022" 1022 8.74 523.12
+"322" "Liberia" "National" "Deaths" "2,636" "10/30/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20168%20Oct%2030th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-10-30 -714112 "2636" 2636 4.97 454.13
+"323" "Sierra Leone" "National" "Deaths" "1,429" "10/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/10/Ebola-Situation-Report_Vol-156.pdf" -118.0949123 34.0802806 "deaths" 14-10-30 -714112 "1429" 1429 5.56 678.96
+"324" "Guinea" "National" "Deaths" "1,025" "10/31/14" "Gvt" "Sitrep199 31Oct" -118.0949123 34.0802806 "deaths" 14-10-31 -714111 "1025" 1025 8.74 523.12
+"325" "Liberia" "National" "Deaths" "2,697" "10/31/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20169%20Oct%2031th%202014%20%281%29.pdf" -118.0949123 34.0802806 "deaths" 14-10-31 -714111 "2697" 2697 4.97 454.13
+"326" "Sierra Leone" "National" "Deaths" "1,435" "10/31/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-157.pdf" -118.0949123 34.0802806 "deaths" 14-10-31 -714111 "1435" 1435 5.56 678.96
+"327" "Guinea" "National" "Deaths" "1,031" "11/1/14" "Gvt" "Sitrep200 01Nov" -118.0949123 34.0802806 "deaths" 14-11-01 -714110 "1031" 1031 8.74 523.12
+"328" "Sierra Leone" "National" "Deaths" "1,442" "11/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-158.pdf" -118.0949123 34.0802806 "deaths" 14-11-01 -714110 "1442" 1442 5.56 678.96
+"329" "Guinea" "National" "Deaths" "1,041" "11/2/14" "Gvt" "Sitrep201 02Nov" -118.0949123 34.0802806 "deaths" 14-11-02 -714109 "1041" 1041 8.74 523.12
+"330" "Liberia" "National" "Deaths" "2,700" "11/2/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20171%20Nov%202nd%202014.pdf" -118.0949123 34.0802806 "deaths" 14-11-02 -714109 "2700" 2700 4.97 454.13
+"331" "Sierra Leone" "National" "Deaths" "1,450" "11/2/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-159.pdf" -118.0949123 34.0802806 "deaths" 14-11-02 -714109 "1450" 1450 5.56 678.96
+"332" "Guinea" "National" "Deaths" "1,054" "11/3/14" "Gvt" "Sitrep202 03Nov" -118.0949123 34.0802806 "deaths" 14-11-03 -714108 "1054" 1054 8.74 523.12
+"333" "Liberia" "National" "Deaths" "2,722" "11/3/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20172%20Nov%203rd%202014%20new.pdf" -118.0949123 34.0802806 "deaths" 14-11-03 -714108 "2722" 2722 4.97 454.13
+"334" "Guinea" "National" "Deaths" "1,060" "11/4/14" "Gvt" "Sitrep203 04Nov" -118.0949123 34.0802806 "deaths" 14-11-04 -714107 "1060" 1060 8.74 523.12
+"335" "Liberia" "National" "Deaths" "2,766" "11/4/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20173%20Nov%204th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-11-04 -714107 "2766" 2766 4.97 454.13
+"336" "Guinea" "National" "Deaths" "1,068" "11/5/14" "Gvt" "Sitrep204 05Nov" -118.0949123 34.0802806 "deaths" 14-11-05 -714106 "1068" 1068 8.74 523.12
+"337" "Mali" "National" "Deaths" "1" "11/5/14" "WHO" "Sitrep 12 05Nov." -118.0949123 34.0802806 "deaths" 14-11-05 -714106 "1" 1 5.7 715.13
+"338" "Guinea" "National" "Deaths" "1,087" "11/6/14" "Gvt" "Sitrep205 06Nov" -118.0949123 34.0802806 "deaths" 14-11-06 -714105 "1087" 1087 8.74 523.12
+"339" "Liberia" "National" "Deaths" "2,801" "11/6/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20175%20Nov%206th%202014%20%281%29.pdf" -118.0949123 34.0802806 "deaths" 14-11-06 -714105 "2801" 2801 4.97 454.13
+"340" "Sierra Leone" "National" "Deaths" "1,479" "11/6/14" "Gvt" "http://reliefweb.int/sites/reliefweb.int/files/resources/Ebola-Situation-Report_Vol-163.pdf" -118.0949123 34.0802806 "deaths" 14-11-06 -714105 "1479" 1479 5.56 678.96
+"341" "Guinea" "National" "Deaths" "1,096" "11/7/14" "Gvt" "Sitrep 206 07Nov" -118.0949123 34.0802806 "deaths" 14-11-07 -714104 "1096" 1096 8.74 523.12
+"342" "Liberia" "National" "Deaths" "2,823" "11/7/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20176%20Nov%207th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-11-07 -714104 "2823" 2823 4.97 454.13
+"343" "Sierra Leone" "National" "Deaths" "1,491" "11/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-164.pdf" -118.0949123 34.0802806 "deaths" 14-11-07 -714104 "1491" 1491 5.56 678.96
+"344" "Guinea" "National" "Deaths" "1,104" "11/8/14" "gvt" "Sitrep 207 08Nov" -118.0949123 34.0802806 "deaths" 14-11-08 -714103 "1104" 1104 8.74 523.12
+"345" "Liberia" "National" "Deaths" "2,836" "11/8/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20177%20Nov%208th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-11-08 -714103 "2836" 2836 4.97 454.13
+"346" "Sierra Leone" "National" "Deaths" "1,498" "11/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-165.pdf" -118.0949123 34.0802806 "deaths" 14-11-08 -714103 "1498" 1498 5.56 678.96
+"347" "Guinea" "National" "Deaths" "1,142" "11/9/14" "gvt" "Sitrep 208 09Nov" -118.0949123 34.0802806 "deaths" 14-11-09 -714102 "1142" 1142 8.74 523.12
+"348" "Sierra Leone" "National" "Deaths" "1,498" "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -118.0949123 34.0802806 "deaths" 14-11-09 -714102 "1498" 1498 5.56 678.96
+"349" "Guinea" "National" "Deaths" "1,156" "11/10/14" "gvt" "Sitrep 209 10Nov" -118.0949123 34.0802806 "deaths" 14-11-10 -714101 "1156" 1156 8.74 523.12
+"350" "Sierra Leone" "National" "Deaths" "1,514" "11/10/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-167.pdf" -118.0949123 34.0802806 "deaths" 14-11-10 -714101 "1514" 1514 5.56 678.96
+"351" "Guinea" "National" "Deaths" "1,166" "11/11/14" "gvt" "Sitrep 210 11Nov" -118.0949123 34.0802806 "deaths" 14-11-11 -714100 "1166" 1166 8.74 523.12
+"352" "Sierra Leone" "National" "Deaths" "1,514" "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -118.0949123 34.0802806 "deaths" 14-11-11 -714100 "1514" 1514 5.56 678.96
+"353" "Guinea" "National" "Deaths" "1,174" "11/12/14" "gvt" "Sitrep 211 11Nov" -118.0949123 34.0802806 "deaths" 14-11-12 -714099 "1174" 1174 8.74 523.12
+"354" "Mali" "National" "Deaths" "3" "11/12/14" "WHO" "Sitrep 19 12Nov." -118.0949123 34.0802806 "deaths" 14-11-12 -714099 "3" 3 5.7 715.13
+"355" "Sierra Leone" "National" "Deaths" "1,534" "11/12/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-169.pdf" -118.0949123 34.0802806 "deaths" 14-11-12 -714099 "1534" 1534 5.56 678.96
+"356" "Guinea" "National" "Deaths" "1,178" "11/13/14" "gvt" "Sitrep 212 13Nov" -118.0949123 34.0802806 "deaths" 14-11-13 -714098 "1178" 1178 8.74 523.12
+"357" "Liberia" "National" "Deaths" "2,938" "11/13/14" "Gvt" "SITRep 182 Nov 13th 2014" -118.0949123 34.0802806 "deaths" 14-11-13 -714098 "2938" 2938 4.97 454.13
+"358" "Sierra Leone" "National" "Deaths" "1,545" "11/13/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-170.pdf" -118.0949123 34.0802806 "deaths" 14-11-13 -714098 "1545" 1545 5.56 678.96
+"359" "Guinea" "National" "Deaths" "1,185" "11/14/14" "gvt" "Sitrep 213 13Nov" -118.0949123 34.0802806 "deaths" 14-11-14 -714097 "1185" 1185 8.74 523.12
+"360" "Mali" "National" "Deaths" "5" "11/14/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/MALI%20-%20EVD-%20Sitrep%2014%20Novembre%202014-22h00-1.pdf" -118.0949123 34.0802806 "deaths" 14-11-14 -714097 "5" 5 5.7 715.13
+"361" "Sierra Leone" "National" "Deaths" "1,561" "11/14/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-171.pdf" -118.0949123 34.0802806 "deaths" 14-11-14 -714097 "1561" 1561 5.56 678.96
+"362" "Guinea" "National" "Deaths" "1,189" "11/15/14" "gvt" "Sitrep 214 15Nov" -118.0949123 34.0802806 "deaths" 14-11-15 -714096 "1189" 1189 8.74 523.12
+"363" "Mali" "National" "Deaths" "5" "11/15/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/MALI%20-%20EVD-%20Sitrep%2017%20Novembre%202014_21h25.pdf" -118.0949123 34.0802806 "deaths" 14-11-15 -714096 "5" 5 5.7 715.13
+"364" "Sierra Leone" "National" "Deaths" "1,571" "11/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-172.pdf" -118.0949123 34.0802806 "deaths" 14-11-15 -714096 "1571" 1571 5.56 678.96
+"365" "Liberia" "National" "Deaths" "2,974" "11/16/14" "Gvt" "SITRep 186 Nov 17th 2014 (1)" -118.0949123 34.0802806 "deaths" 14-11-16 -714095 "2974" 2974 4.97 454.13
+"366" "Sierra Leone" "National" "Deaths" "1,588" "11/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-173.pdf" -118.0949123 34.0802806 "deaths" 14-11-16 -714095 "1588" 1588 5.56 678.96
+"367" "Guinea" "National" "Deaths" "1,200" "11/17/14" "Gvt" "Sitrep 216 17Nov" -118.0949123 34.0802806 "deaths" 14-11-17 -714094 "1200" 1200 8.74 523.12
+"368" "Sierra Leone" "National" "Deaths" "1,598" "11/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-174.pdf" -118.0949123 34.0802806 "deaths" 14-11-17 -714094 "1598" 1598 5.56 678.96
+"369" "Guinea" "National" "Deaths" "1,214" "11/18/14" "Gvt" "Sitrep 217 18Nov" -118.0949123 34.0802806 "deaths" 14-11-18 -714093 "1214" 1214 8.74 523.12
+"370" "Liberia" "National" "Deaths" "2,975" "11/18/14" "Gvt" "SITRep 187 Nov 18th 2014" -118.0949123 34.0802806 "deaths" 14-11-18 -714093 "2975" 2975 4.97 454.13
+"371" "Sierra Leone" "National" "Deaths" "1,606" "11/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-175.pdf" -118.0949123 34.0802806 "deaths" 14-11-18 -714093 "1606" 1606 5.56 678.96
+"372" "Guinea" "National" "Deaths" "1,224" "11/19/14" "Gvt" "Sitrep 218 19Nov" -118.0949123 34.0802806 "deaths" 14-11-19 -714092 "1224" 1224 8.74 523.12
+"373" "Liberia" "National" "Deaths" "2,992" "11/19/14" "Gvt" "SITRep 188 Nov 19th 2014" -118.0949123 34.0802806 "deaths" 14-11-19 -714092 "2992" 2992 4.97 454.13
+"374" "Mali" "National" "Deaths" "5" "11/19/14" "WHO" "MALI - EVD- Sitrep 19 Novembre 2014_22h03" -118.0949123 34.0802806 "deaths" 14-11-19 -714092 "5" 5 5.7 715.13
+"375" "Sierra Leone" "National" "Deaths" "1,615" "11/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-176.pdf" -118.0949123 34.0802806 "deaths" 14-11-19 -714092 "1615" 1615 5.56 678.96
+"376" "Guinea" "National" "Deaths" "1,235" "11/20/14" "Gvt" "Sitrep 219 20Nov" -118.0949123 34.0802806 "deaths" 14-11-20 -714091 "1235" 1235 8.74 523.12
+"377" "Liberia" "National" "Deaths" "3,016" "11/20/14" "Gvt" "SITRep 189 Nov 20th 2014" -118.0949123 34.0802806 "deaths" 14-11-20 -714091 "3016" 3016 4.97 454.13
+"378" "Sierra Leone" "National" "Deaths" "1,648" "11/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-177.pdf" -118.0949123 34.0802806 "deaths" 14-11-20 -714091 "1648" 1648 5.56 678.96
+"379" "Guinea" "National" "Deaths" "1,243" "11/21/14" "Gvt" "Sitrep 220 21Nov" -118.0949123 34.0802806 "deaths" 14-11-21 -714090 "1243" 1243 8.74 523.12
+"380" "Liberia" "National" "Deaths" "3,016" "11/21/14" "Gvt" "SITRep 190 Nov 21th 2014" -118.0949123 34.0802806 "deaths" 14-11-21 -714090 "3016" 3016 4.97 454.13
+"381" "Sierra Leone" "National" "Deaths" "1,669" "11/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-178.pdf" -118.0949123 34.0802806 "deaths" 14-11-21 -714090 "1669" 1669 5.56 678.96
+"382" "Guinea" "National" "Deaths" "1,250" "11/22/14" "Gvt" "Sitrep 221 22Nov" -118.0949123 34.0802806 "deaths" 14-11-22 -714089 "1250" 1250 8.74 523.12
+"383" "Liberia" "National" "Deaths" "3,016" "11/22/14" "Gvt" "SITRep 191 Nov 22th 2014" -118.0949123 34.0802806 "deaths" 14-11-22 -714089 "3016" 3016 4.97 454.13
+"384" "Sierra Leone" "National" "Deaths" "1,699" "11/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-179.pdf" -118.0949123 34.0802806 "deaths" 14-11-22 -714089 "1699" 1699 5.56 678.96
+"385" "Guinea" "National" "Deaths" "1,260" "11/23/14" "Gvt" "Sitrep 222 23Nov" -118.0949123 34.0802806 "deaths" 14-11-23 -714088 "1260" 1260 8.74 523.12
+"386" "Liberia" "National" "Deaths" "3,029" "11/23/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20192%20Nov%2023th%202014.pdf" -118.0949123 34.0802806 "deaths" 14-11-23 -714088 "3029" 3029 4.97 454.13
+"387" "Mali" "National" "Deaths" "6" "11/23/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2024%20Novembre%202014_20h00.pdf" -118.0949123 34.0802806 "deaths" 14-11-23 -714088 "6" 6 5.7 715.13
+"388" "Sierra Leone" "National" "Deaths" "1,730" "11/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-180.pdf" -118.0949123 34.0802806 "deaths" 14-11-23 -714088 "1730" 1730 5.56 678.96
+"389" "Guinea" "National" "Deaths" "1,268" "11/24/14" "Gvt" "Sitrep 223 24Nov" -118.0949123 34.0802806 "deaths" 14-11-24 -714087 "1268" 1268 8.74 523.12
+"390" "Liberia" "National" "Deaths" "4,181" "11/24/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20193%20Nov%2024th%202014P.pdf" -118.0949123 34.0802806 "deaths" 14-11-24 -714087 "4181" 4181 4.97 454.13
+"391" "Mali" "National" "Deaths" "6" "11/24/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2025%20Novembre%202014_20h30.pdf" -118.0949123 34.0802806 "deaths" 14-11-24 -714087 "6" 6 5.7 715.13
+"392" "Sierra Leone" "National" "Deaths" "1,763" "11/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-181.pdf" -118.0949123 34.0802806 "deaths" 14-11-24 -714087 "1763" 1763 5.56 678.96
+"393" "Guinea" "National" "Deaths" "1,284" "11/25/14" "Gvt" "Sitrep 224 25Nov" -118.0949123 34.0802806 "deaths" 14-11-25 -714086 "1284" 1284 8.74 523.12
+"394" "Mali" "National" "Deaths" "6" "11/25/14" "WHO" "http://www.clustersantemali.net/docs/Epidemio/Sitrep/MALI%20-%20EVD-%20Sitrep%2026%20Novembre%202014_21h25.pdf" -118.0949123 34.0802806 "deaths" 14-11-25 -714086 "6" 6 5.7 715.13
+"395" "Sierra Leone" "National" "Deaths" "1,795" "11/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-182.pdf" -118.0949123 34.0802806 "deaths" 14-11-25 -714086 "1795" 1795 5.56 678.96
+"396" "Sierra Leone" "National" "Deaths" "1,830" "11/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-183.pdf" -118.0949123 34.0802806 "deaths" 14-11-26 -714085 "1830" 1830 5.56 678.96
+"397" "Guinea" "National" "Deaths" "1,294" "11/26/14" "Gvt" "Sitrep 225 26Nov" -118.0949123 34.0802806 "deaths" 14-11-26 -714085 "1294" 1294 8.74 523.12
+"398" "Sierra Leone" "National" "Deaths" "1,847" "11/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-184.pdf" -118.0949123 34.0802806 "deaths" 14-11-27 -714084 "1847" 1847 5.56 678.96
+"399" "Sierra Leone" "National" "Deaths" "1,862" "11/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-185.pdf" -118.0949123 34.0802806 "deaths" 14-11-28 -714083 "1862" 1862 5.56 678.96
+"400" "Sierra Leone" "National" "Deaths" "1,888" "11/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-186.pdf" -118.0949123 34.0802806 "deaths" 14-11-29 -714082 "1888" 1888 5.56 678.96
+"401" "Guinea" "National" "Deaths" "1,322" "11/29/14" "Gvt" "Sitrep 228 29Nov" -118.0949123 34.0802806 "deaths" 14-11-29 -714082 "1322" 1322 8.74 523.12
+"402" "Liberia" "National" "Deaths" "3,075" "11/25/14" "Gvt" "SITRep 194 Nov 25th 2014" -118.0949123 34.0802806 "deaths" 14-11-25 -714086 "3075" 3075 4.97 454.13
+"403" "Liberia" "National" "Deaths" "3,079" "11/26/14" "Gvt" "SITRep 195 Nov 26th 2014" -118.0949123 34.0802806 "deaths" 14-11-26 -714085 "3079" 3079 4.97 454.13
+"404" "Liberia" "National" "Deaths" "3,079" "11/27/14" "Gvt" "SITRep 196 Nov 27th 2014" -118.0949123 34.0802806 "deaths" 14-11-27 -714084 "3079" 3079 4.97 454.13
+"405" "Liberia" "National" "Deaths" "3,145" "11/28/14" "Gvt" "SITRep 197 Nov 28th 2014" -118.0949123 34.0802806 "deaths" 14-11-28 -714083 "3145" 3145 4.97 454.13
+"406" "Sierra Leone" "National" "Deaths" "1,915" "11/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-187.pdf" -118.0949123 34.0802806 "deaths" 14-11-30 -714081 "1915" 1915 5.56 678.96
+"407" "Guinea" "National" "Deaths" "1,305" "11/27/14" "Gvt" "Sitrep 226 27Nov" -118.0949123 34.0802806 "deaths" 14-11-27 -714084 "1305" 1305 8.74 523.12
+"408" "Guinea" "National" "Deaths" "1,312" "11/28/14" "Gvt" "Sitrep 227 28Nov" -118.0949123 34.0802806 "deaths" 14-11-28 -714083 "1312" 1312 8.74 523.12
+"409" "Guinea" "National" "Deaths" "1,327" "11/30/14" "Gvt" "Sitrep 229 30Nov" -118.0949123 34.0802806 "deaths" 14-11-30 -714081 "1327" 1327 8.74 523.12
+"410" "Sierra Leone" "National" "Deaths" "1,941" "12/1/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-188.pdf" -118.0949123 34.0802806 "deaths" 14-12-01 -714080 "1941" 1941 5.56 678.96
+"411" "Sierra Leone" "National" "Deaths" "1,967" "12/2/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-189.pdf" -118.0949123 34.0802806 "deaths" 14-12-02 -714079 "1967" 1967 5.56 678.96
+"412" "Liberia" "National" "Deaths" "3,155" "11/29/14" "Gvt" "SITRep 198 Nov 29th 2014" -118.0949123 34.0802806 "deaths" 14-11-29 -714082 "3155" 3155 4.97 454.13
+"413" "Liberia" "National" "Deaths" "3,157" "11/30/14" "Gvt" "SITRep 199 Nov 30th 2014" -118.0949123 34.0802806 "deaths" 14-11-30 -714081 "3157" 3157 4.97 454.13
+"414" "Liberia" "National" "Deaths" "3,161" "12/1/14" "Gvt" "SITRep 200 Dec 1st 2014" -118.0949123 34.0802806 "deaths" 14-12-01 -714080 "3161" 3161 4.97 454.13
+"415" "Guinea" "National" "Deaths" "1,349" "12/2/14" "Gvt" "Sitrep 231 02Dec" -118.0949123 34.0802806 "deaths" 14-12-02 -714079 "1349" 1349 8.74 523.12
+"416" "Liberia" "National" "Deaths" "3,161" "12/2/14" "Gvt" "SITRep 201 Dec 2nd 2014" -118.0949123 34.0802806 "deaths" 14-12-02 -714079 "3161" 3161 4.97 454.13
+"417" "Liberia" "National" "Deaths" "3,177" "12/3/14" "Gvt" "SITRep 202 Dec 3rd 2014" -118.0949123 34.0802806 "deaths" 14-12-03 -714078 "3177" 3177 4.97 454.13
+"418" "Guinea" "National" "Deaths" "1,366" "12/3/14" "Gvt" "Sitrep 232 03Dec" -118.0949123 34.0802806 "deaths" 14-12-03 -714078 "1366" 1366 8.74 523.12
+"419" "Guinea" "National" "Deaths" "1,392" "12/4/14" "Gvt" "Sitrep 233 04Dec" -118.0949123 34.0802806 "deaths" 14-12-04 -714077 "1392" 1392 8.74 523.12
+"420" "Guinea" "National" "Deaths" "1,407" "12/5/14" "Gvt" "Sitrep 234 05Dec" -118.0949123 34.0802806 "deaths" 14-12-05 -714076 "1407" 1407 8.74 523.12
+"421" "Guinea" "National" "Deaths" "1,412" "12/6/14" "Gvt" "Sitrep 235 06Dec" -118.0949123 34.0802806 "deaths" 14-12-06 -714075 "1412" 1412 8.74 523.12
+"422" "Guinea" "National" "Deaths" "1,428" "12/7/14" "Gvt" "Sitrep 236 06Dec" -118.0949123 34.0802806 "deaths" 14-12-07 -714074 "1428" 1428 8.74 523.12
+"423" "Guinea" "National" "Deaths" "1,454" "12/9/14" "Gvt" "Sitrep 238 06Dec" -118.0949123 34.0802806 "deaths" 14-12-09 -714072 "1454" 1454 8.74 523.12
+"424" "Guinea" "National" "Deaths" "1,518" "12/13/14" "Gvt" "Sitrep 242 13Dec" -118.0949123 34.0802806 "deaths" 14-12-13 -714068 "1518" 1518 8.74 523.12
+"425" "Sierra Leone" "National" "Deaths" "2,014" "12/4/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-191.pdf" -118.0949123 34.0802806 "deaths" 14-12-04 -714077 "2014" 2014 5.56 678.96
+"426" "Sierra Leone" "National" "Deaths" "2,035" "12/5/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-192.pdf" -118.0949123 34.0802806 "deaths" 14-12-05 -714076 "2035" 2035 5.56 678.96
+"427" "Sierra Leone" "National" "Deaths" "2,074" "12/6/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-193.pdf" -118.0949123 34.0802806 "deaths" 14-12-06 -714075 "2074" 2074 5.56 678.96
+"428" "Sierra Leone" "National" "Deaths" "2,100" "12/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-194.pdf" -118.0949123 34.0802806 "deaths" 14-12-07 -714074 "2100" 2100 5.56 678.96
+"429" "Sierra Leone" "National" "Deaths" "2,152" "12/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-195.pdf" -118.0949123 34.0802806 "deaths" 14-12-08 -714073 "2152" 2152 5.56 678.96
+"430" "Sierra Leone" "National" "Deaths" "2,189" "12/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-196.pdf" -118.0949123 34.0802806 "deaths" 14-12-09 -714072 "2189" 2189 5.56 678.96
+"431" "Sierra Leone" "National" "Deaths" "2,231" "12/10/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-197.pdf" -118.0949123 34.0802806 "deaths" 14-12-10 -714071 "2231" 2231 5.56 678.96
+"432" "Sierra Leone" "National" "Deaths" "2,276" "12/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-198.pdf" -118.0949123 34.0802806 "deaths" 14-12-11 -714070 "2276" 2276 5.56 678.96
+"433" "Sierra Leone" "National" "Deaths" "2,318" "12/12/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-199.pdf" -118.0949123 34.0802806 "deaths" 14-12-12 -714069 "2318" 2318 5.56 678.96
+"434" "Sierra Leone" "National" "Deaths" "2,365" "12/13/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-200.pdf" -118.0949123 34.0802806 "deaths" 14-12-13 -714068 "2365" 2365 5.56 678.96
+"435" "Sierra Leone" "National" "Deaths" "2,417" "12/14/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-201.pdf" -118.0949123 34.0802806 "deaths" 14-12-14 -714067 "2417" 2417 5.56 678.96
+"436" "Liberia" "National" "Deaths" "3,177" "12/4/14" "Gvt" "SITRep 203 Dec 4th 2014" -118.0949123 34.0802806 "deaths" 14-12-04 -714077 "3177" 3177 4.97 454.13
+"437" "Liberia" "National" "Deaths" "3,206" "12/5/14" "Gvt" "SITRep 204 Dec 5th 2014" -118.0949123 34.0802806 "deaths" 14-12-05 -714076 "3206" 3206 4.97 454.13
+"438" "Liberia" "National" "Deaths" "3,212" "12/5/14" "Gvt" "SITRep 205 Dec 6th 2014" -118.0949123 34.0802806 "deaths" 14-12-05 -714076 "3212" 3212 4.97 454.13
+"439" "Liberia" "National" "Deaths" "3,222" "12/6/14" "Gvt" "SITRep 206 Dec 7th 2014" -118.0949123 34.0802806 "deaths" 14-12-06 -714075 "3222" 3222 4.97 454.13
+"440" "Liberia" "National" "Deaths" "3,255" "12/7/14" "Gvt" "SITRep 207 Dec 8th 2014" -118.0949123 34.0802806 "deaths" 14-12-07 -714074 "3255" 3255 4.97 454.13
+"441" "Liberia" "National" "Deaths" "3,290" "12/8/14" "Gvt" "SITRep 208 Dec 9th 2014" -118.0949123 34.0802806 "deaths" 14-12-08 -714073 "3290" 3290 4.97 454.13
+"442" "Liberia" "National" "Deaths" "3,298" "12/9/14" "Gvt" "SITRep 209 Dec 10th 2014" -118.0949123 34.0802806 "deaths" 14-12-09 -714072 "3298" 3298 4.97 454.13
+"443" "Liberia" "National" "Deaths" "3,302" "12/11/14" "Gvt" "SITRep 210 Dec 11th 2014" -118.0949123 34.0802806 "deaths" 14-12-11 -714070 "3302" 3302 4.97 454.13
+"444" "Liberia" "National" "Deaths" "3,304" "12/12/14" "Gvt" "SITRep 211 Dec 12th 2014" -118.0949123 34.0802806 "deaths" 14-12-12 -714069 "3304" 3304 4.97 454.13
+"445" "Liberia" "National" "Deaths" "3,313" "12/13/14" "Gvt" "SITRep 212 Dec 13th 2014" -118.0949123 34.0802806 "deaths" 14-12-13 -714068 "3313" 3313 4.97 454.13
+"446" "Liberia" "National" "Deaths" "3,346" "12/14/14" "Gvt" "SITRep 213 Dec 14th 2014" -118.0949123 34.0802806 "deaths" 14-12-14 -714067 "3346" 3346 4.97 454.13
+"447" "Sierra Leone" "National" "Deaths" "2,442" "12/15/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-202.pdf" -118.0949123 34.0802806 "deaths" 14-12-15 -714066 "2442" 2442 5.56 678.96
+"448" "Sierra Leone" "National" "Deaths" "2,461" "12/16/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-203.pdf" -118.0949123 34.0802806 "deaths" 14-12-16 -714065 "2461" 2461 5.56 678.96
+"449" "Sierra Leone" "National" "Deaths" "2,477" "12/17/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-204.pdf" -118.0949123 34.0802806 "deaths" 14-12-17 -714064 "2477" 2477 5.56 678.96
+"450" "Liberia" "National" "Deaths" "3,347" "12/15/14" "Gvt" "SITRep 214 Dec 15th 2014" -118.0949123 34.0802806 "deaths" 14-12-15 -714066 "3347" 3347 4.97 454.13
+"451" "Liberia" "National" "Deaths" "3,359" "12/16/14" "Gvt" "SITRep 215 Dec 16th 2014" -118.0949123 34.0802806 "deaths" 14-12-16 -714065 "3359" 3359 4.97 454.13
+"452" "Liberia" "National" "Deaths" "3,365" "12/17/14" "Gvt" "SITRep 216 Dec 17th 2014" -118.0949123 34.0802806 "deaths" 14-12-17 -714064 "3365" 3365 4.97 454.13
+"453" "Liberia" "National" "Deaths" "3,376" "12/18/14" "Gvt" "SITRep 217 Dec 18th 2014" -118.0949123 34.0802806 "deaths" 14-12-18 -714063 "3376" 3376 4.97 454.13
+"454" "Sierra Leone" "National" "Deaths" "2,502" "12/18/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-205.pdf" -118.0949123 34.0802806 "deaths" 14-12-18 -714063 "2502" 2502 5.56 678.96
+"455" "Sierra Leone" "National" "Deaths" "2,529" "12/19/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-206.pdf" -118.0949123 34.0802806 "deaths" 14-12-19 -714062 "2529" 2529 5.56 678.96
+"456" "Sierra Leone" "National" "Deaths" "2,556" "12/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-207.pdf" -118.0949123 34.0802806 "deaths" 14-12-20 -714061 "2556" 2556 5.56 678.96
+"457" "Sierra Leone" "National" "Deaths" "2,582" "12/21/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-208.pdf" -118.0949123 34.0802806 "deaths" 14-12-21 -714060 "2582" 2582 5.56 678.96
+"458" "Guinea" "National" "Deaths" "1,540" "12/15/14" "Gvt" "Sitrep 244 15Dec" -118.0949123 34.0802806 "deaths" 14-12-15 -714066 "1540" 1540 8.74 523.12
+"459" "Guinea" "National" "Deaths" "1,550" "12/16/14" "Gvt" "Sitrep 245 16Dec" -118.0949123 34.0802806 "deaths" 14-12-16 -714065 "1550" 1550 8.74 523.12
+"460" "Guinea" "National" "Deaths" "1,556" "12/17/14" "Gvt" "Sitrep 246 17Dec" -118.0949123 34.0802806 "deaths" 14-12-17 -714064 "1556" 1556 8.74 523.12
+"461" "Guinea" "National" "Deaths" "1,562" "12/18/14" "Gvt" "Sitrep 247 18Dec" -118.0949123 34.0802806 "deaths" 14-12-18 -714063 "1562" 1562 8.74 523.12
+"462" "Guinea" "National" "Deaths" "1,582" "12/19/14" "Gvt" "Sitrep 248 19Dec" -118.0949123 34.0802806 "deaths" 14-12-19 -714062 "1582" 1582 8.74 523.12
+"463" "Guinea" "National" "Deaths" "1,586" "12/20/14" "Gvt" "Sitrep 249 20Dec" -118.0949123 34.0802806 "deaths" 14-12-20 -714061 "1586" 1586 8.74 523.12
+"464" "Guinea" "National" "Deaths" "1,607" "12/21/14" "Gvt" "Sitrep 250 21Dec" -118.0949123 34.0802806 "deaths" 14-12-21 -714060 "1607" 1607 8.74 523.12
+"465" "Guinea" "National" "Deaths" "1,630" "12/22/14" "Gvt" "Sitrep 251 22Dec" -118.0949123 34.0802806 "deaths" 14-12-22 -714059 "1630" 1630 8.74 523.12
+"466" "Guinea" "National" "Deaths" "1,645" "12/23/14" "Gvt" "Sitrep 252 23Dec" -118.0949123 34.0802806 "deaths" 14-12-23 -714058 "1645" 1645 8.74 523.12
+"467" "Guinea" "National" "Deaths" "1,654" "12/24/14" "Gvt" "Sitrep 253 24Dec" -118.0949123 34.0802806 "deaths" 14-12-24 -714057 "1654" 1654 8.74 523.12
+"468" "Guinea" "National" "Deaths" "1,679" "12/25/14" "Gvt" "Sitrep 254 25Dec" -118.0949123 34.0802806 "deaths" 14-12-25 -714056 "1679" 1679 8.74 523.12
+"469" "Guinea" "National" "Deaths" "1,692" "12/26/14" "Gvt" "Sitrep 255 26Dec" -118.0949123 34.0802806 "deaths" 14-12-26 -714055 "1692" 1692 8.74 523.12
+"470" "Guinea" "National" "Deaths" "1,697" "12/27/14" "Gvt" "Sitrep 256 27Dec" -118.0949123 34.0802806 "deaths" 14-12-27 -714054 "1697" 1697 8.74 523.12
+"471" "Sierra Leone" "National" "Deaths" "2,601" "12/22/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-209.pdf" -118.0949123 34.0802806 "deaths" 14-12-22 -714059 "2601" 2601 5.56 678.96
+"472" "Sierra Leone" "National" "Deaths" "2,639" "12/23/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-210.pdf" -118.0949123 34.0802806 "deaths" 14-12-23 -714058 "2639" 2639 5.56 678.96
+"473" "Sierra Leone" "National" "Deaths" "2,655" "12/24/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-211.pdf" -118.0949123 34.0802806 "deaths" 14-12-24 -714057 "2655" 2655 5.56 678.96
+"474" "Sierra Leone" "National" "Deaths" "2,685" "12/25/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-212.pdf" -118.0949123 34.0802806 "deaths" 14-12-25 -714056 "2685" 2685 5.56 678.96
+"475" "Sierra Leone" "National" "Deaths" "2,711" "12/26/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-213.pdf" -118.0949123 34.0802806 "deaths" 14-12-26 -714055 "2711" 2711 5.56 678.96
+"476" "Sierra Leone" "National" "Deaths" "2,732" "12/27/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-214.pdf" -118.0949123 34.0802806 "deaths" 14-12-27 -714054 "2732" 2732 5.56 678.96
+"477" "Sierra Leone" "National" "Deaths" "2,758" "12/28/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-215.pdf" -118.0949123 34.0802806 "deaths" 14-12-28 -714053 "2758" 2758 5.56 678.96
+"478" "Sierra Leone" "National" "Deaths" "2,776" "12/29/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-216.pdf" -118.0949123 34.0802806 "deaths" 14-12-29 -714052 "2776" 2776 5.56 678.96
+"479" "Liberia" "National" "Deaths" "3,381" "12/19/14" "Gvt" "SITRep 218 Dec 19th 2014" -118.0949123 34.0802806 "deaths" 14-12-19 -714062 "3381" 3381 4.97 454.13
+"480" "Liberia" "National" "Deaths" "3,384" "12/20/14" "Gvt" "SITRep 219 Dec 20th 2014" -118.0949123 34.0802806 "deaths" 14-12-20 -714061 "3384" 3384 4.97 454.13
+"481" "Liberia" "National" "Deaths" "3,392" "12/21/14" "Gvt" "SITRep 220 Dec 21st 2014" -118.0949123 34.0802806 "deaths" 14-12-21 -714060 "3392" 3392 4.97 454.13
+"482" "Liberia" "National" "Deaths" "3,402" "12/22/14" "Gvt" "SITRep 221 Dec 22nd 2014" -118.0949123 34.0802806 "deaths" 14-12-22 -714059 "3402" 3402 4.97 454.13
+"483" "Liberia" "National" "Deaths" "3,406" "12/23/14" "Gvt" "SITRep 222 Dec 23rd 2014" -118.0949123 34.0802806 "deaths" 14-12-23 -714058 "3406" 3406 4.97 454.13
+"484" "Liberia" "National" "Deaths" "3,413" "12/24/14" "Gvt" "SITRep 223 Dec 24th 2014" -118.0949123 34.0802806 "deaths" 14-12-24 -714057 "3413" 3413 4.97 454.13
+"485" "Liberia" "National" "Deaths" "3,413" "12/25/14" "Gvt" "SITRep 224 Dec 25th 2014" -118.0949123 34.0802806 "deaths" 14-12-25 -714056 "3413" 3413 4.97 454.13
+"486" "Liberia" "National" "Deaths" "3,417" "12/26/14" "Gvt" "SITRep 225 Dec 26th 2014" -118.0949123 34.0802806 "deaths" 14-12-26 -714055 "3417" 3417 4.97 454.13
+"487" "Sierra Leone" "National" "Deaths" "2,801" "12/30/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-217.pdf" -118.0949123 34.0802806 "deaths" 14-12-30 -714051 "2801" 2801 5.56 678.96
+"488" "Sierra Leone" "National" "Deaths" "2,827" "12/31/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-218.pdf" -118.0949123 34.0802806 "deaths" 14-12-31 -714050 "2827" 2827 5.56 678.96
+"489" "Sierra Leone" "National" "Deaths" "2,867" "1/1/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-219.pdf" -118.0949123 34.0802806 "deaths" 15-01-01 -714049 "2867" 2867 5.56 678.96
+"490" "Sierra Leone" "National" "Deaths" "2,890" "1/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-220.pdf" -118.0949123 34.0802806 "deaths" 15-01-02 -714048 "2890" 2890 5.56 678.96
+"491" "Sierra Leone" "National" "Deaths" "2,915" "1/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-221.pdf" -118.0949123 34.0802806 "deaths" 15-01-03 -714047 "2915" 2915 5.56 678.96
+"492" "Liberia" "National" "Deaths" "3,422" "12/27/14" "Gvt" "SITRep 226 Dec 27th 2014" -118.0949123 34.0802806 "deaths" 14-12-27 -714054 "3422" 3422 4.97 454.13
+"493" "Liberia" "National" "Deaths" "3,423" "12/28/14" "Gvt" "SITRep 227 Dec 28th 2014" -118.0949123 34.0802806 "deaths" 14-12-28 -714053 "3423" 3423 4.97 454.13
+"494" "Liberia" "National" "Deaths" "3,446" "12/29/14" "Gvt" "SITRep 228 Dec 29th 2014" -118.0949123 34.0802806 "deaths" 14-12-29 -714052 "3446" 3446 4.97 454.13
+"495" "Liberia" "National" "Deaths" "3,458" "12/30/14" "Gvt" "SITRep 229 Dec 30th 2014" -118.0949123 34.0802806 "deaths" 14-12-30 -714051 "3458" 3458 4.97 454.13
+"496" "Liberia" "National" "Deaths" "3,471" "12/31/14" "Gvt" "SITRep 230 Dec 31st 2014" -118.0949123 34.0802806 "deaths" 14-12-31 -714050 "3471" 3471 4.97 454.13
+"497" "Guinea" "National" "Deaths" "1,708" "12/28/14" "Gvt" "Sitrep 257 28Dec" -118.0949123 34.0802806 "deaths" 14-12-28 -714053 "1708" 1708 8.74 523.12
+"498" "Guinea" "National" "Deaths" "1,717" "12/29/14" "Gvt" "Sitrep 258 29Dec" -118.0949123 34.0802806 "deaths" 14-12-29 -714052 "1717" 1717 8.74 523.12
+"499" "Guinea" "National" "Deaths" "1,730" "12/30/14" "Gvt" "Sitrep 259 30Dec" -118.0949123 34.0802806 "deaths" 14-12-30 -714051 "1730" 1730 8.74 523.12
+"500" "Guinea" "National" "Deaths" "1,738" "12/31/14" "Gvt" "Sitrep 260 31Dec" -118.0949123 34.0802806 "deaths" 14-12-31 -714050 "1738" 1738 8.74 523.12
+"501" "Guinea" "National" "Deaths" "1,759" "1/1/15" "Gvt" "Sitrep 261 1Jan" -118.0949123 34.0802806 "deaths" 15-01-01 -714049 "1759" 1759 8.74 523.12
+"502" "Guinea" "National" "Deaths" "1,765" "1/2/15" "Gvt" "Sitrep 262 2Jan" -118.0949123 34.0802806 "deaths" 15-01-02 -714048 "1765" 1765 8.74 523.12
+"503" "Guinea" "National" "Deaths" "1,767" "1/3/15" "Gvt" "Sitrep 263 3Jan" -118.0949123 34.0802806 "deaths" 15-01-03 -714047 "1767" 1767 8.74 523.12
+"504" "Guinea" "National" "Deaths" "1,781" "1/4/15" "Gvt" "Sitrep 264 4Jan" -118.0949123 34.0802806 "deaths" 15-01-04 -714046 "1781" 1781 8.74 523.12
+"505" "Sierra Leone" "National" "Deaths" "2,943" "1/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-222.pdf" -118.0949123 34.0802806 "deaths" 15-01-04 -714046 "2943" 2943 5.56 678.96
+"506" "Sierra Leone" "National" "Deaths" "2,972" "1/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/12/Ebola-Situation-Report_Vol-223.pdf" -118.0949123 34.0802806 "deaths" 15-01-05 -714045 "2972" 2972 5.56 678.96
+"507" "Liberia" "National" "Deaths" "3,473" "1/1/15" "Gvt" "SITRep 231 Jan 1st 2015" -118.0949123 34.0802806 "deaths" 15-01-01 -714049 "3473" 3473 4.97 454.13
+"508" "Liberia" "National" "Deaths" "3,496" "1/2/15" "Gvt" "SITRep 232 Jan 2nd 2015" -118.0949123 34.0802806 "deaths" 15-01-02 -714048 "3496" 3496 4.97 454.13
+"509" "Sierra Leone" "National" "Deaths" "2,977" "1/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-224.pdf" -118.0949123 34.0802806 "deaths" 15-01-06 -714044 "2977" 2977 5.56 678.96
+"510" "Guinea" "National" "Deaths" "1,786" "1/5/15" "Gvt" "Sitrep 265 5Jan" -118.0949123 34.0802806 "deaths" 15-01-05 -714045 "1786" 1786 8.74 523.12
+"511" "Sierra Leone" "National" "Deaths" "2,995" "1/7/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-225.pdf" -118.0949123 34.0802806 "deaths" 15-01-07 -714043 "2995" 2995 5.56 678.96
+"512" "Liberia" "National" "Deaths" "3,496" "1/3/15" "Gvt" "SITRep 233 Jan 3rd 2015" -118.0949123 34.0802806 "deaths" 15-01-03 -714047 "3496" 3496 4.97 454.13
+"513" "Liberia" "National" "Deaths" "3,499" "1/4/15" "Gvt" "SITRep 234 Jan 4th 2015" -118.0949123 34.0802806 "deaths" 15-01-04 -714046 "3499" 3499 4.97 454.13
+"514" "Liberia" "National" "Deaths" "3,502" "1/5/15" "Gvt" "SITRep 235 Jan 5th 2015" -118.0949123 34.0802806 "deaths" 15-01-05 -714045 "3502" 3502 4.97 454.13
+"515" "Liberia" "National" "Deaths" "3,515" "1/6/15" "Gvt" "SITRep 236 Jan 6th 2015" -118.0949123 34.0802806 "deaths" 15-01-06 -714044 "3515" 3515 4.97 454.13
+"516" "Guinea" "National" "Deaths" "1,797" "1/7/15" "Gvt" "Sitrep 267 7Jan" -118.0949123 34.0802806 "deaths" 15-01-07 -714043 "1797" 1797 8.74 523.12
+"517" "Guinea" "National" "Deaths" "1,802" "1/8/15" "Gvt" "Sitrep 268 8Jan" -118.0949123 34.0802806 "deaths" 15-01-08 -714042 "1802" 1802 8.74 523.12
+"518" "Guinea" "National" "Deaths" "1,805" "1/9/15" "Gvt" "Sitrep 269 9Jan" -118.0949123 34.0802806 "deaths" 15-01-09 -714041 "1805" 1805 8.74 523.12
+"519" "Guinea" "National" "Deaths" "1,807" "1/10/15" "Gvt" "Sitrep 270 10Jan" -118.0949123 34.0802806 "deaths" 15-01-10 -714040 "1807" 1807 8.74 523.12
+"520" "Sierra Leone" "National" "Deaths" "3,015" "1/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-226.pdf" -118.0949123 34.0802806 "deaths" 15-01-08 -714042 "3015" 3015 5.56 678.96
+"521" "Sierra Leone" "National" "Deaths" "3,028" "1/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-227.pdf" -118.0949123 34.0802806 "deaths" 15-01-09 -714041 "3028" 3028 5.56 678.96
+"522" "Sierra Leone" "National" "Deaths" "3,049" "1/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-228.pdf" -118.0949123 34.0802806 "deaths" 15-01-10 -714040 "3049" 3049 5.56 678.96
+"523" "Sierra Leone" "National" "Deaths" "3,062" "1/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-229.pdf" -118.0949123 34.0802806 "deaths" 15-01-11 -714039 "3062" 3062 5.56 678.96
+"524" "Sierra Leone" "National" "Deaths" "3,067" "1/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-230.pdf" -118.0949123 34.0802806 "deaths" 15-01-12 -714038 "3067" 3067 5.56 678.96
+"525" "Sierra Leone" "National" "Deaths" "3,083" "1/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-231.pdf" -118.0949123 34.0802806 "deaths" 15-01-13 -714037 "3083" 3083 5.56 678.96
+"526" "Sierra Leone" "National" "Deaths" "3,097" "1/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-232.pdf" -118.0949123 34.0802806 "deaths" 15-01-14 -714036 "3097" 3097 5.56 678.96
+"527" "Sierra Leone" "National" "Deaths" "3,107" "1/15/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-233.pdf" -118.0949123 34.0802806 "deaths" 15-01-15 -714035 "3107" 3107 5.56 678.96
+"528" "Sierra Leone" "National" "Deaths" "3,125" "1/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-234.pdf" -118.0949123 34.0802806 "deaths" 15-01-16 -714034 "3125" 3125 5.56 678.96
+"529" "Sierra Leone" "National" "Deaths" "3,132" "1/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-235.pdf" -118.0949123 34.0802806 "deaths" 15-01-17 -714033 "3132" 3132 5.56 678.96
+"530" "Guinea" "National" "Deaths" "1,814" "1/11/15" "Gvt" "Sitrep 271 11Jan" -118.0949123 34.0802806 "deaths" 15-01-11 -714039 "1814" 1814 8.74 523.12
+"531" "Guinea" "National" "Deaths" "1,829" "1/13/15" "Gvt" "Sitrep 273 13Jan" -118.0949123 34.0802806 "deaths" 15-01-13 -714037 "1829" 1829 8.74 523.12
+"532" "Guinea" "National" "Deaths" "1,829" "1/14/15" "Gvt" "Sitrep 274 14Jan" -118.0949123 34.0802806 "deaths" 15-01-14 -714036 "1829" 1829 8.74 523.12
+"533" "Guinea" "National" "Deaths" "1,869" "1/15/15" "Gvt" "Sitrep 275 15Jan" -118.0949123 34.0802806 "deaths" 15-01-15 -714035 "1869" 1869 8.74 523.12
+"534" "Guinea" "National" "Deaths" "1,871" "1/16/15" "Gvt" "Sitrep 276 16Jan" -118.0949123 34.0802806 "deaths" 15-01-16 -714034 "1871" 1871 8.74 523.12
+"535" "Guinea" "National" "Deaths" "1,875" "1/17/15" "Gvt" "Sitrep 277 17Jan" -118.0949123 34.0802806 "deaths" 15-01-17 -714033 "1875" 1875 8.74 523.12
+"536" "Guinea" "National" "Deaths" "1,876" "1/18/15" "Gvt" "Sitrep 278 18Jan" -118.0949123 34.0802806 "deaths" 15-01-18 -714032 "1876" 1876 8.74 523.12
+"537" "Guinea" "National" "Deaths" "1,879" "1/19/15" "Gvt" "Sitrep 279 19Jan" -118.0949123 34.0802806 "deaths" 15-01-19 -714031 "1879" 1879 8.74 523.12
+"538" "Sierra Leone" "National" "Deaths" "3,145" "1/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-236.pdf" -118.0949123 34.0802806 "deaths" 15-01-18 -714032 "3145" 3145 5.56 678.96
+"539" "Sierra Leone" "National" "Deaths" "3,153" "1/19/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-237.pdf" -118.0949123 34.0802806 "deaths" 15-01-19 -714031 "3153" 3153 5.56 678.96
+"540" "Liberia" "National" "Deaths" "3,536" "1/10/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20240%20Jan%2010th%202015_1.pdf" -118.0949123 34.0802806 "deaths" 15-01-10 -714040 "3536" 3536 4.97 454.13
+"541" "Liberia" "National" "Deaths" "3,538" "1/11/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20241%20Jan%2011th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-11 -714039 "3538" 3538 4.97 454.13
+"542" "Liberia" "National" "Deaths" "3,556" "1/12/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20242%20Jan%2012th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-12 -714038 "3556" 3556 4.97 454.13
+"543" "Liberia" "National" "Deaths" "3,564" "1/13/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20243%20Jan%2013th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-13 -714037 "3564" 3564 4.97 454.13
+"544" "Liberia" "National" "Deaths" "3,574" "1/14/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20244%20Jan%2014th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-14 -714036 "3574" 3574 4.97 454.13
+"545" "Liberia" "National" "Deaths" "3,587" "1/15/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20245%20Jan%2015th%202015_1.pdf" -118.0949123 34.0802806 "deaths" 15-01-15 -714035 "3587" 3587 4.97 454.13
+"546" "Liberia" "National" "Deaths" "3,598" "1/16/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20246%20Jan%2016th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-16 -714034 "3598" 3598 4.97 454.13
+"547" "Liberia" "National" "Deaths" "3,600" "1/17/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20247%20Jan%2017th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-17 -714033 "3600" 3600 4.97 454.13
+"548" "Liberia" "National" "Deaths" "3,605" "1/18/15" "Gvt" "http://mohsw.gov.lr/documents/Sitrep%20248%20Jan%2018th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-18 -714032 "3605" 3605 4.97 454.13
+"549" "Guinea" "National" "Deaths" "1,880" "1/20/15" "Gvt" "Sitrep 280 20Jan" -118.0949123 34.0802806 "deaths" 15-01-20 -714030 "1880" 1880 8.74 523.12
+"550" "Guinea" "National" "Deaths" "1,890" "1/21/15" "Gvt" "Sitrep 281 21Jan" -118.0949123 34.0802806 "deaths" 15-01-21 -714029 "1890" 1890 8.74 523.12
+"551" "Sierra Leone" "National" "Deaths" "3,159" "1/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-238.pdf" -118.0949123 34.0802806 "deaths" 15-01-20 -714030 "3159" 3159 5.56 678.96
+"552" "Sierra Leone" "National" "Deaths" "3,167" "1/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-239.pdf" -118.0949123 34.0802806 "deaths" 15-01-21 -714029 "3167" 3167 5.56 678.96
+"553" "Guinea" "National" "Deaths" "1,901" "1/22/15" "Gvt" "Sitrep 282 22Jan" -118.0949123 34.0802806 "deaths" 15-01-22 -714028 "1901" 1901 8.74 523.12
+"554" "Guinea" "National" "Deaths" "1,901" "1/23/15" "Gvt" "Sitrep 283 23Jan" -118.0949123 34.0802806 "deaths" 15-01-23 -714027 "1901" 1901 8.74 523.12
+"555" "Guinea" "National" "Deaths" "1,906" "1/24/15" "Gvt" "Sitrep 284 24Jan" -118.0949123 34.0802806 "deaths" 15-01-24 -714026 "1906" 1906 8.74 523.12
+"556" "Sierra Leone" "National" "Deaths" "3,179" "1/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-240.pdf" -118.0949123 34.0802806 "deaths" 15-01-22 -714028 "3179" 3179 5.56 678.96
+"557" "Sierra Leone" "National" "Deaths" "3,187" "1/23/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-241.pdf" -118.0949123 34.0802806 "deaths" 15-01-23 -714027 "3187" 3187 5.56 678.96
+"558" "Sierra Leone" "National" "Deaths" "3,195" "1/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-241.pdf" -118.0949123 34.0802806 "deaths" 15-01-24 -714026 "3195" 3195 5.56 678.96
+"559" "Sierra Leone" "National" "Deaths" "3,199" "1/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-243.pdf" -118.0949123 34.0802806 "deaths" 15-01-25 -714025 "3199" 3199 5.56 678.96
+"560" "Liberia" "National" "Deaths" "3,619" "1/19/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20249%20Jan%2019th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-19 -714031 "3619" 3619 4.97 454.13
+"561" "Liberia" "National" "Deaths" "3,636" "1/20/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20250%20Jan%2020th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-20 -714030 "3636" 3636 4.97 454.13
+"562" "Guinea" "National" "Deaths" "1,910" "1/25/15" "Gvt" "Sitrep 285 25Jan" -118.0949123 34.0802806 "deaths" 15-01-25 -714025 "1910" 1910 8.74 523.12
+"563" "Guinea" "National" "Deaths" "1,911" "1/26/15" "Gvt" "Sitrep 286 26Jan" -118.0949123 34.0802806 "deaths" 15-01-26 -714024 "1911" 1911 8.74 523.12
+"564" "Guinea" "National" "Deaths" "1,913" "1/27/15" "Gvt" "Sitrep 287 27Jan" -118.0949123 34.0802806 "deaths" 15-01-27 -714023 "1913" 1913 8.74 523.12
+"565" "Sierra Leone" "National" "Deaths" "3,207" "1/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-244.pdf" -118.0949123 34.0802806 "deaths" 15-01-26 -714024 "3207" 3207 5.56 678.96
+"566" "Sierra Leone" "National" "Deaths" "3,216" "1/27/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-245.pdf" -118.0949123 34.0802806 "deaths" 15-01-27 -714023 "3216" 3216 5.56 678.96
+"567" "Liberia" "National" "Deaths" "3,739" "1/31/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20261%20Jan%2031st%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-31 -714019 "3739" 3739 4.97 454.13
+"568" "Guinea" "National" "Deaths" "1,937" "1/31/15" "Gvt" "Sitrep 291 31Jan" -118.0949123 34.0802806 "deaths" 15-01-31 -714019 "1937" 1937 8.74 523.12
+"569" "Sierra Leone" "National" "Deaths" "3,238" "1/29/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-247.pdf" -118.0949123 34.0802806 "deaths" 15-01-29 -714021 "3238" 3238 5.56 678.96
+"570" "Guinea" "National" "Deaths" "1,923" "1/28/15" "Gvt" "Sitrep 288 28Jan" -118.0949123 34.0802806 "deaths" 15-01-28 -714022 "1923" 1923 8.74 523.12
+"571" "Guinea" "National" "Deaths" "1,929" "1/30/15" "Gvt" "Sitrep 290 30Jan" -118.0949123 34.0802806 "deaths" 15-01-30 -714020 "1929" 1929 8.74 523.12
+"572" "Liberia" "National" "Deaths" "3,684" "1/24/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20254%20Jan%2024th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-24 -714026 "3684" 3684 4.97 454.13
+"573" "Liberia" "National" "Deaths" "3,686" "1/25/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20255%20Jan%2025th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-25 -714025 "3686" 3686 4.97 454.13
+"574" "Liberia" "National" "Deaths" "3,710" "1/28/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20258%20Jan%2028th%202015%20F.pdf" -118.0949123 34.0802806 "deaths" 15-01-28 -714022 "3710" 3710 4.97 454.13
+"575" "Liberia" "National" "Deaths" "3,722" "1/29/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20259%20Jan%2029th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-29 -714021 "3722" 3722 4.97 454.13
+"576" "Liberia" "National" "Deaths" "3,739" "1/31/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20261%20Jan%2031st%202015.pdf" -118.0949123 34.0802806 "deaths" 15-01-31 -714019 "3739" 3739 4.97 454.13
+"577" "Liberia" "National" "Deaths" "3,746" "2/1/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20262%20Feb%201st%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-01 -714018 "3746" 3746 4.97 454.13
+"578" "Liberia" "National" "Deaths" "3,594" "2/1/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20263%20Feb%202nd%202015%20Final.pdf" -118.0949123 34.0802806 "deaths" 15-02-01 -714018 "3594" 3594 4.97 454.13
+"579" "Liberia" "National" "Deaths" "3,635" "2/5/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20266%20Feb%205th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-05 -714014 "3635" 3635 4.97 454.13
+"580" "Liberia" "National" "Deaths" "3,650" "2/6/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20267%20Feb%206th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-06 -714013 "3650" 3650 4.97 454.13
+"581" "Liberia" "National" "Deaths" "3,655" "2/7/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20268%20Feb%207th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-07 -714012 "3655" 3655 4.97 454.13
+"582" "Sierra Leone" "National" "Deaths" "3,274" "1/31/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-249.pdf" -118.0949123 34.0802806 "deaths" 15-01-31 -714019 "3274" 3274 5.56 678.96
+"583" "Sierra Leone" "National" "Deaths" "3,276" "2/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-250.pdf" -118.0949123 34.0802806 "deaths" 15-02-02 -714017 "3276" 3276 5.56 678.96
+"584" "Sierra Leone" "National" "Deaths" "3,286" "2/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-251.pdf" -118.0949123 34.0802806 "deaths" 15-02-03 -714016 "3286" 3286 5.56 678.96
+"585" "Sierra Leone" "National" "Deaths" "3,301" "2/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-252.pdf" -118.0949123 34.0802806 "deaths" 15-02-04 -714015 "3301" 3301 5.56 678.96
+"586" "Sierra Leone" "National" "Deaths" "3,314" "2/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-253.pdf" -118.0949123 34.0802806 "deaths" 15-02-05 -714014 "3314" 3314 5.56 678.96
+"587" "Sierra Leone" "National" "Deaths" "3,324" "2/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-255.pdf" -118.0949123 34.0802806 "deaths" 15-02-06 -714013 "3324" 3324 5.56 678.96
+"588" "Sierra Leone" "National" "Deaths" "3,336" "2/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-256.pdf" -118.0949123 34.0802806 "deaths" 15-02-08 -714011 "3336" 3336 5.56 678.96
+"589" "Sierra Leone" "National" "Deaths" "3,343" "2/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-257.pdf" -118.0949123 34.0802806 "deaths" 15-02-09 -714010 "3343" 3343 5.56 678.96
+"590" "Sierra Leone" "National" "Deaths" "3,363" "2/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-259.pdf" -118.0949123 34.0802806 "deaths" 15-02-10 -714009 "3363" 3363 5.56 678.96
+"591" "Liberia" "National" "Deaths" "3,829" "2/8/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20269%20Feb%208th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-08 -714011 "3829" 3829 4.97 454.13
+"592" "Liberia" "National" "Deaths" "3,858" "2/9/15" "Gvt" "http://www.mohsw.gov.lr/documents/Sitrep%20270%20Feb%209th%202015.pdf" -118.0949123 34.0802806 "deaths" 15-02-09 -714010 "3858" 3858 4.97 454.13
+"593" "Guinea" "National" "Deaths" "1,937" "1/31/15" "Gvt" "Sitrep 291 31Jan" -118.0949123 34.0802806 "deaths" 15-01-31 -714019 "1937" 1937 8.74 523.12
+"594" "Guinea" "National" "Deaths" "1,944" "2/1/15" "Gvt" "Sitrep 292 01Fev" -118.0949123 34.0802806 "deaths" 15-02-01 -714018 "1944" 1944 8.74 523.12
+"595" "Guinea" "National" "Deaths" "1,947" "2/2/15" "Gvt" "Sitrep 293 02Fev" -118.0949123 34.0802806 "deaths" 15-02-02 -714017 "1947" 1947 8.74 523.12
+"596" "Sierra Leone" "National" "Deaths" "3,374" "2/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-260.pdf" -118.0949123 34.0802806 "deaths" 15-02-11 -714008 "3374" 3374 5.56 678.96
+"597" "Sierra Leone" "National" "Deaths" "3,383" "2/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-261.pdf" -118.0949123 34.0802806 "deaths" 15-02-12 -714007 "3383" 3383 5.56 678.96
+"598" "Sierra Leone" "National" "Deaths" "3,395" "2/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-262.pdf" -118.0949123 34.0802806 "deaths" 15-02-13 -714006 "3395" 3395 5.56 678.96
+"599" "Sierra Leone" "National" "Deaths" "3,401" "2/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-263.pdf" -118.0949123 34.0802806 "deaths" 15-02-14 -714005 "3401" 3401 5.56 678.96
+"600" "Sierra Leone" "National" "Deaths" "3,408" "2/15/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-264.pdf" -118.0949123 34.0802806 "deaths" 15-02-15 -714004 "3408" 3408 5.56 678.96
+"601" "Sierra Leone" "National" "Deaths" "3,415" "2/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-265.pdf" -118.0949123 34.0802806 "deaths" 15-02-16 -714003 "3415" 3415 5.56 678.96
+"602" "Sierra Leone" "National" "Deaths" "3,423" "2/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-266.pdf" -118.0949123 34.0802806 "deaths" 15-02-17 -714002 "3423" 3423 5.56 678.96
+"603" "Sierra Leone" "National" "Deaths" "3,428" "2/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-267.pdf" -118.0949123 34.0802806 "deaths" 15-02-18 -714001 "3428" 3428 5.56 678.96
+"604" "Sierra Leone" "National" "Deaths" "3,431" "2/19/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-268.pdf" -118.0949123 34.0802806 "deaths" 15-02-19 -714000 "3431" 3431 5.56 678.96
+"605" "Sierra Leone" "National" "Deaths" "3,444" "2/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-269.pdf" -118.0949123 34.0802806 "deaths" 15-02-20 -713999 "3444" 3444 5.56 678.96
+"606" "Sierra Leone" "National" "Deaths" "3,453" "2/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-270.pdf" -118.0949123 34.0802806 "deaths" 15-02-21 -713998 "3453" 3453 5.56 678.96
+"607" "Sierra Leone" "National" "Deaths" "3,460" "2/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/01/Ebola-Situation-Report_Vol-271.pdf" -118.0949123 34.0802806 "deaths" 15-02-22 -713997 "3460" 3460 5.56 678.96
+"608" "Sierra Leone" "National" "Deaths" "3,468" "2/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-272.pdf" -118.0949123 34.0802806 "deaths" 15-02-24 -713995 "3468" 3468 5.56 678.96
+"609" "Sierra Leone" "National" "Deaths" "3,478" "2/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-273.pdf" -118.0949123 34.0802806 "deaths" 15-02-25 -713994 "3478" 3478 5.56 678.96
+"610" "Sierra Leone" "National" "Deaths" "3,483" "2/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/02/Ebola-Situation-Report_Vol-274.pdf" -118.0949123 34.0802806 "deaths" 15-02-26 -713993 "3483" 3483 5.56 678.96
+"611" "Sierra Leone" "National" "Deaths" "3,516" "2/28/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-276.pdf" -118.0949123 34.0802806 "deaths" 15-02-28 -713991 "3516" 3516 5.56 678.96
+"612" "Sierra Leone" "National" "Deaths" "3,529" "3/1/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-277.pdf" -118.0949123 34.0802806 "deaths" 15-03-01 -713990 "3529" 3529 5.56 678.96
+"613" "Sierra Leone" "National" "Deaths" "3,545" "3/2/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-278.pdf" -118.0949123 34.0802806 "deaths" 15-03-02 -713989 "3545" 3545 5.56 678.96
+"614" "Sierra Leone" "National" "Deaths" "3,553" "3/3/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-279.pdf" -118.0949123 34.0802806 "deaths" 15-03-03 -713988 "3553" 3553 5.56 678.96
+"615" "Sierra Leone" "National" "Deaths" "3,564" "3/4/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-280.pdf" -118.0949123 34.0802806 "deaths" 15-03-04 -713987 "3564" 3564 5.56 678.96
+"616" "Sierra Leone" "National" "Deaths" "3,575" "3/5/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-281.pdf" -118.0949123 34.0802806 "deaths" 15-03-05 -713986 "3575" 3575 5.56 678.96
+"617" "Sierra Leone" "National" "Deaths" "3,588" "3/6/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-282.pdf" -118.0949123 34.0802806 "deaths" 15-03-06 -713985 "3588" 3588 5.56 678.96
+"618" "Sierra Leone" "National" "Deaths" "3,610" "3/8/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-284.pdf" -118.0949123 34.0802806 "deaths" 15-03-08 -713983 "3610" 3610 5.56 678.96
+"619" "Sierra Leone" "National" "Deaths" "3,629" "3/9/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-285.pdf" -118.0949123 34.0802806 "deaths" 15-03-09 -713982 "3629" 3629 5.56 678.96
+"620" "Sierra Leone" "National" "Deaths" "3,644" "3/10/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/NATIONAL-EBOLA-SITUATION-REPORT_Vol-286.pdf" -118.0949123 34.0802806 "deaths" 15-03-10 -713981 "3644" 3644 5.56 678.96
+"621" "Sierra Leone" "National" "Deaths" "3,654" "3/11/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-287.pdf" -118.0949123 34.0802806 "deaths" 15-03-11 -713980 "3654" 3654 5.56 678.96
+"622" "Guinea" "National" "Deaths" "1,957" "2/3/15" "Gvt" "Sitrep 294 03Fev" -118.0949123 34.0802806 "deaths" 15-02-03 -714016 "1957" 1957 8.74 523.12
+"623" "Guinea" "National" "Deaths" "1,965" "2/4/15" "Gvt" "Sitrep 295 04Fev" -118.0949123 34.0802806 "deaths" 15-02-04 -714015 "1965" 1965 8.74 523.12
+"624" "Guinea" "National" "Deaths" "1,975" "2/5/15" "Gvt" "Sitrep 296 05Fev" -118.0949123 34.0802806 "deaths" 15-02-05 -714014 "1975" 1975 8.74 523.12
+"625" "Guinea" "National" "Deaths" "1,981" "2/6/15" "Gvt" "Sitrep 297 06Fev" -118.0949123 34.0802806 "deaths" 15-02-06 -714013 "1981" 1981 8.74 523.12
+"626" "Guinea" "National" "Deaths" "1,990" "2/7/15" "Gvt" "Sitrep 298 07Fev" -118.0949123 34.0802806 "deaths" 15-02-07 -714012 "1990" 1990 8.74 523.12
+"627" "Guinea" "National" "Deaths" "2,032" "2/10/15" "Gvt" "Sitrep 301  10Fev" -118.0949123 34.0802806 "deaths" 15-02-10 -714009 "2032" 2032 8.74 523.12
+"628" "Guinea" "National" "Deaths" "2,034" "2/11/15" "Gvt" "Sitrep 302  11Fev" -118.0949123 34.0802806 "deaths" 15-02-11 -714008 "2034" 2034 8.74 523.12
+"629" "Guinea" "National" "Deaths" "2,042" "2/12/15" "Gvt" "Sitrep 303  12Fev" -118.0949123 34.0802806 "deaths" 15-02-12 -714007 "2042" 2042 8.74 523.12
+"630" "Guinea" "National" "Deaths" "2,046" "2/13/15" "Gvt" "Sitrep 304 13Fev" -118.0949123 34.0802806 "deaths" 15-02-13 -714006 "2046" 2046 8.74 523.12
+"631" "Guinea" "National" "Deaths" "2,052" "2/14/15" "Gvt" "Sitrep 305 14Fev" -118.0949123 34.0802806 "deaths" 15-02-14 -714005 "2052" 2052 8.74 523.12
+"632" "Guinea" "National" "Deaths" "2,066" "2/16/15" "Gvt" "Sitrep 307 16Fev" -118.0949123 34.0802806 "deaths" 15-02-16 -714003 "2066" 2066 8.74 523.12
+"633" "Guinea" "National" "Deaths" "2,067" "2/17/15" "Gvt" "Sitrep 308 17Fev" -118.0949123 34.0802806 "deaths" 15-02-17 -714002 "2067" 2067 8.74 523.12
+"634" "Guinea" "National" "Deaths" "2,072" "2/18/15" "Gvt" "Sitrep 30918Fev" -118.0949123 34.0802806 "deaths" 15-02-18 -714001 "2072" 2072 8.74 523.12
+"635" "Guinea" "National" "Deaths" "2,076" "2/19/15" "Gvt" "Sitrep 31019Fev" -118.0949123 34.0802806 "deaths" 15-02-19 -714000 "2076" 2076 8.74 523.12
+"636" "Guinea" "National" "Deaths" "2,079" "2/20/15" "Gvt" "Sitrep 31120Fev" -118.0949123 34.0802806 "deaths" 15-02-20 -713999 "2079" 2079 8.74 523.12
+"637" "Guinea" "National" "Deaths" "2,086" "2/21/15" "Gvt" "Sitrep 31221Fev" -118.0949123 34.0802806 "deaths" 15-02-21 -713998 "2086" 2086 8.74 523.12
+"638" "Guinea" "National" "Deaths" "2,091" "1/22/15" "Gvt" "sitrep 31322Fev" -118.0949123 34.0802806 "deaths" 15-01-22 -714028 "2091" 2091 8.74 523.12
+"639" "Guinea" "National" "Deaths" "2,101" "2/24/15" "Gvt" "sitrep 31524Fev" -118.0949123 34.0802806 "deaths" 15-02-24 -713995 "2101" 2101 8.74 523.12
+"640" "Guinea" "National" "Deaths" "2,113" "2/25/15" "Gvt" "sitrep 31625Fev" -118.0949123 34.0802806 "deaths" 15-02-25 -713994 "2113" 2113 8.74 523.12
+"641" "Guinea" "National" "Deaths" "2,119" "2/26/15" "Gvt" "sitrep 31726Fev" -118.0949123 34.0802806 "deaths" 15-02-26 -713993 "2119" 2119 8.74 523.12
+"642" "Guinea" "National" "Deaths" "2,121" "2/27/15" "Gvt" "sitrep 31827Fev" -118.0949123 34.0802806 "deaths" 15-02-27 -713992 "2121" 2121 8.74 523.12
+"643" "Guinea" "National" "Deaths" "2,127" "2/28/15" "Gvt" "sitrep 31928Fev" -118.0949123 34.0802806 "deaths" 15-02-28 -713991 "2127" 2127 8.74 523.12
+"644" "Guinea" "National" "Deaths" "2,129" "3/1/15" "Gvt" "sitrep 32001Mar" -118.0949123 34.0802806 "deaths" 15-03-01 -713990 "2129" 2129 8.74 523.12
+"645" "Guinea" "National" "Deaths" "2,137" "3/2/15" "Gvt" "sitrep 32102Mar" -118.0949123 34.0802806 "deaths" 15-03-02 -713989 "2137" 2137 8.74 523.12
+"646" "Guinea" "National" "Deaths" "2,141" "3/3/15" "Gvt" "sitrep 32203Mar" -118.0949123 34.0802806 "deaths" 15-03-03 -713988 "2141" 2141 8.74 523.12
+"647" "Guinea" "National" "Deaths" "2,147" "3/4/15" "Gvt" "sitrep 32304Mar" -118.0949123 34.0802806 "deaths" 15-03-04 -713987 "2147" 2147 8.74 523.12
+"648" "Guinea" "National" "Deaths" "2,151" "3/5/15" "Gvt" "sitrep 32405Mar" -118.0949123 34.0802806 "deaths" 15-03-05 -713986 "2151" 2151 8.74 523.12
+"649" "Guinea" "National" "Deaths" "2,157" "3/6/15" "Gvt" "sitrep 32506Mar" -118.0949123 34.0802806 "deaths" 15-03-06 -713985 "2157" 2157 8.74 523.12
+"650" "Sierra Leone" "National" "Deaths" "3,662" "3/12/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Ebola-Situation-Report_Vol-288.pdf" -118.0949123 34.0802806 "deaths" 15-03-12 -713979 "3662" 3662 5.56 678.96
+"651" "Sierra Leone" "National" "Deaths" "3,668" "3/13/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD_Vol-289.pdf" -118.0949123 34.0802806 "deaths" 15-03-13 -713978 "3668" 3668 5.56 678.96
+"652" "Sierra Leone" "National" "Deaths" "3,677" "3/14/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-290.pdf" -118.0949123 34.0802806 "deaths" 15-03-14 -713977 "3677" 3677 5.56 678.96
+"653" "Sierra Leone" "National" "Deaths" "3,690" "3/16/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-292.pdf" -118.0949123 34.0802806 "deaths" 15-03-16 -713975 "3690" 3690 5.56 678.96
+"654" "Sierra Leone" "National" "Deaths" "3,692" "3/17/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-293.pdf" -118.0949123 34.0802806 "deaths" 15-03-17 -713974 "3692" 3692 5.56 678.96
+"655" "Sierra Leone" "National" "Deaths" "3,701" "3/18/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-SitRep_Vol-294.pdf" -118.0949123 34.0802806 "deaths" 15-03-18 -713973 "3701" 3701 5.56 678.96
+"656" "Sierra Leone" "National" "Deaths" "3,725" "3/20/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-National-EVD-SitRep_Vol-296.pdf" -118.0949123 34.0802806 "deaths" 15-03-20 -713971 "3725" 3725 5.56 678.96
+"657" "Sierra Leone" "National" "Deaths" "3,735" "3/21/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-297.pdf" -118.0949123 34.0802806 "deaths" 15-03-21 -713970 "3735" 3735 5.56 678.96
+"658" "Sierra Leone" "National" "Deaths" "3,741" "3/22/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-298.pdf" -118.0949123 34.0802806 "deaths" 15-03-22 -713969 "3741" 3741 5.56 678.96
+"659" "Sierra Leone" "National" "Deaths" "3,746" "3/23/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-299.pdf" -118.0949123 34.0802806 "deaths" 15-03-23 -713968 "3746" 3746 5.56 678.96
+"660" "Sierra Leone" "National" "Deaths" "3,758" "3/24/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-300.pdf" -118.0949123 34.0802806 "deaths" 15-03-24 -713967 "3758" 3758 5.56 678.96
+"661" "Sierra Leone" "National" "Deaths" "3,763" "3/25/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-301.pdf" -118.0949123 34.0802806 "deaths" 15-03-25 -713966 "3763" 3763 5.56 678.96
+"662" "Sierra Leone" "National" "Deaths" "3,772" "3/26/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-302.pdf" -118.0949123 34.0802806 "deaths" 15-03-26 -713965 "3772" 3772 5.56 678.96
+"663" "Sierra Leone" "National" "Deaths" "3,778" "3/27/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-303.pdf" -118.0949123 34.0802806 "deaths" 15-03-27 -713964 "3778" 3778 5.56 678.96
+"664" "Sierra Leone" "National" "Deaths" "3,786" "3/28/15" "Gvt" "http://health.gov.sl/wp-content/uploads/2015/03/Sierra-Leone-EVD-National-SitRep_Vol-304.pdf" -118.0949123 34.0802806 "deaths" 15-03-28 -713963 "3786" 3786 5.56 678.96

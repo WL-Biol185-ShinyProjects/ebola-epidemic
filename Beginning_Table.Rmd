@@ -90,11 +90,11 @@ c_w_national <- cases_death_by_district_and_date_2_ %>%
 ```
 
 ```{r}
-c_w_national$NewDate <- as.Date(c_w_national$Date, format = "%m/%d/%Y")
+c_w_national$Timeline <- as.Date(c_w_national$Date, format = "%m/%d/%Y")
 ```
 
 ```{r}
-c_w_national$Numericdate <- as.numeric(c_w_national$NewDate)
+#c_w_national$Numericdate <- as.numeric(c_w_national$NewDate)
 ```
 ```{r}
 c_w_national <- c_w_national[-c(571),]
@@ -102,14 +102,11 @@ c_w_national <- c_w_national[-c(571),]
 
 
 ```{r}
-c_w_national$newvalue <- gsub(",", "", c_w_national$Value)
+c_w_national$Value <- gsub(",", "", c_w_national$Value)
 ```
 
 ```{r}
-c_w_national$Numericvalue <- as.numeric(c_w_national$newvalue)
-```
-```{r}
-
+c_w_national$Value <- as.numeric(c_w_national$Value)
 ```
 
 
@@ -300,7 +297,7 @@ national_cases <- cases_death_by_district_and_date_2_ %>% filter(Localite == "Na
 
 ```{r}
 
-national_cases$NewDate <- as.Date(national_cases$Date, format = "%m/%d/%Y")
+national_cases$Timeline <- as.Date(national_cases$Date, format = "%m/%d/%Y")
 
 ```
 
@@ -346,6 +343,10 @@ uniquedeath <- unique(datafordeath$Localite)
 
 ```{r}
 uniquedeathchart <- matrix(uniquedeath, nrow = 97, ncol = 1)
+```
+
+```{r}
+survived = 
 ```
 
 

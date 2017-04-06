@@ -27,7 +27,7 @@ function(input, output) {
   
   
   
-  countrydata$NewDate <- as.Date(as.character(countrydata$NewDate))
+  countrydata$Timeline <- as.Date(as.character(countrydata$Timeline))
   
   
   
@@ -37,7 +37,7 @@ function(input, output) {
   casesdata$Value <- as.numeric(casesdata$Value)
   
   
-  cases_countrydata$NewDate <- as.Date(as.character(cases_countrydata$NewDate))
+  cases_countrydata$Timeline <- as.Date(as.character(cases_countrydata$Timeline))
   
   
   #########################################
@@ -202,7 +202,7 @@ function(input, output) {
     
     #ggplot(aes(NewDate, Numericvalue)) + geom_point(aes(colour=Country)) + theme(axis.text.x = element_text(size = 6, angle = 90, hjust = 1)) 
       
-    ggplot(aes(NewDate, Numericvalue)) + geom_point(aes(colour=Country)) 
+    ggplot(aes(Timeline, Value)) + geom_point(aes(colour=Country)) 
       
       
   })
@@ -214,7 +214,7 @@ function(input, output) {
     
     cases_countrydata %>%
       
-      ggplot(aes(NewDate, Value)) + geom_point(aes(colour=Country))
+      ggplot(aes(Timeline, Value)) + geom_point(aes(colour=Country))
     
     
   })
