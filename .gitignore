@@ -4,6 +4,8 @@
 
 *.Rproj*
 
+*.Rproj*
+
 # Session Data files
 .RData
 
