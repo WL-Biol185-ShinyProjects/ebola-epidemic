@@ -1,6 +1,8 @@
 library(shiny)
 library(shinydashboard)
-
+library(dplyr)
+library(leaflet)
+library(scales)
 #####################################################
 datavariable <- read.table("datafordeathfile")
 
