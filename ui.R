@@ -14,6 +14,7 @@ casesdata <- read.table("c_w_casesfile")
 
 cases_countrydata <- read.table("national_casesfile")
 
+
 #########################################################
 
 datavariable$Timeline <- as.Date(as.character(datavariable$Timeline))
@@ -120,7 +121,7 @@ In organizing our data we discovered the importance of data reporting and data e
                     br(),
                     br(),
                     p("This is...."))
-              
+    
               
               
               )),

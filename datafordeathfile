@@ -180,7 +180,7 @@
 "179" "Liberia" "Lofa County" "Deaths" 25 "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -9.7232673 8.1911184 "deaths" 14-06-26 -714238 "25" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "180" "Liberia" "Margibi County" "Deaths" 1 "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -10.3048897 6.5151875 "deaths" 14-06-26 -714238 "1" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "181" "Liberia" "Montserrado County" "Deaths" 20 "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -10.5296115 6.5525815 "deaths" 14-06-26 -714238 "20" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"182" "Liberia" "Nimba County" "Deaths" NA "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -8.6600586 6.8427612 "deaths" 14-06-26 -714238 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"182" "Liberia" "Nimba County" "Deaths" NA "6/26/14" "Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Liberia%20Sitrep%20no%2043%20June%2026%202014.pdf" -8.6600586 6.8427612 "deaths" 14-06-26 -714238 " " 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "183" "Guinea" "Boffa" "Deaths" 15 "6/27/14" "WHO; Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Guinea_Ebola_Sit_Rep_n73%20du%2028_juin_2014%20update.pdf" -14.0391615 10.1808254 "deaths" 14-06-27 -714237 "15" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "184" "Guinea" "Conakry" "Deaths" 33 "6/27/14" "WHO; Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Guinea_Ebola_Sit_Rep_n73%20du%2028_juin_2014%20update.pdf" -13.5784012 9.6411855 "deaths" 14-06-27 -714237 "33" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "185" "Guinea" "Dabola " "Deaths" 4 "6/27/14" "WHO; Gvt" "https://wca.humanitarianresponse.info/fr/system/files/documents/files/Guinea_Ebola_Sit_Rep_n73%20du%2028_juin_2014%20update.pdf" -11.1107854 10.7297806 "deaths" 14-06-27 -714237 "4" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
@@ -295,20 +295,20 @@
 "294" "Sierra Leone" "Moyamba" "Deaths" 3 "8/19/14" "Gvt" "Sitrep 20Aout" -12.4351923 8.1620514 "deaths" 14-08-19 -714184 "3" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "295" "Sierra Leone" "Port Loko" "Deaths" 3 "8/19/14" "Gvt" "Sitrep 20Aout" -12.7853522 8.7686886 "deaths" 14-08-19 -714184 "3" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "296" "Sierra Leone" "Western Area Urban" "Deaths" 4 "8/19/14" "Gvt" "Sitrep 20Aout" -13.2432632 8.4545561 "deaths" 14-08-19 -714184 "4" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"297" "Guinea" "Boffa" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -14.0391615 10.1808254 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"298" "Guinea" "Conakry" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.5784012 9.6411855 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"299" "Guinea" "Dabola" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -11.1107854 10.7297806 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"300" "Guinea" "Dinguiraye" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.7154228 11.2899514 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"301" "Guinea" "Dubreka" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.5147735 9.7907348 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"302" "Guinea" "Gueckedou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.1311163 8.5649688 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"303" "Guinea" "Kissidougou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.1143176 9.1914538 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"304" "Guinea" "Kouroussa" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.8850586 10.6489229 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"305" "Guinea" "Macenta" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.4728244 8.538294 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"306" "Guinea" "Nzerekore" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -8.8252502 7.7478359 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"307" "Guinea" "Pita" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -12.39498 11.05912 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"308" "Guinea" "Siguiri" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.1788304 11.4148113 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"309" "Guinea" "Telimele" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.0299331 10.9089364 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"310" "Guinea" "Yomou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.2591571 7.5696279 "deaths" 14-08-20 -714183 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"297" "Guinea" "Boffa" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -14.0391615 10.1808254 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"298" "Guinea" "Conakry" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.5784012 9.6411855 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"299" "Guinea" "Dabola" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -11.1107854 10.7297806 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"300" "Guinea" "Dinguiraye" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.7154228 11.2899514 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"301" "Guinea" "Dubreka" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.5147735 9.7907348 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"302" "Guinea" "Gueckedou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.1311163 8.5649688 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"303" "Guinea" "Kissidougou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -10.1143176 9.1914538 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"304" "Guinea" "Kouroussa" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.8850586 10.6489229 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"305" "Guinea" "Macenta" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.4728244 8.538294 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"306" "Guinea" "Nzerekore" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -8.8252502 7.7478359 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"307" "Guinea" "Pita" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -12.39498 11.05912 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"308" "Guinea" "Siguiri" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.1788304 11.4148113 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"309" "Guinea" "Telimele" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -13.0299331 10.9089364 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"310" "Guinea" "Yomou" "Deaths" NA "8/20/14" "WHO" "Guinea TC 21Aout" -9.2591571 7.5696279 "deaths" 14-08-20 -714183 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "311" "Liberia" "Bomi County" "Deaths" 14 "8/20/14" "Gvt" "Sitrep 97 du 20Aout" -10.8451467 6.7562926 "deaths" 14-08-20 -714183 "14" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "312" "Liberia" "Bong County" "Deaths" 34 "8/20/14" "Gvt" "Sitrep 97 du 20Aout" -9.3673084 6.8295019 "deaths" 14-08-20 -714183 "34" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "313" "Liberia" "Grand Bassa" "Deaths" 2 "8/20/14" "Gvt" "Sitrep 97 du 20Aout" -9.8124935 6.2308452 "deaths" 14-08-20 -714183 "2" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
@@ -1219,21 +1219,21 @@
 "1218" "Guinea" "Siguiri" "Deaths" 3 "9/20/14" "Gvt" "Sitrep158 21Sep" -9.1788304 11.4148113 "deaths" 14-09-20 -714152 "3" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "1219" "Guinea" "Telimele" "Deaths" 10 "9/20/14" "Gvt" "Sitrep158 21Sep" -13.0299331 10.9089364 "deaths" 14-09-20 -714152 "10" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "1220" "Guinea" "Yomou" "Deaths" 5 "9/20/14" "Gvt" "Sitrep158 21Sep" -9.2591571 7.5696279 "deaths" 14-09-20 -714152 "5" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"1221" "Liberia" "Bomi County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.8451467 6.7562926 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1222" "Liberia" "Bong County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.3673084 6.8295019 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1223" "Liberia" "Gbarpolu County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.0807298 7.4952637 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1224" "Liberia" "Grand Bassa" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.8124935 6.2308452 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1225" "Liberia" "Grand Cape Mount" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -11.0711758 7.0467758 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1226" "Liberia" "Grand Gedeh" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.2212979 5.9222078 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1227" "Liberia" "Grand Kru" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.2212979 4.7613862 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1228" "Liberia" "Lofa County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.7232673 8.1911184 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1229" "Liberia" "Margibi County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.3048897 6.5151875 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1230" "Liberia" "Maryland County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -76.6064396 39.400392 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1231" "Liberia" "Montserrado County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.5296115 6.5525815 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1232" "Liberia" "Nimba County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.6600586 6.8427612 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1233" "Liberia" "River Gee County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -7.87216 5.2604894 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1234" "Liberia" "RiverCess County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.456155 5.9025328 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
-"1235" "Liberia" "Sinoe County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.6600586 5.49871 "deaths" 14-09-20 -714152 NA 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1221" "Liberia" "Bomi County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.8451467 6.7562926 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1222" "Liberia" "Bong County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.3673084 6.8295019 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1223" "Liberia" "Gbarpolu County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.0807298 7.4952637 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1224" "Liberia" "Grand Bassa" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.8124935 6.2308452 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1225" "Liberia" "Grand Cape Mount" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -11.0711758 7.0467758 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1226" "Liberia" "Grand Gedeh" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.2212979 5.9222078 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1227" "Liberia" "Grand Kru" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.2212979 4.7613862 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1228" "Liberia" "Lofa County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.7232673 8.1911184 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1229" "Liberia" "Margibi County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.3048897 6.5151875 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1230" "Liberia" "Maryland County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -76.6064396 39.400392 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1231" "Liberia" "Montserrado County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -10.5296115 6.5525815 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1232" "Liberia" "Nimba County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.6600586 6.8427612 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1233" "Liberia" "River Gee County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -7.87216 5.2604894 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1234" "Liberia" "RiverCess County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -9.456155 5.9025328 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
+"1235" "Liberia" "Sinoe County" "Deaths" NA "9/20/14" "Gvt" "http://www.mohsw.gov.lr/documents/Liberia%20Ebola%20SitRep%20128%20Sept%2020,%202014.pdf" -8.6600586 5.49871 "deaths" 14-09-20 -714152 "" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "1236" "Nigeria" "Lagos" "Deaths" 6 "9/20/14" "Gvt" "Sitrep 52 du 20Sep" 3.3792057 6.5243793 "deaths" 14-09-20 -714152 "6" 4.8 3005.51 47.8 3.7 42.7 80.8 25.4 32.8 25.4
 "1237" "Nigeria" "Rivers" "Deaths" 2 "9/20/14" "Gvt" "Sitrep 52 du 20Sep" 6.9209135 4.8580767 "deaths" 14-09-20 -714152 "2" 4.8 3005.51 47.8 3.7 42.7 80.8 25.4 32.8 25.4
 "1238" "Sierra Leone" "Bo" "Deaths" 16 "9/20/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/09/Ebola-Situation-Report_Vol-116.pdf" -11.73858 7.954042 "deaths" 14-09-20 -714152 "16" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
@@ -3072,29 +3072,29 @@
 "3071" "Sierra Leone" "Tonkolili" "Deaths" 80 "11/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-164.pdf" -11.7979613 8.7389416 "deaths" 14-11-07 -714104 "80" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3072" "Sierra Leone" "Western area rural" "Deaths" 104 "11/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-164.pdf" -13.035694 8.3114983 "deaths" 14-11-07 -714104 "104" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3073" "Sierra Leone" "Western area urban" "Deaths" 112 "11/7/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-164.pdf" -13.2432632 8.4545561 "deaths" 14-11-07 -714104 "112" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3074" "Guinea" "Beyla" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.6435589 8.6884098 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3075" "Guinea" "Boffa" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -14.0391615 10.1808254 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3076" "Guinea" "Boke" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -14.1001326 11.1864672 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3077" "Guinea" "Conakry" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.5784012 9.6411855 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3078" "Guinea" "Coyah" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.3876116 9.7086357 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3079" "Guinea" "Dabola" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -11.1107854 10.7297806 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3080" "Guinea" "Dalaba" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.2490697 10.6868176 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3081" "Guinea" "Dinguiraye" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.7154228 11.2899514 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3082" "Guinea" "Dubreka" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.5147735 9.7907348 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3083" "Guinea" "Faranah" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.7492466 10.0451022 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3084" "Guinea" "Gueckedou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.1311163 8.5649688 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3085" "Guinea" "Kankan" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.3118282 10.3827887 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3086" "Guinea" "Kerouane" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.0073673 9.2702601 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3087" "Guinea" "Kindia" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.8629885 10.0406725 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3088" "Guinea" "Kissidougou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.1143176 9.1914538 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3089" "Guinea" "Kouroussa" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.8850586 10.6489229 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3090" "Guinea" "Lola" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.32 7.4839 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3091" "Guinea" "Macenta" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.4728244 8.538294 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3092" "Guinea" "Nzerekore" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.8252502 7.7478359 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3093" "Guinea" "Pita" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.39498 11.05912 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3094" "Guinea" "Siguiri" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.1788304 11.4148113 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3095" "Guinea" "Telimele" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.0299331 10.9089364 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3096" "Guinea" "Yomou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.2591571 7.5696279 "deaths" 14-11-08 -714103 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3074" "Guinea" "Beyla" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.6435589 8.6884098 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3075" "Guinea" "Boffa" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -14.0391615 10.1808254 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3076" "Guinea" "Boke" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -14.1001326 11.1864672 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3077" "Guinea" "Conakry" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.5784012 9.6411855 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3078" "Guinea" "Coyah" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.3876116 9.7086357 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3079" "Guinea" "Dabola" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -11.1107854 10.7297806 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3080" "Guinea" "Dalaba" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.2490697 10.6868176 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3081" "Guinea" "Dinguiraye" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.7154228 11.2899514 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3082" "Guinea" "Dubreka" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.5147735 9.7907348 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3083" "Guinea" "Faranah" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.7492466 10.0451022 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3084" "Guinea" "Gueckedou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.1311163 8.5649688 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3085" "Guinea" "Kankan" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.3118282 10.3827887 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3086" "Guinea" "Kerouane" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.0073673 9.2702601 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3087" "Guinea" "Kindia" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.8629885 10.0406725 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3088" "Guinea" "Kissidougou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -10.1143176 9.1914538 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3089" "Guinea" "Kouroussa" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.8850586 10.6489229 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3090" "Guinea" "Lola" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.32 7.4839 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3091" "Guinea" "Macenta" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.4728244 8.538294 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3092" "Guinea" "Nzerekore" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -8.8252502 7.7478359 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3093" "Guinea" "Pita" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -12.39498 11.05912 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3094" "Guinea" "Siguiri" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.1788304 11.4148113 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3095" "Guinea" "Telimele" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -13.0299331 10.9089364 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3096" "Guinea" "Yomou" "Deaths" NA "11/8/14" "gvt" "Sitrep 207 08Nov" -9.2591571 7.5696279 "deaths" 14-11-08 -714103 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3097" "Liberia" "Bomi County" "Deaths" 97 "11/8/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20177%20Nov%208th%202014.pdf" -10.8451467 6.7562926 "deaths" 14-11-08 -714103 "97" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "3098" "Liberia" "Bong County" "Deaths" 87 "11/8/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20177%20Nov%208th%202014.pdf" -9.3673084 6.8295019 "deaths" 14-11-08 -714103 "87" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
 "3099" "Liberia" "Gbarpolu County" "Deaths" 5 "11/8/14" "Gvt" "http://www.mohsw.gov.lr/documents/SITRep%20177%20Nov%208th%202014.pdf" -10.0807298 7.4952637 "deaths" 14-11-08 -714103 "5" 4.97 454.13 49.7 10 5.4 88.7 62.6 28 5.9
@@ -3124,43 +3124,43 @@
 "3123" "Sierra Leone" "Tonkolili" "Deaths" 80 "11/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-165.pdf" -11.7979613 8.7389416 "deaths" 14-11-08 -714103 "80" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3124" "Sierra Leone" "Western area rural" "Deaths" 105 "11/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-165.pdf" -13.035694 8.3114983 "deaths" 14-11-08 -714103 "105" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3125" "Sierra Leone" "Western area urban" "Deaths" 114 "11/8/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Situation-Report_Vol-165.pdf" -13.2432632 8.4545561 "deaths" 14-11-08 -714103 "114" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3126" "Guinea" "Beyla" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.6435589 8.6884098 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3127" "Guinea" "Boffa" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -14.0391615 10.1808254 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3128" "Guinea" "Boke" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -14.1001326 11.1864672 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3129" "Guinea" "Conakry" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.5784012 9.6411855 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3130" "Guinea" "Coyah" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.3876116 9.7086357 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3131" "Guinea" "Dabola" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -11.1107854 10.7297806 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3132" "Guinea" "Dalaba" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.2490697 10.6868176 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3133" "Guinea" "Dinguiraye" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.7154228 11.2899514 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3134" "Guinea" "Dubreka" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.5147735 9.7907348 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3135" "Guinea" "Faranah" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.7492466 10.0451022 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3136" "Guinea" "Gueckedou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.1311163 8.5649688 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3137" "Guinea" "Kankan" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.3118282 10.3827887 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3138" "Guinea" "Kerouane" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.0073673 9.2702601 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3139" "Guinea" "Kindia" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.8629885 10.0406725 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3140" "Guinea" "Kissidougou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.1143176 9.1914538 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3141" "Guinea" "Kouroussa" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.8850586 10.6489229 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3142" "Guinea" "Lola" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.32 7.4839 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3143" "Guinea" "Macenta" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.4728244 8.538294 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3144" "Guinea" "Nzerekore" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.8252502 7.7478359 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3145" "Guinea" "Pita" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.39498 11.05912 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3146" "Guinea" "Siguiri" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.1788304 11.4148113 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3147" "Guinea" "Telimele" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.0299331 10.9089364 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3148" "Guinea" "Yomou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.2591571 7.5696279 "deaths" 14-11-09 -714102 NA 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3149" "Sierra Leone" "Bo" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.73858 7.954042 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3150" "Sierra Leone" "Bombali" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.1632718 9.2475837 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3151" "Sierra Leone" "Bonthe" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.5039922 7.5257028 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3152" "Sierra Leone" "Kailahun" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -10.5718086 8.2802196 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3153" "Sierra Leone" "Kambia" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.9176518 9.1261664 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3154" "Sierra Leone" "Kenema" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.1957172 7.8632147 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3155" "Sierra Leone" "Koinadugu" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.5248055 9.5308619 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3156" "Sierra Leone" "Kono" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" 7.5044203 4.5990187 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3157" "Sierra Leone" "Moyamba" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.4351923 8.1620514 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3158" "Sierra Leone" "Port Loko" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.7853522 8.7686886 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3159" "Sierra Leone" "Pujehun" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.6157773 7.3723295 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3160" "Sierra Leone" "Tonkolili" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.7979613 8.7389416 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3161" "Sierra Leone" "Western area rural" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -13.035694 8.3114983 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3162" "Sierra Leone" "Western area urban" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -13.2432632 8.4545561 "deaths" 14-11-09 -714102 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3126" "Guinea" "Beyla" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.6435589 8.6884098 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3127" "Guinea" "Boffa" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -14.0391615 10.1808254 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3128" "Guinea" "Boke" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -14.1001326 11.1864672 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3129" "Guinea" "Conakry" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.5784012 9.6411855 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3130" "Guinea" "Coyah" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.3876116 9.7086357 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3131" "Guinea" "Dabola" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -11.1107854 10.7297806 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3132" "Guinea" "Dalaba" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.2490697 10.6868176 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3133" "Guinea" "Dinguiraye" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.7154228 11.2899514 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3134" "Guinea" "Dubreka" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.5147735 9.7907348 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3135" "Guinea" "Faranah" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.7492466 10.0451022 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3136" "Guinea" "Gueckedou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.1311163 8.5649688 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3137" "Guinea" "Kankan" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.3118282 10.3827887 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3138" "Guinea" "Kerouane" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.0073673 9.2702601 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3139" "Guinea" "Kindia" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.8629885 10.0406725 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3140" "Guinea" "Kissidougou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -10.1143176 9.1914538 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3141" "Guinea" "Kouroussa" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.8850586 10.6489229 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3142" "Guinea" "Lola" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.32 7.4839 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3143" "Guinea" "Macenta" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.4728244 8.538294 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3144" "Guinea" "Nzerekore" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -8.8252502 7.7478359 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3145" "Guinea" "Pita" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -12.39498 11.05912 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3146" "Guinea" "Siguiri" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.1788304 11.4148113 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3147" "Guinea" "Telimele" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -13.0299331 10.9089364 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3148" "Guinea" "Yomou" "Deaths" NA "11/9/14" "gvt" "Sitrep 208 09Nov" -9.2591571 7.5696279 "deaths" 14-11-09 -714102 "" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
+"3149" "Sierra Leone" "Bo" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.73858 7.954042 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3150" "Sierra Leone" "Bombali" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.1632718 9.2475837 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3151" "Sierra Leone" "Bonthe" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.5039922 7.5257028 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3152" "Sierra Leone" "Kailahun" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -10.5718086 8.2802196 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3153" "Sierra Leone" "Kambia" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.9176518 9.1261664 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3154" "Sierra Leone" "Kenema" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.1957172 7.8632147 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3155" "Sierra Leone" "Koinadugu" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.5248055 9.5308619 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3156" "Sierra Leone" "Kono" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" 7.5044203 4.5990187 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3157" "Sierra Leone" "Moyamba" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.4351923 8.1620514 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3158" "Sierra Leone" "Port Loko" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -12.7853522 8.7686886 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3159" "Sierra Leone" "Pujehun" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.6157773 7.3723295 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3160" "Sierra Leone" "Tonkolili" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -11.7979613 8.7389416 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3161" "Sierra Leone" "Western area rural" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -13.035694 8.3114983 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3162" "Sierra Leone" "Western area urban" "Deaths" NA "11/9/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-9-2014.pdf" -13.2432632 8.4545561 "deaths" 14-11-09 -714102 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3163" "Guinea" "Beyla" "Deaths" 18 "11/10/14" "gvt" "Sitrep 209 10Nov" -8.6435589 8.6884098 "deaths" 14-11-10 -714101 "18" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3164" "Guinea" "Boffa" "Deaths" 16 "11/10/14" "gvt" "Sitrep 209 10Nov" -14.0391615 10.1808254 "deaths" 14-11-10 -714101 "16" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3165" "Guinea" "Conakry" "Deaths" 108 "11/10/14" "gvt" "Sitrep 209 10Nov" -13.5784012 9.6411855 "deaths" 14-11-10 -714101 "108" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
@@ -3219,20 +3219,20 @@
 "3218" "Guinea" "Siguiri" "Deaths" 7 "11/11/14" "gvt" "Sitrep 210 11Nov" -9.1788304 11.4148113 "deaths" 14-11-11 -714100 "7" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3219" "Guinea" "Telimele" "Deaths" 10 "11/11/14" "gvt" "Sitrep 210 11Nov" -13.0299331 10.9089364 "deaths" 14-11-11 -714100 "10" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3220" "Guinea" "Yomou" "Deaths" 6 "11/11/14" "gvt" "Sitrep 210 11Nov" -9.2591571 7.5696279 "deaths" 14-11-11 -714100 "6" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
-"3221" "Sierra Leone" "Bo" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.73858 7.954042 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3222" "Sierra Leone" "Bombali" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.1632718 9.2475837 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3223" "Sierra Leone" "Bonthe" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.5039922 7.5257028 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3224" "Sierra Leone" "Kailahun" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -10.5718086 8.2802196 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3225" "Sierra Leone" "Kambia" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.9176518 9.1261664 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3226" "Sierra Leone" "Kenema" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.1957172 7.8632147 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3227" "Sierra Leone" "Koinadugu" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.5248055 9.5308619 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3228" "Sierra Leone" "Kono" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" 7.5044203 4.5990187 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3229" "Sierra Leone" "Moyamba" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.4351923 8.1620514 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3230" "Sierra Leone" "Port Loko" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.7853522 8.7686886 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3231" "Sierra Leone" "Pujehun" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.6157773 7.3723295 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3232" "Sierra Leone" "Tonkolili" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.7979613 8.7389416 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3233" "Sierra Leone" "Western area rural" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -13.035694 8.3114983 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
-"3234" "Sierra Leone" "Western area urban" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -13.2432632 8.4545561 "deaths" 14-11-11 -714100 NA 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3221" "Sierra Leone" "Bo" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.73858 7.954042 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3222" "Sierra Leone" "Bombali" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.1632718 9.2475837 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3223" "Sierra Leone" "Bonthe" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.5039922 7.5257028 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3224" "Sierra Leone" "Kailahun" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -10.5718086 8.2802196 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3225" "Sierra Leone" "Kambia" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.9176518 9.1261664 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3226" "Sierra Leone" "Kenema" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.1957172 7.8632147 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3227" "Sierra Leone" "Koinadugu" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.5248055 9.5308619 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3228" "Sierra Leone" "Kono" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" 7.5044203 4.5990187 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3229" "Sierra Leone" "Moyamba" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.4351923 8.1620514 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3230" "Sierra Leone" "Port Loko" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -12.7853522 8.7686886 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3231" "Sierra Leone" "Pujehun" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.6157773 7.3723295 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3232" "Sierra Leone" "Tonkolili" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -11.7979613 8.7389416 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3233" "Sierra Leone" "Western area rural" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -13.035694 8.3114983 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
+"3234" "Sierra Leone" "Western area urban" "Deaths" NA "11/11/14" "Gvt" "http://health.gov.sl/wp-content/uploads/2014/11/Ebola-Update-November-11-2014.pdf" -13.2432632 8.4545561 "deaths" 14-11-11 -714100 "" 5.56 678.96 39.9 11.1 2.1 84.9 47.8 22.9 6.9
 "3235" "Guinea" "Beyla" "Deaths" 19 "11/12/14" "gvt" "Sitrep 211 11Nov" -8.6435589 8.6884098 "deaths" 14-11-12 -714099 "19" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3236" "Guinea" "Boffa" "Deaths" 16 "11/12/14" "gvt" "Sitrep 211 11Nov" -14.0391615 10.1808254 "deaths" 14-11-12 -714099 "16" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
 "3237" "Guinea" "Conakry" "Deaths" 109 "11/12/14" "gvt" "Sitrep 211 11Nov" -13.5784012 9.6411855 "deaths" 14-11-12 -714099 "109" 8.74 523.12 37.2 5.6 1.7 92.7 67.4 34.1 11.8
