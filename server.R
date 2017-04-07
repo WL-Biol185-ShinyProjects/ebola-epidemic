@@ -207,6 +207,9 @@ function(input, output) {
       
   })
   
+  output$summary <- renderPrint({
+    summary(data())
+  })
   
 #################################################  
   
@@ -216,11 +219,12 @@ function(input, output) {
       
       ggplot(aes(Timeline, Value)) + geom_point(aes(colour=Country))
     
-    
+  
   })
   
-  
-  
+  output$summary <- renderPrint({
+    summary(data())
+  })
   
    
 ######################################################  
