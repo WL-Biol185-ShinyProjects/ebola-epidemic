@@ -249,9 +249,11 @@ In organizing our data we discovered the importance of data reporting and data e
                        tabPanel("Deaths", plotOutput("country_graph", height = "400")),
                        tabPanel("Cases", plotOutput("casescountrygraph", height = "400")))),
                 
-               tabBox("Summary", id = "summary", width = 12,  
-                        tabPanel("Deaths Summary", verbatimTextOutput("summary")))
-                        #tabPanel("Cases Summary", verbatimTextOutput("summary")))  
+              fluidRow( 
+              
+              tabBox("Summary", id = "summary", width = 12,  
+                        tabPanel("Deaths Summary", verbatimTextOutput("summary"))))
+                        #tabPanel("Cases Summary", verbatimTextOutput("summary"))))  
                 
                 
                 ),
