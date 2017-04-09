@@ -207,9 +207,9 @@ function(input, output) {
       
   })
   
-  output$summary <- renderPrint({
-    summary(countrydata)
-  })
+  #output$summary <- renderPrint({
+    #summary(countrydata)
+  #})
   
 #################################################  
   
