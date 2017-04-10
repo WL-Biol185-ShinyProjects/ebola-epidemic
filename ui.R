@@ -3,6 +3,8 @@ library(shinydashboard)
 library(dplyr)
 library(leaflet)
 library(scales)
+library(ggplot2)
+
 #####################################################
 datavariable <- read.table("datafordeathfile")
 

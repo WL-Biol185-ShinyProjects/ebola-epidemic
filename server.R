@@ -3,7 +3,7 @@ library(shinydashboard)
 library(dplyr)
 library(leaflet)
 library(scales)
-
+library(ggplot2)
 
 function(input, output) {
   #####################################################
