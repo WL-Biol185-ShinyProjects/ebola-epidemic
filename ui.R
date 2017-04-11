@@ -122,11 +122,33 @@ In organizing our data we discovered the importance of data reporting and data e
                     a("Click here to download original datatable", href="https://data.humdata.org/dataset/rowca-ebola-cases"),
                     br(),
                     br(),
-                    p("This is...."))
+                    p("To download our data table regarding total deaths per localite, click below."),
+                    br(),
+                    downloadButton("downloaddeathlocalite"),
+                    br(),
+                    br(),
+                    p("To download our data table regarding total cases per localite, click below."),
+                    br(),
+                    downloadButton("downloadcaseslocalite"),
+                    br(),
+                    br(),
+                    p("To download our data table regarding the total deaths per country, click below"),
+                    br(),
+                    downloadButton("downloaddeathcountry"),
+                    br(), 
+                    br(),
+                    p("To download our data table regarding the total cases per country, click below"),
+                    br(), 
+                    downloadButton("downloadcasescountry"),
+                    br(), 
+                    br(),
+                    p("To download our data table regarding selected socio-economic data for the affected countries, click below"),
+                    br(), 
+                    downloadButton("downloadsocio")
     
               
               
-              )),
+              ))),
   
   
   

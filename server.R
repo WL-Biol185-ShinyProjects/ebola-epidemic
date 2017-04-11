@@ -245,9 +245,35 @@ function(input, output) {
   
   
   
-  
+  output$downloaddeathlocalite <- downloadHandler( filename = "deathbylocalite.txt",
+                                           content = function(file) {
+                                             write.csv(datafordeathfile, file=file)
+                                           })
   
 
+  output$downloadcaseslocalite <- downloadHandler( filename = "casesbylocalite.txt",
+                                                   content = function(file) {
+                                                     write.csv(c_w_casesfile, file=file)
+                                                   })
+  
+  
+  
+  output$downloaddeathcountry <- downloadHandler( filename = "deathbycountry.txt",
+                                                   content = function(file) {
+                                                     write.csv(c_w_nationalfile, file=file)
+                                                   })
+  
+  
+  output$downloadcasescountry <- downloadHandler( filename = "casesbycountry.txt",
+                                                  content = function(file) {
+                                                    write.csv(national_casesfile, file=file)
+                                                  })
+  
+  output$downloadsocio <- downloadHandler( filename = "socioeconomicbycountry.txt",
+                                                  content = function(file) {
+                                                    write.csv(EbolaGDPfile, file=file)
+                                                  })
+  
 
 }
 
