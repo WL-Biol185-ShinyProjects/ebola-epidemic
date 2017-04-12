@@ -95,11 +95,11 @@ dashboardPage(skin = "green",
 Due to both our interest in medicinal science and spread of infectious disease we decided to focus our project on this outbreak.")
                     
                     ),
-                box(background = "green", img(src = "Ebloa.jpg")))),
+                box(background = "green", img(src = "Ebloa.jpg", style = "max-width: 100%;")))),
                 
                 
                 fluidRow(
-                box(background = "green", width=8, img(src = "ebola_ecology_800px.jpg")))
+                box(background = "green", width=8, img(src = "ebola_ecology_800px.jpg", style = "max-width: 100%;")))
                 
               
               
