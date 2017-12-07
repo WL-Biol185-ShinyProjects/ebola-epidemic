@@ -155,175 +155,176 @@ In organizing our data we discovered the importance of data reporting and data e
  ########################### 
   
   tabItem("dashboard",
-              
-              
+
+
           fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total deaths that occured in each localite. The radius of the blue circles represent the value of the amount of people that have died in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of deaths. It should be noted that from June 27th to August 14th reaserchers only collected data on a national scale, so there is a lack of data for this time period.")
-            
-            
+
+
           )),
-          
-          
+
+
           fluidRow(
                  box(background = "black", leafletOutput("Map", height = 400)),
-                 
-                 
-                 
+
+
+
                  box(title = "Controls", background = "black", status = "primary",
-                     
-                     sliderInput("Dateslider", "Looping Animation:", 
-                                 min(datavariable$Timeline), 
-                                 max(datavariable$Timeline), 
+
+                     sliderInput("Dateslider", "Looping Animation:",
                                  min(datavariable$Timeline),
-                                 step = 1, 
+                                 max(datavariable$Timeline),
+                                 min(datavariable$Timeline),
+                                 step = 1,
                                  animate=
                                    animationOptions(interval=75, loop=TRUE)),
-                 
-                 
-                     
-                     
+
+
+
+
                      sliderInput("Localitegraphslider", "Graph Slider",
-                             min = min(datavariable$Timeline), 
+                             min = min(datavariable$Timeline),
                              max = max(datavariable$Timeline),
                              value = min(datavariable$Timeline)),
-                     
-                     
-                     selectInput("selectsociodeath", label = ("Size by Socio-Economic Data"), 
+
+
+                     selectInput("selectsociodeath", label = ("Size by Socio-Economic Data"),
                                  choices = colnames(datavariable)[14:18]),
-                     
-                     selectInput("selectcolordeath", label = ("Color by Localite or Country"), 
+
+                     selectInput("selectcolordeath", label = ("Color by Localite or Country"),
                                  choices = colnames(datavariable)[1:2]))
-                   
-                
-              
+
+
+
                  ),
-               
-               
+
+
               fluidRow(
                  box(title = "The Total Number of Deaths up Until Date Selected", height = 700, width = 12, background = "blue", plotOutput("death_graph", height = "600")))),
-    
-    
-####################################    
+
+
+####################################
 
       tabItem("Cases",
-              
-              
+
+
               fluidRow(box(background = "blue", width = 12, p("This page shows an animated geographical spread of the total number of cases that occured in each localite. The radius of the blue circles represent the value of the amount of people that were diagnosed in that specific place up to that point. The graph at the bottom shows the same information as the map and is controlled by the second date slider. Be sure to use the play button and to investigate how the socioeconomic data correlates with the number of cases. It should be noted that from June 27th to August 14th reaserchers only collected data on a national scale, so there is a lack of data for this time period. ")
               )),
-              
+
               fluidRow(
                 box(background = "black", leafletOutput("casesMap", height = 400)),
-                
+
                 box(
                   title = "Controls", background = "black", status = "primary",
-                 
-                  
-                  sliderInput("casesslider", "Looping Animation:", 
-                              min(casesdata$Timeline), 
-                              max(casesdata$Timeline), 
+
+
+                  sliderInput("casesslider", "Looping Animation:",
                               min(casesdata$Timeline),
-                              step = 1, 
+                              max(casesdata$Timeline),
+                              min(casesdata$Timeline),
+                              step = 1,
                               animate=
                                 animationOptions(interval=75, loop=TRUE)),
-                  
+
                   sliderInput("casesgraphslider", "Graph Slider",
-                              
-                              min = min(casesdata$Timeline), 
-                              max = max(casesdata$Timeline), 
+
+                              min = min(casesdata$Timeline),
+                              max = max(casesdata$Timeline),
                               value = min(casesdata$Timeline)),
-                  
-                  
-                  selectInput("selectsociocases", label = ("Size by Socio-Economic Data"), 
+
+
+                  selectInput("selectsociocases", label = ("Size by Socio-Economic Data"),
                               choices = colnames(casesdata)[12:16]),
-                  
-                  selectInput("selectcolorcases", label = ("Color by Localite or Country"), 
+
+                  selectInput("selectcolorcases", label = ("Color by Localite or Country"),
                               choices = colnames(casesdata)[1:2])
-                  
+
                   )
               ),
-              
-              
-              
+
+
+
               fluidRow(
                 box(title = "The Total Number of Cases up Until Date Selected", height = 700, width= 12, background = "blue", plotOutput("cases_graph", height = "600")))),
-      
-      
-#####################################################################      
-    
+
+
+# #####################################################################      
+
       tabItem("Country",
-            
-              
+
+
               fluidRow(
-                box(width = 12, background = "black",p("The plots printed out below show an overview of the rise of deaths and total cases in each of the countries."))
-                
+                box(width = 12, background = "black", p("The plots printed out below show an overview of the rise of deaths and total cases in each of the countries."))
+
               ),
-              
+
               fluidRow(
-                
+
                #box(title = "Total Deaths", width = 12, background = "blue",
               #plotOutput("country_graph", height = "400", width = "1000"))),
-              
-              
+
+
               #fluidRow(
                 #box(title = "Total Cases", width = 12, background = "blue",
                #plotOutput("casescountrygraph", height = "400", width = "1000")))
-              
-              
-                tabBox("National Data", id= "national", width = 12,
-                       
+
+
+                tabBox(id= "national", width = 12,
                        tabPanel("Deaths", plotOutput("country_graph", height = "400")),
-                       tabPanel("Cases", plotOutput("casescountrygraph", height = "400"))))#,
-                
-              #fluidRow( 
-              
-              #tabBox("Summary", id = "summary", width = 12,  
+                       tabPanel("Cases", plotOutput("casescountrygraph", height = "400"))
+                )
+              )
+
+              #fluidRow(
+
+              #tabBox("Summary", id = "summary", width = 12,
                         #tabPanel("Deaths Summary", verbatimTextOutput("summary"))))
-                        #tabPanel("Cases Summary", verbatimTextOutput("summary"))))  
-                
-                
+                        #tabPanel("Cases Summary", verbatimTextOutput("summary"))))
+
+
                 ),
-                
-                
-                
-              
-              
-      
-              
-              
-
-#################################################################################
 
 
 
 
-              
-      tabItem("Socio",        
-              
+
+
+
+
+
+# #################################################################################
+
+
+
+
+
+      tabItem("Socio",
+
               fluidRow(box(width = 12, background= "blue", p("If you are interested in how two of the socioeconomic data types interact with eachother, use the two select boxes below to chagne the x and y variables on the corresponding graph. Enjoy!")
-                
-                
-              )),          
-                
+
+
+              )),
+
               fluidRow(
-             
-                  
-              box(width = 12, status = "primary", background = "black", 
-                  
-                  selectInput("selectX", label = ("Select box for X"), 
-                              choices = colnames(sociodata)), 
-                              
-              
-                
-                      
+
+
+              box(width = 12, status = "primary", background = "black",
+
+                  selectInput("selectX", label = ("Select box for X"),
+                              choices = colnames(sociodata)),
+
+
+
+
                   selectInput("selectY", label = ("Select box for Y"),
                               choices = colnames(sociodata)))),
-              
-              
-              
-              
+
+
+
+
               fluidRow(box(width = 12, background = "blue",
-                
+
                 plotOutput("GDPgraph", height = "400"))
-                      
+
               )),
   
 ################################      
